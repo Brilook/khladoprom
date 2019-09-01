@@ -1,0 +1,13 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^khladoprom\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.khladoprom\.com$
+RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
+RewriteCond %{REQUEST_URI} !^/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteRule ^/?$ "http\:\/\/khladoprom\.com\.ua" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^icecream\.ua$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.icecream\.ua$
+RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
+RewriteCond %{REQUEST_URI} !^/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteRule ^/?$ "http\:\/\/khladoprom\.com\.ua" [R=301,L]

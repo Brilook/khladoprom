@@ -1,0 +1,365 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201612 will be lost/reset.
+# Last config file used to build this data file was /home/khladopr/tmp/awstats/ssl/awstats.khladoprom.com.ua.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2018                
+POS_TIME 2679                
+POS_VISITOR 7148                
+POS_DAY 9078                
+POS_DOMAIN 3458                
+POS_LOGIN 3803                
+POS_ROBOT 3958                
+POS_WORMS 4346                
+POS_EMAILSENDER 4477                
+POS_EMAILRECEIVER 4620                
+POS_SESSION 9493                
+POS_SIDER 9670                
+POS_FILETYPES 4755                
+POS_DOWNLOADS 4929                
+POS_OS 4977                
+POS_BROWSER 5148                
+POS_SCREENSIZE 5651                
+POS_UNKNOWNREFERER 5725                
+POS_UNKNOWNREFERERBROWSER 5812                
+POS_ORIGIN 5894                
+POS_SEREFERRALS 6029                
+POS_PAGEREFS 6197                
+POS_SEARCHWORDS 6381                
+POS_KEYWORDS 6533                
+POS_MISC 2343                
+POS_ERRORS 6592                
+POS_CLUSTER 3659                
+POS_SIDER_404 6709                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20170101000304 7 1071 9538254579402
+FirstTime 0
+LastTime 20161221094049
+LastUpdate 20170101081433 7 0 6 0 0
+TotalVisits 38                  
+TotalUnique 33                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 53                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 2 140254 15 25 1275623
+1 2 36 8268029 18 28 499971
+2 0 1 69977 12 20 428846
+3 0 0 0 15 21 711689
+4 0 1 87881 19 34 862366
+5 0 0 0 12 21 776221
+6 0 0 0 14 22 439418
+7 0 1 54520 23 32 695126
+8 1 25 956181 16 23 516889
+9 2 13 364713 22 38 978694
+10 4 38 4922831 8 18 562308
+11 10 52 1815558 18 31 794205
+12 7 51 1423941 14 42 2090021
+13 2 12 383088 12 28 2850320
+14 7 60 1940350 10 32 3176555
+15 5 46 1487961 8 23 2493707
+16 6 44 1729498 19 29 877093
+17 1 10 332510 20 31 571370
+18 3 23 804962 14 30 557600
+19 2 12 357007 14 27 556997
+20 4 53 9048607 16 24 413690
+21 4 48 5584413 13 36 745119
+22 19 157 13499876 8 20 361324
+23 3 18 747472 5 11 150565
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 9
+ua 66 587 46153436
+cz 9 44 1541964
+by 3 30 4751800
+us 3 28 1018674
+ru 1 10 285343
+uz 0 1 41118
+mn 0 1 87881
+cy 0 1 54520
+gr 0 1 84893
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 6
+googlebot 212 1636980 20161231223205 0
+bot[\s_+:,\.\;\/\\-] 69 578098 20161231222637 0
+googlebot\-image 55 10859412 20161230152315 0
+[\s_+:,\.\;\/\\-]bot 26 212540 20161231214723 0
+no_user_agent 15 115545 20161231110903 0
+netcraft 6 46218 20161220043423 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+png 48 429720 0 0
+jpg 448 49656615 0 0
+css 36 289476 0 0
+php 82 385352 0 0
+gif 47 45061 0 0
+js 42 3213405 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 8
+winlong 10 2
+winnt 63 5
+winxp 65 5
+macosx 2 0
+linuxandroid 297 35
+ios_iphone 9 1
+ios_ipad 1 0
+win7 256 34
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 22
+chrome46.0.2490.85 9 1
+chrome49.0.2623.112 24 1
+chrome55.0.2883.87 71 7
+safari9.1 1 0
+chrome52.0.2743.116 14 1
+chrome40.0.2214.124 1 0
+firefox49.0 9 1
+chrome55.0.2883.91 78 11
+chrome45.0.2454.94 1 0
+msie11.0 37 4
+chrome51.0.2704.81 53 7
+chrome54.0.2840.99 117 14
+safari9.0 1 0
+chrome53.0.2785.124 14 1
+chrome43.0.2357.81 9 1
+firefox50.0 54 7
+android 12 2
+chrome30.0.0.0 10 2
+opera41.0.2353.69 55 10
+chrome54.0.2840.85 119 11
+msie7.0 5 0
+safari10.0 9 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 1 7
+From1 1 1
+From2 38 65
+From3 0 1
+From4 42 629
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 37 64
+search 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://yandex.ua/images/search 0 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+206 6 132062
+301 11 2552
+404 190 9802310
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 4
+/.well-known/assetlinks.json 18 -
+/robots.txt 132 -
+/.well-known/apple-app-site-association 20 -
+/apple-app-site-association 20 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 53
+31.202.36.25 11 78 10144190 20161212222644
+31.148.253.254 9 44 1541964 20161214115338
+89.21.95.249 7 53 2369936 20161205220511
+93.77.101.125 4 13 338617 20161205110709
+37.57.18.253 3 19 486097 20161205132010
+109.87.114.19 3 38 8357476 20161207203204
+109.86.225.55 3 18 747472 20161203230939
+185.93.186.218 3 19 933500 20161205113106
+151.147.160.16 3 28 1018674 20161214150602
+178.151.92.156 3 31 1153337 20161207145921
+37.45.19.44 3 29 4681823 20161216100842
+178.151.141.24 3 29 4595783 20161216215328
+82.117.245.241 2 10 232360 20161213195044
+46.211.6.121 2 11 317726 20161216142153
+46.98.195.174 2 36 8268029 20161213010157
+195.78.252.35 2 22 697951 20161221094049
+37.229.173.218 2 15 530232 20161209164809
+95.164.66.179 2 11 330455 20161206183715
+91.212.80.57 1 9 228279 20161208120408
+46.133.124.34 1 9 228279 20161212154850
+217.12.216.14 1 9 241008 20161201150434
+91.197.217.11 1 9 241008 20161207112352
+176.120.35.3 1 9 241008 20161203105204
+95.215.40.167 1 9 228279 20161207144306
+178.150.235.73 1 9 228279 20161216165905
+188.163.0.130 0 1 54520 
+93.76.210.9 0 1 83479 
+5.58.7.234 0 1 70127 
+178.165.44.137 0 1 104231 
+93.78.143.220 0 1 70127 
+87.224.222.140 0 1 44335 
+77.122.2.118 1 24 871288 20161208083528
+46.119.114.163 0 2 189337 
+46.211.138.102 1 14 586900 20161211203448
+46.172.71.220 0 2 109040 
+109.87.30.221 0 1 104231 
+178.137.31.70 1 24 871288 20161213223118
+46.150.1.10 0 1 54520 
+46.251.114.88 0 1 54520 
+176.37.64.198 0 1 70127 
+93.74.114.188 1 9 228279 20161214171341
+176.59.40.140 1 9 241008 20161206142125
+195.144.14.222 0 3 233499 
+178.165.82.29 1 9 241008 20161205180313
+122.201.22.131 0 1 87881 
+31.129.251.112 0 1 57344 
+178.54.87.183 1 14 599424 20161201212535
+62.228.94.41 0 1 84893 
+37.110.210.82 0 1 41118 
+178.94.31.55 1 9 241008 20161201111509
+46.118.34.161 0 1 104231 
+178.127.88.181 0 1 69977 
+91.200.233.49 0 1 70127 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 15
+20161201 3 35 1293968 3
+20161203 4 28 1092711 2
+20161204 0 2 208462 0
+20161205 18 114 4439285 5
+20161206 7 51 1938478 4
+20161207 8 87 9980100 4
+20161208 2 33 1099567 2
+20161209 2 17 639272 1
+20161211 1 19 945046 1
+20161212 16 110 11031595 4
+20161213 5 70 9371677 3
+20161214 6 45 1599882 4
+20161216 9 79 9880955 4
+20161218 0 2 137999 0
+20161221 1 11 360632 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+0s-30s 30
+30mn-1h 1
+2mn-5mn 1
+30s-2mn 6
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 15
+/contacts.php 33 134673 26 19
+/produce.php 13 55593 8 3
+/about.php 11 50094 0 7
+/history.php 6 35820 3 3
+/prodnew.php 5 38655 0 2
+/brand.php 2 7388 0 1
+/brand-ua.php 2 7624 0 1
+/quality.php 2 12700 0 0
+/manufacture.php 2 11996 0 0
+/history-eng.php 1 5496 0 1
+/label-ua.php 1 6809 0 0
+/contacts-ua.php 1 4058 0 1
+/manufacture-ua.php 1 5999 0 0
+/about-eng.php 1 4677 0 0
+/contacts-eng.php 1 3770 1 0
+END_SIDER

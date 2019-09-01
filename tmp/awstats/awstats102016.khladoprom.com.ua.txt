@@ -1,0 +1,1933 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201610 will be lost/reset.
+# Last config file used to build this data file was /home/khladopr/tmp/awstats/awstats.khladoprom.com.ua.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2014                
+POS_TIME 2693                
+POS_VISITOR 37105               
+POS_DAY 72026               
+POS_DOMAIN 3610                
+POS_LOGIN 4280                
+POS_ROBOT 4435                
+POS_WORMS 5106                
+POS_EMAILSENDER 5237                
+POS_EMAILRECEIVER 5380                
+POS_SESSION 72926               
+POS_SIDER 73139               
+POS_FILETYPES 5515                
+POS_DOWNLOADS 5720                
+POS_OS 5768                
+POS_BROWSER 6148                
+POS_SCREENSIZE 10043               
+POS_UNKNOWNREFERER 10117               
+POS_UNKNOWNREFERERBROWSER 11504               
+POS_ORIGIN 12199               
+POS_SEREFERRALS 12347               
+POS_PAGEREFS 12575               
+POS_SEARCHWORDS 17200               
+POS_KEYWORDS 19463               
+POS_MISC 2357                
+POS_ERRORS 20413               
+POS_CLUSTER 4136                
+POS_SIDER_404 20533               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20161101005402 47 10686 10989804273819
+FirstTime 20161001021428
+LastTime 20161031234337
+LastUpdate 20161101081137 47 0 46 0 0
+TotalVisits 1151                
+TotalUnique 876                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 894                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+AddToFavourites 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 95 95 590796 128 217 3639797
+1 61 61 403411 60 103 2666566
+2 32 32 217031 71 133 3550106
+3 57 57 394805 84 159 4136915
+4 44 44 300182 138 207 4775161
+5 36 36 263950 68 113 2755962
+6 66 101 2034232 92 151 3847915
+7 46 56 601012 92 145 3645882
+8 71 98 1608845 91 183 3876610
+9 152 259 5582590 88 187 3342152
+10 219 296 4801562 75 170 2286499
+11 249 404 8024317 89 319 8127987
+12 248 323 4240772 99 231 3032690
+13 205 328 5951986 114 221 3596836
+14 255 389 7792159 127 264 4732622
+15 317 394 4528995 92 225 3485335
+16 407 524 7327188 120 238 4732737
+17 240 283 3022373 216 323 8732897
+18 166 174 1283666 88 163 3445635
+19 175 249 4823862 148 246 5928065
+20 136 208 3843532 82 169 4034367
+21 165 190 1991513 89 175 3477061
+22 167 353 9316841 99 208 4343226
+23 152 227 4715487 107 202 4110481
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 31
+ua 2847 4193 74727175
+us 297 297 1963628
+ru 174 192 1689583
+cn 80 80 472339
+nl 59 59 328487
+fr 48 48 337756
+md 37 37 233020
+it 34 34 195370
+jp 32 32 183501
+de 30 30 202975
+gb 19 23 416786
+pl 18 21 360284
+sn 15 15 85260
+co 13 44 1413026
+by 10 10 68518
+cz 8 16 286731
+in 6 6 38676
+tr 6 6 34568
+no 5 14 350027
+ca 5 5 38515
+lt 4 4 22809
+bg 4 4 30812
+ee 2 2 15406
+sk 2 2 15406
+ro 1 1 7703
+br 1 1 7703
+fi 1 1 7703
+se 1 1 7703
+kr 1 1 7703
+kg 0 1 104231
+lv 1 1 7703
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 14
+bot[\s_+:,\.\;\/\\-] 809 5062568 20161031233336 0
+googlebot 633 4749775 20161031213015 0
+spider 178 1219526 20161031232840 0
+crawl 135 749006 20161028185132 0
+robot 106 686553 20161031144513 0
+[\s_+:,\.\;\/\\-]bot 68 3249261 20161030001250 0
+slurp 68 384561 20161031142639 0
+googlebot\-image 56 4330671 20161021072328 0
+no_user_agent 35 262361 20161031041216 0
+ia_archiver 16 92975 20161031190733 0
+netcraft 8 61624 20161022185645 0
+php 4 30812 20161024123333 0
+msnbot\-media 4 22240 20161011041057 0
+bingpreview 3 11909 20161026032901 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+php 2443 12790152 0 0
+css 94 739772 0 0
+html 1318 10152554 0 0
+gif 115 105743 0 0
+png 121 1081760 0 0
+jpg 998 51031101 0 0
+js 92 7760025 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 23
+win2003 51 51
+unix 1 1
+macosx9 23 23
+ios_iphone 135 70
+java 86 86
+linux 132 75
+ios_ipad 51 28
+winnt 677 507
+macosx 72 68
+win7 1910 1424
+win98 3 3
+winlong 33 33
+win2000 13 13
+macosx6 9 9
+win8.1 339 252
+linuxubuntu 7 7
+winphone 5 5
+winxp 772 575
+linuxandroid 661 339
+macosx8 5 5
+win8 60 60
+win95 3 3
+Unknown 133 124
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 188
+opera11.52 1 1
+chrome42.0.2311.90 28 28
+chrome54.0.2840.71 251 203
+chrome52.0.2743.116 188 138
+wap 2 2
+msie9.0 100 100
+opera40.0.2308.90 62 46
+opera10.10 5 5
+chrome34.0.1847.116 1 1
+opera33.0.1990.115 1 1
+chrome34.0.1847.131 13 13
+chrome49.0.2623.112 280 146
+chrome49.0.2623.91 20 3
+firefox31.0 15 15
+chrome31.0.1650.63 2 2
+chrome44.0.2403.157 5 5
+chrome39.0.0.0 2 2
+chrome46.0.2486.0 26 10
+chrome10.0.638.0 1 1
+chrome33.0.1750.154 9 1
+opera11.64 3 3
+chrome52.0.2743.98 8 8
+firefox32.0 1 1
+chrome47.5.2526.111 11 11
+firefox48.0 22 14
+netscape 2 2
+opera11.11 1 1
+chrome28.0.1469.0 1 1
+opera41.0.2353.46 43 29
+opera9.0 12 12
+firefox18.0 2 2
+chrome53.0.2785.116 166 110
+chrome53.0.2785.148 9 9
+firefox14.0.1 10 10
+chrome10.0.648.204 5 5
+opera37.0.2192.105088 27 19
+chrome33.0.1750.136 9 1
+chrome53.0.2785.113 1 1
+safari7.0.3 5 5
+safari9.0 44 28
+opera12.14 1 1
+chrome28.1.1500.75 2 2
+opera9.01 3 3
+chrome40.0.2214.115 10 10
+chrome43.0.2357.172 5 5
+netscape3.0 3 3
+android 40 17
+opera37.0.2178.43 7 7
+firefox15.0 20 3
+chrome50.0.2661.102 8 8
+firefox7.0.1 5 5
+chrome28.0.1500.95 4 4
+chrome51.0.2704.108 1 1
+chrome35.0.1916.122 4 4
+chrome54.0.2840.59 47 10
+konqueror4.3 2 2
+chrome41.0.2228.0 9 9
+firefox34.0 6 6
+chrome56.0.2895.0 5 5
+chrome51.0.2704.79 29 29
+chrome537.306 2 2
+chrome51.0.2704.103 1 1
+chrome10.0.611.0 2 2
+safari8.0 31 2
+chrome53.0.2785.89 1 1
+chrome47.0.2526.80 37 21
+chrome27.0.1453 3 3
+lg\- 20 4
+chrome50.0.2661.89 33 17
+netscape5.0 10 10
+chrome40.0.2214.114 6 6
+opera12.01 8 8
+firefox47.0 11 11
+firefox25.0 13 13
+chrome12.0.706.0 1 1
+chrome45.0.2454.93 1 1
+chrome35.0.1916.114 4 4
+chrome55.0.2883.9 9 1
+netscape4.76 3 3
+firefox44.0 3 3
+firefox29.0 14 14
+opera12.17 3 3
+msie7.0 8 6
+chrome34.0.1847.76 10 1
+chrome48.0.2564.109 3 3
+lynx 3 3
+opera40.0.2308.62 84 56
+firefox45.0 9 9
+chrome53.0.2785.97 8 8
+firefox43.0 3 3
+chrome37.0.2062.120 17 17
+firefox37.0 2 2
+chrome44.0.2403.125 1 1
+chrome38.0.2125.102 25 9
+chrome39.0.2171.65 1 1
+chrome37.0.2062.103 6 6
+chrome51.0.2704.106 10 10
+safari6.0.5 2 2
+opera7.0 9 9
+Unknown 143 143
+msie10.0 17 17
+firefox3.5.5 1 1
+opera8.01 21 21
+chrome32.0.1700.102 10 2
+chrome30.0.0.0 40 24
+chrome45.0.2454.101 13 13
+firefox6.0.2 8 8
+opera7.54 4 4
+firefox4.0 4 4
+chrome44.0.2403.133 9 9
+chrome33.0.1750.117 1 1
+chrome16.0.912.77 1 1
+chrome18.0.1025.151 1 1
+opera22.0.1471.50 9 9
+firefox24.0 3 3
+opera8.00 3 3
+firefox49.0 385 291
+chrome46.0.2490.85 35 8
+msie8.0 34 32
+msie6.0 189 189
+safari8.0.4 1 1
+safari9.1.1 3 3
+chrome51.0.2704.81 4 4
+chrome30.0.1599.103 7 7
+firefox33.0 11 3
+msie11.0 148 63
+mozilla 53 53
+opera39.0.2256.48 1 1
+chrome47.0.2526.111 5 5
+msie2.0 3 3
+chrome45.0.2454.94 12 12
+opera36.0.2130.80 58 29
+firefox28.0 11 11
+chrome47.5.2526.115 8 8
+chrome21.0.1180.89 2 2
+chrome16.0.912.63 2 2
+chrome43.0.2357.174 1 1
+chrome53.0.2785.143 987 774
+chrome47.0.2526.106 2 2
+chrome43.0.2327.5 3 3
+firefox23.0 1 1
+chrome46.0.2490.71 2 2
+chrome31.0.1650.57 4 4
+chrome36.0.1985.135 37 4
+safari9.1.2 24 24
+chrome5.0.375.99 1 1
+chrome49.0.2623.105 3 3
+msie5.0 9 9
+chrome50.0.2661.240 5 5
+firefox26.0 7 7
+chrome28.0.1500.71 3 3
+chrome4.1.249.1036 1 1
+chrome33.0.1750.152 1 1
+chrome54.0.2840.61 18 18
+chrome50.0.2661.75 1 1
+chrome54.0.2840.68 56 22
+chrome36.0.1985.125 3 3
+chrome46.0.2490.86 1 1
+firefox11.0 1 1
+chrome53.0.2785.124 183 108
+firefox3.5.8 3 3
+opera26.0.1656.32 1 1
+chrome28.0.1467.0 1 1
+chrome34.0.1847.137 5 5
+chrome2.0.172.30 36 36
+chrome48.0.2564.116 7 7
+chrome48.0.2564.103 2 2
+chrome42.0.2311.152 8 8
+firefox3.0.1 2 2
+firefox21.0 4 4
+chrome43.0.2357.124 20 20
+safari7.0 1 0
+chrome36.0.1996.75 1 1
+chrome46.0.2490.76 9 1
+safari9.0.3 11 7
+safari 27 16
+chrome18.0.1025.46 1 1
+safari10.0 86 55
+msie5.5 6 6
+chrome48.0.2564.97 2 2
+chrome49.0.2623.75 1 1
+chrome49.0.2623.87 20 20
+opera18.0.1284.63 2 2
+firefox38.0 1 1
+safari4.0.5 1 1
+opera12.16 33 24
+opera11.61 3 3
+opera40.0.2308.81 251 135
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 22
+Mozilla/5.0_(Android_6.0.1;_Tablet;_rv:49.0)_Gecko/49.0_Firefox/49.0 20161019191746
+Opera/9.80_(Android;_Opera_Mini/18.0.2254/37.8949;_U;_ru)_Presto/2.12.423_Version/12.16 20161005120807
+Lynx/2.8.5rel.1_libwww-FM/2.15FC_SSL-MM/1.4.1c_OpenSSL/0.9.7e-dev 20161013054902
+Riddler_(http://riddler.io/about) 20161031162902
+Xenu_Link_Sleuth/1.3.8 20161022001243
+Mozilla/5.0_(compatible;_DomainAppender_/1.0;__http://www.profound.net/domainappender) 20161018160706
+<a_href=\ 20161020040919
+python-requests/2.9.1 20161023202114
+WebFuck_V2.1_T0PHackTeam_www.t0p.xyz 20161027184740
+nutch-1.4/Nutch-1.4 20161016224445
+Mozilla/5.0_(compatible;_Qwantify/2.3w;__https://www.qwant.com/)/2.3w 20161008171944
+KickFire 20161024205920
+Opera/9.80_(Android;_Opera_Mini/7.5.35613/37.8993;_U;_ru)_Presto/2.12.423_Version/12.16 20161023141146
+Mozilla/5.0_(compatible;_vkShare;__http://vk.com/dev/Share) 20161030021443
+python-requests/2.11.1 20161002132152
+redback/v0-570-g26f8c96 20161003194301
+PocketParser/2.0_(_https://getpocket.com/pocketparser_ua) 20161004214542
+Mozilla 20161013145428
+Mozilla/5.0_(compatible;_SiteExplorer/1.0b;__http://siteexplorer.info/) 20161010114006
+ltx71_-_(http://ltx71.com/) 20161031044815
+Dorado_WAP-Browser/1.0.0/powerplay/2 20161006121259
+Dragon/10.20_(Edubuntu_7.0;_en_MT;) 20161028114357
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 15
+KickFire 20161024205920
+Apache-HttpClient/4.1.1_(java_1.5) 20161019220458
+nutch-1.4/Nutch-1.4 20161016224445
+python-requests/2.11.1 20161002132152
+python-requests/2.9.1 20161023202114
+<a_href=\ 20161020040919
+Xenu_Link_Sleuth/1.3.8 20161022001243
+Java/1.6.0_04 20161008135815
+PocketParser/2.0_(_https://getpocket.com/pocketparser_ua) 20161004214542
+redback/v0-570-g26f8c96 20161003194301
+Riddler_(http://riddler.io/about) 20161031162902
+ltx71_-_(http://ltx71.com/) 20161031044815
+Dragon/10.20_(Edubuntu_7.0;_en_MT;) 20161028114357
+Java/1.8.0_91 20161009193814
+WebFuck_V2.1_T0PHackTeam_www.t0p.xyz 20161027184740
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 705 709
+From1 9 9
+From2 692 743
+From3 488 488
+From4 1867 3232
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 7
+baidu 1 1
+rambler 7 7
+google 620 671
+yandex 48 48
+yahoo 1 1
+search 2 2
+mailru 13 13
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 117
+http://yandex.ua/clck/jsredir 103 103
+http://www.yandex.ua/clck/jsredir 16 16
+http://krasivoe-hd.net 9 9
+http://vk.com/away.php 9 9
+http://meduza-consult.ru 9 9
+http://pizza-tycoon.com 9 9
+http://burger-imperia.com 8 8
+https://ru.wikipedia.org 8 8
+http://buynorxx.com 6 6
+http://btvn.ru 6 6
+http://www.domain2008.com 6 6
+http://autolombard-krasnodar.ru 6 6
+http://avtointeres.ru 6 6
+http://limtu.ifmo.ru 6 6
+http://www.elektir.ru 6 6
+http://indiakino.net 6 6
+http://pc-services.ru 6 6
+http://mail.ru 6 6
+http://gotomontenegro.net 6 6
+http://pharmacyincity.com 6 6
+http://gribkovye-zabolevaniya.com 5 5
+http://kh.vgorode.ua/reference/fabryky/85534-torhovyi-dom-khladoprom-aozt 5 5
+http://xn--80ablv6bya.com/index.php/ooo-khladik-trejd 4 4
+https://yandex.ua/search/ 4 4
+http://www.ua-region.info/01548734 4 4
+http://shinikiev.com.ua 3 3
+http://avtolombard-krasnodar.ru 3 3
+http://ru-dety.ru 3 3
+https://www.provisov.net 3 3
+http://writed.net 3 3
+http://astana.xkaz.org 3 3
+http://chelnytruck.ru 3 3
+http://purchasepillsnorx.com 3 3
+http://rada.ru/souvenir/ 3 3
+http://orgpage.com.ua/Company/ajax/viewheader/ 1 1
+https://7fon.ru 3 3
+http://orgpage.com.ua/Company/siteview/ 3 3
+http://uytmaster.ru/top/santech 1 1
+https://mail.yandex.ua 1 1
+http://sdautoconnect.com 2 2
+http://www.itservicesthatworkforyou.com 3 3
+http://maps.2gis.ru 3 3
+https://yandex.ua/maps/147/kharkiv/ 2 2
+http://stairliftsarea.com 3 3
+https://www.facebook.com 1 1
+http://www.photorepair.ru 2 2
+http://www.ex.ua/ru/video/foreign 1 1
+http://pingwinprazdnik.com 3 3
+http://chcu.net 3 3
+http://kharkov.mistr-x.org 3 3
+http://www.ua-region.info/kved/Ind.15 3 3
+http://tigerclub.info/category/%d0%bc%d0%b5%d0%b6%d0%b4%d1%83%d0%bd%d0%b0%d1%80%d0%be%d0%b4%d0%bd%d1%8b%d0%b5-%d1%82%d1%83%d1%80%d0%bd%d0%b8%d1%80%d1%8b/ 1 1
+http://zaporizhia.mistr-x.org 3 3
+http://fckolos.com.ua/index.php 3 3
+http://www.rabota.kharkov.ua/vacancies/886268 2 2
+http://pokerniydom.ru 3 3
+http://export-impor-inf-ua.1gb.ua/for_sckan.htm 2 2
+http://www.souvenirua.com 3 3
+http://dengi-pod-zalog-nedvizhimosti.ru 3 3
+http://handicapbathtubarea.com 3 3
+http://shitmovs.com 3 3
+http://crazyboost.pro 3 3
+http://www.rabota.kharkov.ua/vacancies/905656 1 1
+http://realmonte.net 3 3
+http://khladoprom.business-guide.com.ua 1 1
+http://www.ua-region.com.ua/01548734 2 2
+https://realcool.bitrix24.ua/crm/company/show/2/ 1 1
+http://l.facebook.com/l.php 1 1
+http://www.newtechspb.ru 3 3
+http://phototravel.pl 3 3
+http://www.wgsoftpro.com/2016/index.php 1 1
+http://xn--24-glceagatoq7c2a6ioc.xn--p1ai 3 3
+http://almata.xkaz.org 3 3
+http://cheap-pills-norx.com 3 3
+http://musicstock.me 3 3
+http://storehouse.ua 3 3
+http://pk-services.ru 3 3
+https://www.brus.city 3 3
+http://www.ua-region.com.ua/kved/Ind.15 1 1
+http://xn----7sbbagbq7bd5aheftfllo4m.xn--p1ai 4 4
+http://kharkov.spravker.ru/job/hladoprom-fabrika-moroziva1.htm 1 1
+http://2gis.ru 1 1
+http://iqbazar.ru 3 3
+http://nalogovyy-kodeks.ru 3 3
+http://www.webstream.biz 1 1
+http://mydc.net 3 3
+http://autorn.ru 3 3
+http://doxyporno.com 3 3
+http://confib.ifmo.ru 3 3
+http://larutti.ru 3 3
+http://yourdesires.ru 3 3
+http://x-musics.com 3 3
+http://x-musics.com 2 2
+http://www.ua-region.info/kved/Ind.15.52.0 2 2
+http://xn--80aaomkdl5amcy.xn--p1ai 3 3
+http://filmgo.ru 3 3
+http://portomaltese.net 3 3
+http://kinocccp.net 3 3
+http://heatpower.ru 3 3
+http://www.4istoshop.com/dlja-detej/podguzniki/ 3 3
+http://www.rada.com.ua/ukr/catalog/9109/ 2 2
+http://komp-pomosch.ru 3 3
+http://shmetall.com.ua 3 3
+http://www.svautolife.com/562/has%20no%20regards%20for%20peoples%20privacy%20and%20are%20helping%20google%20to%20collect%20and%20sell%20visitors%20data.html 1 1
+http://www.ua-region.com.ua/kved/Ind.15.52.0 1 1
+http://e-systems.com.ua/clients 2 2
+http://www.bestportal.com.ua/rates/redirector.php 2 2
+http://ua.kompass.com/c/%D1%85%D0%BB%D0%B0%D0%B4%D0%BE%D0%BF%D1%80%D0%BE%D0%BC-%D1%87%D0%B0%D0%BE/ua210417/ 1 1
+http://export-impor-inf-ua.1gb.ua/for_sckan1.htm 2 2
+http://wikimapia.org/external_link 2 2
+http://new.proagro.com.ua/admin/users/klient_index.php 1 1
+http://www.rada.com.ua/rus/catalog/9109/ 4 4
+http://link.2gis.ru/1.2/1AC8989B/online/20161001/project110/70000001018730961/2gis.ru/4583c4G6G493G7G4H1H1d1hefpy39474358311308uvfE3G44AA2I38A52A69c8b4p8p610I1GA1202AH3J1GJ6J0J855/place=1&sid=2b67e4d8-3e83-46a5-a0ee-dffca82945cf&user=2fd0701c-c0dd-4bea-af69-2c065e117cef&ts=1477124246219 1 1
+http://air-edem.ru 2 2
+http://brains2.biz 3 3
+http://m.vk.com/away.php 2 2
+http://www.mosrif.ru 3 3
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 22
+http+%2f%2fwww.khladoprom.com.ua%2fprodnew-ua.php 9
+%d1%85%d0%bb%d0%b0%d0%b4%d0%b8%d0%ba 6
+%d1%85%d0%bb%d0%b0%d0%b4%d0%be%d0%bf%d1%80%d0%be%d0%bc+%d0%be%d1%84%d0%b8%d1%86%d0%b8%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d0%b9+%d1%81%d0%b0%d0%b9%d1%82+%d1%85%d0%b0%d1%80%d1%8c%d0%ba%d0%be%d0%b2+%d0%b2%d0%b0%d0%ba%d0%b0%d0%bd%d1%81%d0%b8%d0%b8 3
+%d1%82%d0%bc+%d1%85%d0%bb%d0%b0%d0%b4%d0%b8%d0%ba 2
+%d1%85%d0%bb%d0%b0%d0%b4%d0%be%d0%bf%d1%80%d0%be%d0%bc+%d1%85%d0%b0%d1%80%d1%8c%d0%ba%d0%be%d0%b2 2
+%d1%85%d0%bb%d0%b0%d0%b4%d0%be%d0%bf%d1%80%d0%be%d0%bc+%d1%85%d0%b0%d1%80%d1%8c%d0%ba%d0%be%d0%b2+%d0%b2%d0%b0%d0%ba%d0%b0%d0%bd%d1%81%d0%b8%d0%b8 1
+www.khladoprom.com.ua 1
+%d1%85%d0%bb%d0%b0%d0%b4%d0%be%d0%bf%d1%80%d0%be%d0%bc+%d0%a5%d0%b0%d1%80%d1%8c%d0%ba%d0%be%d0%b2 1
+%d0%a5%d0%bb%d0%b0%d0%b4%d0%b8%d0%ba+%d1%80%d0%b5%d0%ba%d0%b2%d0%b8%d0%b7%d0%b8%d1%82%d1%8b+%d0%a5%d0%b0%d1%80%d1%8c%d0%ba%d0%be%d0%b2 1
+%d0%a5%d0%b0%d1%80%d1%8c%d0%ba%d0%be%d0%b2+%d1%85%d0%bb%d0%b0%d0%b4%d0%be%d0%bf%d1%80%d0%be%d0%bc 1
+%d1%85%d0%bb%d0%b0%d0%b4%d0%b8%d0%ba+%d1%85%d0%b0%d1%80%d1%8c%d0%ba%d0%be%d0%b2 1
+%d1%85%d0%bb%d0%b0%d0%b4%d0%be%d0%bf%d1%80%d0%be%d0%bc+%d0%be%d1%84%d0%b8%d1%86%d0%b8%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d0%b9+%d1%81%d0%b0%d0%b9%d1%82+%d1%85%d0%b0%d1%80%d1%8c%d0%ba%d0%be%d0%b2 1
+%d0%bc%d0%be%d1%80%d0%be%d0%b6%d0%b5%d0%bd%d0%be%d0%b5+%d1%85%d0%bb%d0%b0%d0%b4%d0%b8%d0%ba+%d1%85%d0%b0%d1%80%d1%8c%d0%ba%d0%be%d0%b2 1
+www 1
+%d1%85%d0%bb%d0%b0%d0%b4%d0%b8%d0%ba+%d0%be%d1%84%d0%b8%d1%86%d0%b8%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d0%b9+%d1%81%d0%b0%d0%b9%d1%82 1
+%d0%a5%d0%bb%d0%b0%d0%b4%d0%b8%d0%ba 1
+%d1%85%d0%bb%d0%b0%d0%b4%d0%b8%d0%ba+%d1%82%d0%be%d1%80%d0%b3%d0%be%d0%b2%d0%b0+%d1%84%d1%96%d1%80%d0%bc%d0%b0+%d0%bd%d0%b0%d0%bc%d0%b5%d1%80 1
+%d0%b2%d0%b0%d0%ba%d0%b0%d0%bd%d1%81%d0%b8%d0%b8+%d0%be%d1%82+%d1%85%d0%bb%d0%b0%d0%b4%d0%be%d0%bf%d1%80%d0%be%d0%bc%d0%b0 1
+%d1%85%d0%bb%d0%b0%d0%b4%d0%bd%d0%be%d0%bf%d1%80%d0%be%d0%bc 1
+%d1%85%d0%bb%d0%b0%d0%b4%d0%be%d0%bf%d1%80%d0%be%d0%bc+%d1%81%d0%b0%d0%b9%d1%82 1
+%d1%85%d0%bb%d0%b0%d0%b4%d0%b8%d0%ba+%d1%81%d0%b0%d0%b9%d1%82 1
+%d1%85%d0%bb%d0%b0%d0%b4%d0%bf%d1%80%d0%be%d0%bc 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 22
+%d1%85%d0%bb%d0%b0%d0%b4%d0%b8%d0%ba 13
+%d1%85%d0%bb%d0%b0%d0%b4%d0%be%d0%bf%d1%80%d0%be%d0%bc 10
+%2f%2fwww.khladoprom.com.ua%2fprodnew-ua.php 9
+%d1%85%d0%b0%d1%80%d1%8c%d0%ba%d0%be%d0%b2 9
+http 9
+%d1%81%d0%b0%d0%b9%d1%82 7
+%d0%b2%d0%b0%d0%ba%d0%b0%d0%bd%d1%81%d0%b8%d0%b8 5
+%d0%be%d1%84%d0%b8%d1%86%d0%b8%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d0%b9 5
+%d0%a5%d0%b0%d1%80%d1%8c%d0%ba%d0%be%d0%b2 3
+%d0%a5%d0%bb%d0%b0%d0%b4%d0%b8%d0%ba 2
+%d1%82%d0%bc 2
+%d1%82%d0%be%d1%80%d0%b3%d0%be%d0%b2%d0%b0 1
+%d1%85%d0%bb%d0%b0%d0%b4%d0%be%d0%bf%d1%80%d0%be%d0%bc%d0%b0 1
+www 1
+%d1%85%d0%bb%d0%b0%d0%b4%d0%bd%d0%be%d0%bf%d1%80%d0%be%d0%bc 1
+%d1%85%d0%bb%d0%b0%d0%b4%d0%bf%d1%80%d0%be%d0%bc 1
+%d0%bc%d0%be%d1%80%d0%be%d0%b6%d0%b5%d0%bd%d0%be%d0%b5 1
+%d1%80%d0%b5%d0%ba%d0%b2%d0%b8%d0%b7%d0%b8%d1%82%d1%8b 1
+%d0%be%d1%82 1
+%d1%84%d1%96%d1%80%d0%bc%d0%b0 1
+%d0%bd%d0%b0%d0%bc%d0%b5%d1%80 1
+www.khladoprom.com.ua 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+404 1511 79346938
+301 131 30392
+206 2 12332
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 283
+//administrator/index.php 1 -
+/images/IndexCenter.jpg 2 -
+/webmanage/fckeditor/fckeditor.js 1 http://www.khladoprom.com
+/en/cloud/en/about/en/about/en/cloud/en/cloud/en/cloud/en/about/en/about/en/about/en/about/ 1 -
+/en/cloud/en/about/en/about/en/cloud/en/about/en/about/en/about/en/about/en/about/ 1 -
+/en/about/en/cloud/en/about/en/cloud/en/about/en/cloud/hosting 1 -
+/wp-admin 1 -
+/html/js/editor/fckeditor/fckeditor.js 1 http://www.khladoprom.com
+/robots.txt 1098 -
+/en/cloud/en/about/en/about/en/cloud/en/about/en/about/en/about/en/about/en/about/en/about/en/cloud/hosting 1 -
+/images/prodPhoto01.jpg 2 -
+/en/cloud/en/cloud/en/cloud/hosting 1 -
+/en/about/en/cloud/en/about/en/about/en/cloud/hosting 1 -
+/administrator 2 -
+/en/about/en/cloud/en/about/en/cloud/en/about/en/about/en/cloud/hosting 1 -
+/Uploadfiles/fckeditor/fckeditor.js 1 http://www.khladoprom.com
+/web_manage/fckeditor 1 http://khladoprom.com.ua/web_manage/fckeditor
+/en/about/en/cloud/en/about/en/cloud/en/about/en/cloud/en/cloud/hosting 1 -
+/docs/price.xls 1 -
+//wp-login.php 4 -
+/en/cloud/en/about/en/about/en/cloud/en/about/en/cloud/en/about/en/cloud/en/about/en/cloud/hosting 1 -
+/Fckeditornew/fckeditor.js 1 http://www.khladoprom.com
+/en/about/en/about/en/cloud/hosting 1 -
+/en/cloud/en/about/en/about/en/about/en/cloud/en/cloud/en/cloud/en/cloud/en/cloud/hosting 1 -
+/en/about/en/cloud/en/about/en/cloud/en/about/en/cloud/en/cloud/en/about/ 1 -
+/en/cloud/en/about/en/about/en/cloud/en/about/en/about/en/about/en/about/en/about/en/about/en/about/en/cloud/hosting 1 -
+/en/cloud/en/about/en/cloud/en/cloud/en/cloud/hosting 1 -
+/en/cloud/en/about/en/about/en/about/en/cloud/en/cloud/en/cloud/hosting 1 -
+/fckeditor/fckeditor.js 1 http://www.khladoprom.com
+/en/cloud/en/cloud/en/cloud/en/cloud/hosting 1 -
+/en/cloud/en/about/en/cloud/en/about/en/about/en/about/en/cloud/en/about/ 1 -
+/public/thirdParty/elfinder-ckeditor/elfinder.html 1 -
+/en/cloud/en/about/en/about/en/cloud/en/about/en/cloud/en/about/ 1 -
+/en/about/en/cloud/en/about/en/cloud/en/about/en/about/en/about/ 1 -
+/admin/js/fckeditor/fckeditor.js 1 http://www.khladoprom.com
+/en/cloud/en/about/en/about/en/cloud/en/about/en/about/en/about/en/cloud/en/about/ 1 -
+/en/cloud/en/about/en/about/en/cloud/en/about/en/about/en/about/en/about/en/about/en/about/ 1 -
+/uteplist/plugins/TinyMCEPlugin/elfinder/elfinder.html 1 -
+/manage/fckeditor/editor/ 2 -
+/en/about/en/cloud/en/about/en/about/en/cloud/en/about/ 1 -
+/en/cloud/en/about/en/about/en/cloud/en/about/en/cloud/en/about/en/cloud/en/about/ 1 -
+/favicon.png 2 -
+/en/cloud/en/about/en/about/en/cloud/en/about/en/about/en/about/en/cloud/en/cloud/en/about/en/cloud/en/cloud/en/cloud/en/cloud/hosting 1 -
+/apple-touch-icon.png 2 -
+/scripts/,data:c,complete:function(a,b,c){c=a.responseText,a.isResolved()&&(a.done(function(a){c=a}),i.html(g 3 -
+/en/cloud/en/about/en/cloud/en/about/en/about/en/cloud/hosting 1 -
+/en/cloud/en/about/en/about/en/cloud/en/about/en/about/en/about/en/cloud/en/cloud/en/about/en/about/ 1 -
+/Administrator/FCKeditor/fckeditor.js 1 http://www.khladoprom.com
+/en/cloud/en/about/en/about/en/cloud/en/cloud/en/cloud/en/about/ 1 -
+/admin/fckeditor/fckeditor.js 1 http://www.khladoprom.com
+/editor/editor/ 2 -
+/en/cloud/en/about/en/about/en/cloud/en/about/en/about/en/about/en/cloud/hosting 1 -
+/en/cloud/en/about/en/about/en/cloud/en/about/en/about/en/about/en/cloud/en/cloud/en/about/ 1 -
+/Web/FCKeditor/fckeditor.js 1 http://www.khladoprom.com
+/sitemap.xml 3 -
+/tools/fckeditor/fckeditor.js 1 http://www.khladoprom.com
+/textarea/fck/fckeditor.js 1 http://www.khladoprom.com
+/guestbook/fckeditor/fckeditor.js 1 http://www.khladoprom.com
+/en/cloud/en/about/en/about/en/cloud/en/about/en/about/en/about/en/cloud/en/cloud/en/about/en/cloud/en/cloud/en/cloud/hosting 1 -
+/en/cloud/en/about/en/cloud/en/cloud/hosting 1 -
+/en/cloud/en/about/en/about/en/about/en/cloud/en/cloud/en/cloud/en/about/ 1 -
+/admin/content/sitetree 1 -
+/admin/editor/fckeditor.js 1 http://www.khladoprom.com
+/en/about/en/cloud/en/about/en/about/en/cloud/en/cloud/hosting 1 -
+/wordpress/wordpress/wp-admin/setup-config.php 1 -
+/en/cloud/en/about/en/cloud/en/about/en/about/ 1 -
+/en/cloud/en/about/en/about/en/cloud/en/about/en/cloud/en/about/en/cloud/hosting 1 -
+/a 1 -
+/wordpress/wp-login.php 1 -
+/en/cloud/en/about/en/about/en/cloud/en/cloud/en/cloud/en/about/en/about/en/about/ 1 -
+/common/js/elfinder-2.0-rc1/elfinder.html 1 -
+/fck/fckeditor.js 1 http://www.khladoprom.com
+/en/cloud/en/about/en/about/en/about/en/cloud/en/cloud/en/cloud/en/cloud/en/cloud/en/about/ 1 -
+/en/cloud/en/about/en/about/en/cloud/en/cloud/hosting 1 -
+/_fckeditor/fckeditor.js 1 http://www.khladoprom.com
+/en/cloud/en/about/en/about/en/cloud/en/cloud/en/cloud/en/about/en/about/en/about/en/about/en/about/ 1 -
+/inc/fck/fckeditor.js 1 http://www.khladoprom.com
+/en/about/en/cloud/hosting 1 -
+/webadmin/FCKeditor/fckeditor.js 1 http://www.khladoprom.com
+/wp-content/plugins/fckeditor_for_wordpress/fckeditor 1 http://khladoprom.com.ua/wp-content/plugins/fckeditor_for_wordpress/fckeditor
+/en/cloud/en/about/en/about/en/about/en/cloud/en/cloud/en/cloud/en/cloud/en/about/ 1 -
+/en/about/en/about/en/about/ 1 -
+/editorold/fckeditor.js 1 http://www.khladoprom.com
+/en/cloud/en/about/ 1 -
+/scripts/]} 3 -
+/Public/Js/FCKeditor/fckeditor.js 1 http://www.khladoprom.com
+/admin/system/fckeditor.js 1 http://www.khladoprom.com
+/en/about/en/about/en/about/en/about/ 1 -
+/en/cloud/en/about/en/about/en/cloud/en/about/en/about/en/about/en/cloud/en/cloud/en/cloud/hosting 1 -
+/en/cloud/en/about/en/cloud/en/about/en/about/en/about/en/cloud/en/about/en/cloud/hosting 1 -
+/en/cloud/en/about/en/about/en/about/en/cloud/en/cloud/en/cloud/en/about/en/about/ 1 -
+/wp-login.php 16 -
+/admin/fckeditor/editor/ 2 -
+/en/cloud/en/about/en/about/en/cloud/en/about/en/about/en/about/en/cloud/en/cloud/en/cloud/en/about/ 1 -
+/contact 1 -
+/js/fckeditor/editor/ 2 -
+/en/cloud/en/about/en/about/en/about/en/cloud/en/about/en/about/en/about/en/about/ 1 -
+/index1.php 3 -
+/extinguisher_parts.html 1 -
+/admin_manage/fckeditor 1 http://khladoprom.com.ua/admin_manage/fckeditor
+/en/cloud/en/about/en/about/en/about/en/cloud/en/cloud/en/cloud/en/cloud/hosting 1 -
+/include/fckeditor 1 http://khladoprom.com.ua/include/fckeditor
+/en/about/en/cloud/en/about/en/cloud/en/about/en/about/ 1 -
+/en/cloud/en/about/en/about/en/cloud/en/cloud/en/cloud/en/about/en/about/en/about/en/cloud/hosting 1 -
+/en/cloud/en/about/en/about/en/cloud/en/about/en/about/en/about/en/cloud/en/cloud/en/about/en/cloud/en/about/ 1 -
+/en/about/en/cloud/en/about/en/about/en/cloud/en/cloud/en/cloud/en/about/en/cloud/hosting 1 -
+/FCKeditor/fckeditor.js 1 http://www.khladoprom.com
+/en/cloud/en/about/en/about/en/about/en/cloud/en/about/ 1 -
+/includes/fckeditor/fckeditor.js 1 http://www.khladoprom.com
+/system/ext/FCKeditor/fckeditor.js 1 http://www.khladoprom.com
+/login/register.html 3 -
+/admin2/fckeditor 1 http://khladoprom.com.ua/admin2/fckeditor
+/wordpress/wp-admin/setup-config.php 1 -
+/blog/wp-login.php 1 -
+/en/cloud/en/about/en/about/en/cloud/en/about/en/about/ 1 -
+/en/about/en/cloud/en/about/en/about/en/about/en/cloud/en/cloud/hosting 1 -
+/en/cloud/en/about/en/about/en/about/en/cloud/en/cloud/en/cloud/en/cloud/en/cloud/en/cloud/hosting 1 -
+/en/cloud/en/cloud/hosting 1 -
+/ckeditor/fckeditor.js 1 http://www.khladoprom.com
+/admin/view/javascript/fckeditor/fckeditor.js 1 http://www.khladoprom.com
+/scripts/fckeditor/fckeditor.js 1 http://www.khladoprom.com
+/en/cloud/en/about/en/about/en/cloud/en/about/en/about/en/about/en/cloud/en/cloud/en/cloud/en/cloud/hosting 1 -
+/en/cloud/en/about/en/cloud/en/cloud/en/cloud/en/about/ 1 -
+/fckeditor 1 http://khladoprom.com.ua/fckeditor
+/admin/scripts/elfinder-2.0-rc1/elfinder.html 1 -
+/documents 1 -
+/assets/dashboard/js/elrte-1.3/elfinder/elfinder.html 1 -
+/en/about/en/cloud/en/about/en/cloud/en/about/en/cloud/en/about/en/cloud/hosting 1 -
+/en/cloud/en/cloud/en/cloud/en/about/ 1 -
+/en/about/en/cloud/en/about/en/cloud/en/about/en/about/en/about/en/about/ 1 -
+/admin/wo%5fedit/fckeditor.js 1 http://www.khladoprom.com
+/en/about/en/cloud/en/about/en/about/en/cloud/en/about/en/cloud/hosting 1 -
+/manager/FCKeditor 1 http://khladoprom.com.ua/manager/FCKeditor
+/language/en-GB/en-GB.xml 1 -
+/editor1/fckeditor.js 1 http://www.khladoprom.com
+/editor/fckeditor.js 1 http://www.khladoprom.com
+/_admin/fckeditor/fckeditor.js 1 http://www.khladoprom.com
+/common/fckeditor 1 http://khladoprom.com.ua/common/fckeditor
+/en/cloud/en/about/en/cloud/en/about/en/about/en/about/ 1 -
+/index.1c48php 1 -
+/en/cloud/en/about/en/about/en/cloud/en/about/en/about/en/about/en/cloud/en/cloud/en/about/en/cloud/en/cloud/hosting 1 -
+/en/about/en/cloud/en/about/en/about/en/cloud/en/about/en/cloud/en/cloud/hosting 1 -
+/en/cloud/en/about/en/about/en/about/ 1 -
+/.well-known/assetlinks.json 18 -
+/en/cloud/en/about/en/about/en/about/en/cloud/en/cloud/en/about/ 1 -
+/fckeditor/editor/ 2 -
+/backup/wp-admin/setup-config.php 1 -
+/en/about/en/cloud/en/about/en/about/en/cloud/en/cloud/en/cloud/en/about/ 1 -
+/Fckeditorold/fckeditor.js 1 http://www.khladoprom.com
+/inc/fckeditor/fckeditor.js 1 http://www.khladoprom.com
+/editors/FCKeditor/fckeditor.js 1 http://www.khladoprom.com
+/public/js/fckeditor/fckeditor.js 1 http://www.khladoprom.com
+/Images/prodPhoto04.jpg 2 -
+/excursions/js/plugins/elfinder2.0/elfinder.html 1 -
+/en/about/en/cloud/en/about/en/about/en/about/en/cloud/en/cloud/en/about/ 1 -
+/manage/fck/fckeditor.js 1 http://www.khladoprom.com
+/en/about/en/cloud/en/about/en/about/en/cloud/en/about/en/about/ 1 -
+/en/cloud/en/about/en/about/ 1 -
+/panel 1 -
+/en/about/en/cloud/en/about/en/about/en/cloud/en/cloud/en/cloud/hosting 1 -
+/en/cloud/en/about/en/about/en/about/en/cloud/en/about/en/about/en/about/ 1 -
+/wp-content/plugins/editormonkey/fckeditor/fckeditor.js 1 http://www.khladoprom.com
+/en/cloud/en/about/en/about/en/cloud/en/about/en/about/en/about/en/cloud/en/cloud/en/about/en/about/en/cloud/hosting 1 -
+/en/about/en/cloud/en/about/en/cloud/en/about/en/cloud/en/about/en/about/ 1 -
+/ecmseditor/fckeditor/fckeditor.js 1 http://www.khladoprom.com
+/en/about/en/cloud/en/about/en/cloud/en/about/en/about/en/cloud/en/about/ 1 -
+/news//wp-admin/setup-config.php 1 -
+/en/about/en/cloud/en/about/en/cloud/hosting 1 -
+/Fckeditor/fckeditor.js 1 http://www.khladoprom.com
+/admin 1 -
+/administrator/index.php 1 -
+//wp-admin/admin-ajax.php 1 -
+/lib/FCKeditor/fckeditor.js 1 http://www.khladoprom.com
+/Public/Js/FCKMini/fckeditor.js 1 http://www.khladoprom.com
+/en/about/en/about/ 1 -
+/en/cloud/en/about/en/about/en/about/en/cloud/en/about/en/about/ 1 -
+/en/about/en/cloud/en/about/en/about/en/about/en/cloud/en/about/ 1 -
+/.well-known/apple-app-site-association 18 -
+/img/pagination.png 3 http://www.khladoprom.com.ua/prodnew-ua.php
+/en/about/en/about/en/about/en/about/en/about/en/cloud/hosting 1 -
+/mag/fckeditor/fckeditor.js 1 http://www.khladoprom.com
+/en/about/en/cloud/en/about/en/about/en/about/en/cloud/en/cloud/en/about/en/about/ 1 -
+/bitrix/admin 1 -
+/en/cloud/en/about/en/about/en/cloud/en/cloud/en/about/ 1 -
+/js/fckeditor 1 http://khladoprom.com.ua/js/fckeditor
+/vendor/mihaildev/yii2-elfinder/assets/elfinder.html 1 -
+/common/fckeditor/editor/ 2 -
+/en/cloud/hosting 1 -
+/php/priceing/scripts/editing.php 8 -
+/server/fckeditor/fckeditor.js 1 http://www.khladoprom.com
+/en/about/en/cloud/en/about/en/about/en/about/en/cloud/hosting 1 -
+/mobile/ 3 -
+/en/cloud/en/about/en/about/en/about/en/cloud/hosting 1 -
+/admin/fck/fckeditor.js 1 http://www.khladoprom.com
+/apple-touch-icon-precomposed.png 2 -
+/wp-content/plugins/dzs-zoomsounds/admin/admin.js 1 -
+/en/cloud/en/about/en/about/en/cloud/en/about/en/about/en/about/en/cloud/en/cloud/en/cloud/en/about/en/about/ 1 -
+/webeditor/fckeditor.js 1 http://www.khladoprom.com
+/xmlrpc.php 2 -
+/admin.php 3 -
+/editor/fckeditor/fckeditor.js 1 http://www.khladoprom.com
+/include/fckeditor/fckeditor.js 1 http://www.khladoprom.com
+/archi/archi/vendor/barryvdh/elfinder-builds/elfinder.html 1 -
+/en/cloud/en/about/en/about/en/cloud/en/about/en/about/en/about/en/cloud/en/cloud/hosting 1 -
+/manage/editor/fckeditor.js 1 http://www.khladoprom.com
+/WebSite/fckeditor/fckeditor.js 1 http://www.khladoprom.com
+/login/password_forget.html 1 -
+/en/about/en/cloud/en/about/en/about/en/about/ 1 -
+/wp/wp-admin/setup-config.php 1 -
+/en/cloud/en/about/en/about/en/cloud/en/about/en/cloud/hosting 1 -
+/php/documentation/editing.php 7 -
+/en/cloud/en/about/en/cloud/en/about/en/about/en/about/en/cloud/hosting 1 -
+/sscms/fckeditor/fckeditor.js 1 http://www.khladoprom.com
+/tyopfckeditor/fckeditor.js 1 http://www.khladoprom.com
+/include/fckeditor/editor/ 2 -
+/ejuyfckeditor/fckeditor.js 1 http://www.khladoprom.com
+/en/cloud/en/about/en/about/en/cloud/en/about/en/about/en/about/en/cloud/en/cloud/en/about/en/cloud/hosting 1 -
+//blog/wp-login.php 1 -
+/js/fckeditor/fckeditor.js 1 http://www.khladoprom.com
+/en/cloud/en/about/en/cloud/en/about/en/about/en/cloud/en/about/ 1 -
+/common/fckeditor/fckeditor.js 1 http://www.khladoprom.com
+/Uploadfiles/fck/fckeditor.js 1 http://www.khladoprom.com
+/en/cloud/en/about/en/about/en/cloud/en/about/en/about/en/about/en/about/ 1 -
+/user 1 -
+/en/about/en/cloud/en/about/en/cloud/en/about/en/cloud/en/about/ 1 -
+/blog/wordpress/wp-admin/setup-config.php 1 -
+/files/fckeditor 1 http://khladoprom.com.ua/files/fckeditor
+/assets/b845e0c8/elfinder/elfinder.html 1 -
+/en/cloud/en/about/en/about/en/cloud/hosting 1 -
+/m/contacts.php 1 -
+/en/about/en/about/en/about/en/about/en/about/ 1 -
+/siteadmin/FCKeditor/fckeditor.js 1 http://www.khladoprom.com
+/popup-pomo.php 1 -
+/en/cloud/en/about/en/about/en/cloud/en/about/en/about/en/about/ 1 -
+//login.php 4 -
+/en/cloud/en/about/en/about/en/cloud/en/about/en/about/en/about/en/about/en/about/en/about/en/about/ 1 -
+/admin/fckeditor 1 http://khladoprom.com.ua/admin/fckeditor
+/apple-app-site-association 24 -
+/en/cloud/en/about/en/cloud/hosting 1 -
+/en/cloud/en/about/en/about/en/cloud/en/cloud/en/cloud/hosting 1 -
+/Images/prodPhoto03.jpg 2 -
+/en/about/en/cloud/en/about/en/cloud/en/about/en/cloud/en/cloud/en/about/en/about/en/cloud/hosting 1 -
+/fk/fckeditor.js 1 http://www.khladoprom.com
+/system/fckeditor/fckeditor.js 1 http://www.khladoprom.com
+/en/cloud/en/about/en/cloud/en/about/ 1 -
+/en/cloud/en/about/en/cloud/en/cloud/en/cloud/en/cloud/hosting 1 -
+/html/fck/fckeditor.js 1 http://www.khladoprom.com
+/en/about/en/cloud/en/about/en/cloud/en/about/ 1 -
+/scripts/unslider/css/unslider-dot.css 3 http://www.khladoprom.com.ua/prodnew-ua.php
+/Administrator/fckeditor/fckeditor.js 1 http://www.khladoprom.com
+/m/ 3 -
+/en/cloud/en/about/en/about/en/about/en/cloud/en/cloud/hosting 1 -
+/manage/fckeditor/fckeditor.js 1 http://www.khladoprom.com
+/admin_bg/fckeditor/fckeditor.js 1 http://www.khladoprom.com
+/index.html 1 -
+/system/application/plugins/fckeditor/fckeditor.js 1 http://www.khladoprom.com
+/en/about/en/cloud/en/about/en/cloud/en/about/en/cloud/en/cloud/en/about/en/about/ 1 -
+/en/cloud/en/cloud/en/cloud/en/cloud/en/about/ 1 -
+/tcsts/tcelf/elfinder.html 1 -
+/apple-touch-icon-120x120-precomposed.png 1 -
+/manager 1 -
+/admin/manager/Fckeditor 1 http://khladoprom.com.ua/admin/manager/Fckeditor
+/browserconfig.xml 1 -
+/agents/fckeditor/fckeditor.js 1 http://www.khladoprom.com
+/en/about/en/cloud/en/about/en/about/en/cloud/en/about/en/about/en/cloud/hosting 1 -
+/public/js/manager/fckeditor 1 http://khladoprom.com.ua/public/js/manager/fckeditor
+/html/fckeditor/fckeditor.js 1 http://www.khladoprom.com
+/admin/wo_edit/fckeditor.js 1 http://www.khladoprom.com
+/en/about/en/cloud/en/about/ 1 -
+/en/about/ 1 -
+/en/cloud/en/about/en/cloud/en/cloud/en/cloud/en/cloud/en/cloud/hosting 1 -
+/en/about/en/cloud/en/about/en/cloud/en/about/en/about/en/cloud/en/about/en/cloud/hosting 1 -
+/en/about/en/cloud/en/about/en/about/ 1 -
+/expansion/fckeditor/fckeditor.js 1 http://www.khladoprom.com
+/scripts/])[1].toLowerCase()])d.isFunction(a) 3 -
+/license.php 2 -
+/en/cloud/en/about/en/about/en/cloud/en/about/ 1 -
+/en/cloud/en/about/en/about/en/cloud/en/about/en/about/en/cloud/hosting 1 -
+/en/cloud/en/about/en/about/en/cloud/en/cloud/en/cloud/en/about/en/about/ 1 -
+/FCKEditorV2/fckeditor.js 1 http://www.khladoprom.com
+/administrator/ 2 -
+/js/fckeditor/editor/filemanager/connectors/php/upload.php 1 -
+/blog/wp-admin/setup-config.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 894
+77.109.22.46 93 93 573170 20161031125500
+82.173.165.123 56 56 305378 20161009193814
+36.248.170.71 56 56 305378 20161009165525
+62.221.75.114 36 36 225317 20161028194618
+46.118.118.216 34 34 261902 20161024175216
+37.115.187.108 33 33 254199 20161024172906
+91.221.154.113 30 38 405189 20161023133611
+46.118.155.22 30 30 231090 20161024172136
+79.62.0.31 29 29 160392 20161008135815
+133.130.115.86 28 28 152689 20161002094955
+159.224.90.111 28 28 130878 20161010170257
+208.43.225.84 27 27 153015 20161010114006
+46.119.118.233 26 26 200278 20161031122514
+82.117.229.221 25 25 163572 20161020085146
+176.122.126.130 24 24 174177 20161031081549
+178.137.167.230 24 24 184872 20161024145124
+46.211.197.241 24 24 184872 20161026074925
+77.120.146.232 24 24 126324 20161021123854
+93.77.71.202 23 23 131744 20161015030324
+176.8.88.141 23 23 177169 20161031041704
+104.236.211.213 22 22 137478 20161026062318
+149.202.74.124 22 22 137478 20161031090459
+178.150.133.125 22 22 137144 20161030170622
+82.117.253.220 22 22 128108 20161024145435
+46.119.119.89 21 21 161763 20161030131146
+109.87.33.200 7 15 276352 20161006111855
+77.120.190.12 2 2 11784 20161021123747
+176.105.207.95 8 8 47276 20161006113137
+64.140.239.22 1 1 7703 20161008075732
+176.15.197.226 1 1 7703 20161022082751
+198.240.65.227 1 1 7703 20161017224302
+176.195.172.141 1 1 4081 20161016090939
+92.113.211.191 1 1 4081 20161019112231
+134.249.65.218 4 4 23568 20161017191532
+91.219.223.243 2 2 15406 20161027200936
+109.87.20.43 5 5 33188 20161012153638
+109.86.163.161 1 1 7703 20161010154631
+94.27.38.61 1 1 7703 20161014192010
+31.8.247.253 1 1 7703 20161027220238
+79.134.218.13 1 1 7703 20161020040919
+204.79.180.73 1 1 7703 20161014133452
+91.105.30.65 1 1 7703 20161009111307
+91.196.159.197 7 7 36945 20161017155636
+128.73.247.246 5 5 35425 20161003010131
+93.85.181.182 1 1 7703 20161018171520
+204.79.180.108 1 1 7703 20161013173315
+104.144.59.73 1 1 7703 20161028114357
+91.207.245.197 2 2 11784 20161005140959
+178.216.228.206 3 3 19572 20161014171533
+213.154.214.169 4 4 23568 20161019170140
+91.196.178.39 2 2 11869 20161030213100
+91.142.162.242 2 2 11784 20161021150355
+5.248.116.108 1 1 7703 20161024114531
+82.117.233.48 1 1 4081 20161013122428
+89.68.133.198 0 3 251894 
+178.94.50.65 1 1 7835 20161021134145
+93.32.138.134 2 2 11869 20161009165807
+195.39.210.216 3 17 620707 20161031221024
+117.78.13.59 1 1 7703 20161016224445
+77.222.149.214 1 1 7703 20161004111029
+159.224.86.105 0 1 87881 
+91.202.144.27 7 7 42101 20161031154036
+93.76.175.250 4 4 23087 20161017210653
+185.3.148.44 1 1 7703 20161016195606
+77.122.11.19 7 7 41405 20161001175553
+109.86.1.62 3 3 21376 20161013211637
+37.73.201.126 8 8 45219 20161022203452
+178.151.186.73 7 7 40566 20161001223726
+81.17.139.114 11 11 59781 20161006171442
+46.201.229.155 3 3 18219 20161023003329
+204.79.180.136 1 1 7703 20161020201317
+178.92.243.7 4 4 27275 20161004095445
+62.210.247.93 1 1 7703 20161023184146
+5.58.53.65 14 14 83126 20161009235710
+178.165.26.137 4 4 22308 20161030154617
+185.38.208.68 7 7 41520 20161012170611
+178.165.6.223 3 3 19487 20161024122732
+109.63.243.217 1 1 4081 20161004061720
+46.242.121.87 1 1 5981 20161003014737
+193.251.65.223 1 1 7703 20161011034359
+92.242.107.114 2 2 11869 20161012140351
+159.224.5.193 9 9 47073 20161007221531
+37.52.119.105 1 9 241008 20161031155558
+46.133.21.26 3 3 15865 20161028112246
+77.121.124.161 1 1 7703 20161009114713
+204.79.180.116 1 1 7703 20161023015005
+46.211.156.111 2 2 11869 20161009134902
+204.79.180.49 1 1 7703 20161027220538
+45.55.229.156 1 1 7703 20161011151854
+185.26.182.31 2 2 11869 20161023213251
+178.150.235.217 1 1 7703 20161015192037
+150.70.188.167 1 1 7703 20161031154048
+109.87.88.14 7 7 39601 20161007213622
+82.145.217.220 8 8 44620 20161018192448
+52.91.128.128 1 1 4554 20161004214202
+180.76.15.6 2 2 15406 20161028080101
+93.74.59.202 7 33 1458189 20161005144119
+62.210.94.38 6 6 46218 20161026010223
+178.151.139.105 1 1 7703 20161030083925
+134.249.136.21 9 34 1058001 20161027103231
+176.195.103.253 2 2 11784 20161013204354
+69.58.178.58 10 10 61990 20161023181553
+178.151.36.66 6 31 1048403 20161020114417
+78.137.5.166 2 2 11869 20161024104538
+23.92.212.2 5 5 38515 20161030051138
+159.224.108.227 8 8 45571 20161027203321
+41.219.27.47 9 9 51470 20161008161449
+46.133.252.76 1 10 295528 20161007152145
+81.17.143.98 2 10 248711 20161013204622
+104.156.231.254 3 3 15865 20161029031656
+178.150.105.146 7 15 272064 20161029192411
+144.76.119.75 3 3 23109 20161029005901
+31.129.170.204 10 10 56095 20161002202743
+82.117.244.77 4 4 19644 20161003143514
+93.77.102.137 1 1 7703 20161004171323
+91.142.162.126 1 1 7703 20161006120815
+185.137.19.113 1 9 241008 20161017101805
+82.144.207.200 2 2 12257 20161017180731
+94.253.86.2 1 1 7703 20161009050950
+93.77.114.249 7 49 1924111 20161018074013
+188.244.47.215 1 1 4166 20161011080753
+130.180.209.105 1 1 7703 20161005102418
+193.105.7.229 2 2 10526 20161021125238
+176.50.155.175 3 3 23109 20161015211354
+192.154.110.226 2 2 15432 20161003033738
+178.214.197.101 4 4 20031 20161026084904
+176.123.1.123 1 1 7703 20161003193501
+185.137.216.187 1 1 7703 20161008155130
+178.150.95.151 1 1 7703 20161019092057
+192.154.110.194 2 2 15406 20161003191200
+159.224.216.69 3 3 18227 20161003143224
+92.113.192.229 3 3 15563 20161013110657
+193.239.143.58 7 7 39601 20161017162448
+176.195.97.247 1 1 7703 20161011080858
+89.19.115.47 2 2 15406 20161004170945
+66.249.88.141 1 1 7703 20161019052948
+204.79.180.169 1 1 7703 20161014010303
+193.90.12.87 1 1 7703 20161010115042
+91.203.63.6 1 1 7703 20161005095915
+46.133.129.169 2 10 247358 20161019160452
+159.224.93.31 7 7 45945 20161003144555
+178.150.92.245 2 2 11784 20161018215045
+46.133.198.209 1 1 7703 20161012223149
+82.117.251.68 4 4 24055 20161018143606
+202.214.252.169 2 2 15406 20161023034533
+178.165.94.32 1 1 7703 20161007144106
+91.242.52.188 9 9 56360 20161031012345
+94.76.74.141 1 1 7703 20161024154321
+178.213.174.88 2 2 11784 20161016130714
+93.76.164.175 15 88 3228319 20161015225925
+46.201.231.100 2 2 11784 20161016162653
+31.43.64.208 4 4 19729 20161030223624
+91.221.66.218 1 1 7703 20161020120541
+94.180.218.217 1 1 4081 20161010230703
+195.177.126.114 3 3 19487 20161019121423
+176.193.166.190 1 1 4081 20161030231608
+192.157.231.154 6 6 46218 20161031125949
+46.63.32.200 6 6 32437 20161013130504
+178.95.187.70 1 1 7703 20161016170806
+46.201.230.96 5 28 909559 20161011225918
+176.36.139.61 1 1 7703 20161017101818
+217.77.222.72 1 1 7703 20161013060111
+204.79.180.172 1 1 7703 20161023164316
+91.234.43.46 3 3 18533 20161010101509
+93.76.186.103 3 3 15950 20161010215219
+5.164.127.207 2 2 13673 20161002051711
+176.126.63.148 3 3 17867 20161015211316
+173.208.33.229 5 5 38515 20161012192903
+178.136.129.65 1 9 241008 20161031155816
+46.133.236.120 14 14 71938 20161024172944
+45.55.135.226 1 1 7703 20161029042716
+91.210.146.164 2 2 15406 20161013135441
+82.117.250.201 13 13 73504 20161012135538
+192.154.111.66 2 2 15498 20161002075503
+81.17.137.162 3 3 17782 20161011160955
+194.50.254.22 3 3 19510 20161004152512
+178.219.88.18 2 2 15406 20161017152610
+109.87.108.28 7 7 39695 20161022183859
+2.92.241.161 1 1 4554 20161002215546
+109.86.217.104 5 13 261427 20161012122627
+109.87.29.127 2 2 11784 20161028185757
+83.12.210.82 3 3 15950 20161023205710
+178.165.2.163 3 3 19487 20161020201908
+77.37.174.246 1 1 4545 20161024002930
+193.19.168.162 2 2 11784 20161018085845
+45.55.229.99 11 11 68739 20161006235957
+178.123.158.214 2 2 11784 20161009231725
+194.6.231.245 12 12 67167 20161012004718
+178.165.44.236 7 7 44936 20161018025050
+195.88.242.35 1 1 7703 20161019220458
+128.72.226.58 1 1 7703 20161022002442
+94.45.47.86 11 11 55329 20161007182024
+193.105.7.210 11 11 65058 20161004154055
+46.188.124.80 1 1 7703 20161029204105
+109.87.21.197 6 6 33297 20161031174956
+188.165.236.46 1 1 7703 20161021041151
+91.201.180.46 2 10 248711 20161028095818
+37.57.65.249 6 6 35614 20161016180043
+82.207.93.186 11 11 61750 20161017131510
+91.207.66.70 3 3 16338 20161007165625
+176.195.241.218 1 1 7703 20161018183121
+80.73.12.225 1 1 4081 20161016104943
+85.90.200.187 3 3 19487 20161017141516
+77.92.122.186 6 6 34568 20161005132341
+31.133.90.32 1 1 7703 20161004224706
+212.22.214.153 3 3 19734 20161017124118
+204.79.180.107 1 1 7703 20161024051409
+93.77.115.80 9 9 55458 20161010112910
+93.74.103.157 4 4 29107 20161029145823
+107.167.110.12 2 2 15406 20161024110543
+185.26.180.10 2 11 330455 20161023141146
+193.28.177.254 4 4 22336 20161018195919
+95.153.32.10 1 1 7703 20161028043155
+192.154.106.58 2 2 15406 20161009031206
+37.73.204.94 1 1 7703 20161015132702
+93.77.110.183 8 8 44620 20161028102142
+66.249.93.14 8 8 50425 20161021194958
+50.69.37.16 1 1 7703 20161008113038
+93.77.72.22 3 11 256414 20161012113503
+178.159.234.121 4 4 27190 20161030225741
+188.231.224.15 3 3 15563 20161020095324
+176.126.252.12 1 1 7703 20161012191257
+45.32.131.61 1 1 7703 20161031233509
+80.78.40.14 11 11 58881 20161031152924
+46.219.245.105 6 6 32500 20161030002000
+93.74.180.34 18 32 635128 20161004214549
+204.79.180.97 1 1 7703 20161029013027
+194.44.156.14 4 4 23087 20161019102554
+86.57.164.56 1 1 4166 20161021162353
+178.54.87.183 1 1 7703 20161003101007
+95.133.209.30 1 1 5998 20161007180234
+80.92.233.116 2 2 11784 20161007122622
+62.212.73.49 1 1 7703 20161012233650
+195.225.146.93 5 5 30011 20161024112526
+95.24.125.26 1 1 7703 20161009160758
+192.154.111.26 2 2 15432 20161003033254
+178.150.235.70 4 4 22336 20161020164414
+109.86.190.96 1 9 241008 20161007121548
+45.35.63.194 1 1 7703 20161007171825
+213.179.252.111 2 2 11869 20161016122702
+178.165.4.250 1 1 7703 20161009202552
+180.76.15.162 2 2 15406 20161021174659
+202.46.52.106 1 1 7703 20161005114233
+109.194.239.192 1 1 5998 20161029190721
+178.93.67.101 1 1 7703 20161016000101
+159.224.64.245 18 18 97297 20161009145300
+54.148.212.88 1 1 7703 20161005052932
+194.146.189.138 3 3 15865 20161011120612
+37.57.18.43 0 2 132353 
+176.104.0.60 5 13 268198 20161007121729
+78.25.32.199 1 1 7703 20161006180811
+178.165.115.193 10 10 56717 20161024004447
+41.82.162.241 1 1 7703 20161001161801
+77.120.151.185 2 2 12257 20161015230221
+193.105.70.106 2 2 12257 20161006112147
+46.133.111.173 0 2 41491 
+213.159.38.90 1 1 7703 20161022084452
+95.221.207.201 2 2 12257 20161004110515
+37.55.80.188 3 3 18219 20161030185112
+46.172.64.250 8 41 1721287 20161010230440
+93.126.83.143 7 36 1482940 20161029092109
+31.202.115.86 3 3 14996 20161010221702
+91.222.248.162 2 2 11869 20161011123434
+54.71.242.109 1 1 7703 20161001021428
+14.142.64.3 2 2 15406 20161013145428
+82.117.226.60 4 4 24531 20161024101622
+54.90.41.238 1 1 7703 20161014091743
+82.207.102.199 5 5 25727 20161007133610
+37.73.112.73 2 2 12257 20161006121259
+54.189.192.240 1 1 7703 20161011053027
+77.120.156.9 2 2 11784 20161018141403
+93.183.223.42 16 16 87785 20161012201107
+93.127.48.81 5 5 27559 20161024110405
+46.164.133.60 2 2 12257 20161031135012
+91.200.203.8 2 2 14053 20161013165715
+35.160.141.24 1 1 7703 20161020170148
+46.200.128.58 6 6 29780 20161019070919
+194.44.66.21 2 2 12257 20161019112503
+178.210.90.90 1 1 7703 20161028092452
+77.122.75.19 7 7 37247 20161026101820
+95.133.4.196 1 1 7703 20161018135710
+88.200.215.16 1 1 7703 20161015165628
+77.52.188.186 2 2 11784 20161011104744
+109.87.86.64 1 1 4081 20161019072109
+195.160.233.10 12 21 362932 20161006161146
+5.9.60.148 8 8 51003 20161031162902
+37.73.204.168 4 38 1535436 20161022063437
+52.91.72.85 2 2 10830 20161004214542
+217.24.165.18 6 6 33732 20161018102436
+46.133.43.252 4 20 811150 20161003224410
+5.142.169.43 1 1 7703 20161011133950
+88.201.204.199 1 1 7703 20161031184618
+212.26.129.68 3 3 16338 20161003161841
+77.122.14.198 4 4 21948 20161004190513
+82.117.245.51 2 2 11784 20161019123337
+109.86.206.151 19 19 105750 20161019001345
+64.187.235.131 1 1 7703 20161011111612
+46.219.250.101 1 1 7703 20161019135617
+176.102.35.130 11 40 1507454 20161021142821
+81.25.229.234 5 5 34024 20161020170251
+176.121.255.156 1 1 4081 20161020155346
+94.45.44.210 3 3 15950 20161005112506
+82.207.64.49 5 5 30248 20161020161455
+178.218.208.194 2 2 15406 20161009221350
+94.119.64.4 0 1 85629 
+192.154.104.74 1 1 7703 20161012145758
+192.99.54.23 1 1 7703 20161005030337
+178.165.106.160 1 1 7703 20161026090444
+204.79.180.160 1 1 7703 20161009215437
+188.255.22.44 1 1 4166 20161030212051
+91.224.16.157 1 1 7703 20161023233918
+37.57.54.176 6 6 30668 20161015234040
+82.145.221.176 3 3 18134 20161031150754
+46.118.80.57 1 1 7703 20161022121306
+8.37.234.75 1 1 7703 20161005105125
+176.37.92.203 2 2 11869 20161008230051
+149.202.98.160 1 1 7703 20161002030257
+185.129.148.216 2 2 15406 20161008124944
+31.129.244.198 1 6 217391 20161005162653
+109.86.72.163 1 1 7703 20161013110215
+188.32.230.13 1 1 7703 20161012101119
+212.26.245.113 1 1 7703 20161028142449
+176.38.167.23 1 1 7703 20161004125340
+128.68.46.229 1 1 4081 20161005043111
+204.79.180.250 1 1 7703 20161016204610
+45.35.109.254 1 1 7703 20161002132152
+193.15.16.4 1 1 7703 20161002093438
+109.86.196.161 2 10 248711 20161004141833
+93.77.116.213 9 9 53274 20161004205426
+173.208.136.114 1 1 7703 20161020232449
+46.211.138.124 10 10 50912 20161023202432
+213.222.233.87 1 1 7703 20161018201146
+93.77.103.163 1 1 7703 20161031123626
+91.199.245.182 1 1 7703 20161027154854
+93.76.242.53 4 4 16580 20161027221432
+45.32.130.173 1 1 7703 20161019105318
+37.57.69.142 5 5 30124 20161027224721
+176.36.121.4 1 1 7703 20161017211939
+109.86.1.55 6 6 35836 20161030120320
+82.207.73.181 1 1 7703 20161024134144
+93.76.168.54 1 1 7703 20161015101938
+193.105.7.74 11 11 66614 20161018184340
+193.161.12.66 1 1 7703 20161029163113
+46.201.92.158 2 2 11784 20161027212553
+194.158.210.77 2 2 15406 20161017105727
+37.57.13.187 5 5 24198 20161013001239
+95.135.149.4 2 2 11784 20161020152055
+193.34.93.39 14 14 73313 20161024132658
+77.120.163.233 14 14 78830 20161010163650
+62.216.43.90 5 5 31441 20161013205605
+46.133.180.228 3 11 252792 20161017142858
+46.149.52.204 6 6 33790 20161028193529
+46.188.29.95 0 1 85275 
+37.229.157.113 10 10 60872 20161030181958
+37.57.32.16 7 7 50299 20161018115351
+46.185.109.108 3 3 19487 20161007230153
+82.145.221.128 1 1 7703 20161028170958
+80.91.188.134 1 1 7703 20161029182534
+178.150.198.233 1 1 7703 20161012140501
+78.11.124.162 5 5 30036 20161020103015
+91.208.153.1 1 1 7703 20161021152007
+195.178.11.41 2 2 14452 20161013124953
+77.120.184.125 8 16 282350 20161026073651
+188.68.188.36 4 4 23653 20161007133934
+80.91.185.20 6 6 35344 20161018153812
+78.158.11.226 3 3 15106 20161013054902
+109.87.77.116 2 2 11784 20161010105624
+180.76.15.23 1 1 7703 20161008091448
+130.180.210.38 7 7 39131 20161031151713
+93.75.79.180 3 3 19510 20161016124525
+77.239.174.165 2 2 11784 20161013145615
+128.72.221.5 2 2 11869 20161013235820
+176.126.163.225 1 1 7703 20161018232629
+204.79.180.228 1 1 7703 20161017060026
+93.78.236.102 2 2 15452 20161019120311
+109.86.219.7 2 11 330455 20161020122837
+110.53.183.61 10 10 62741 20161022041124
+178.165.108.3 5 5 28310 20161018212121
+37.73.251.234 1 1 3694 20161020105139
+176.195.182.85 1 1 4166 20161009134025
+37.110.149.240 2 2 12294 20161011025437
+92.242.98.250 3 3 23109 20161005194654
+176.107.48.48 7 7 38822 20161021133254
+37.229.140.149 2 2 15419 20161016035747
+178.151.104.182 2 2 11784 20161018122736
+52.198.186.130 3 3 16338 20161018160706
+188.163.87.58 2 2 15406 20161004114213
+37.73.196.5 5 31 1270516 20161018122512
+194.44.98.218 6 6 33251 20161005160946
+91.231.54.67 1 1 7703 20161010155959
+37.73.244.53 1 9 241008 20161001123018
+213.110.136.38 2 2 12257 20161021170141
+93.183.237.62 5 5 26862 20161026110620
+46.211.254.48 2 2 11784 20161017162213
+185.137.18.155 11 11 66021 20161016211646
+94.153.172.246 8 8 44562 20161018113422
+95.133.45.41 1 1 7703 20161019094635
+37.57.8.58 6 6 35861 20161013204620
+194.50.141.207 1 1 7703 20161008163257
+79.105.171.189 1 1 7703 20161012005247
+195.138.218.155 1 1 7703 20161018152746
+177.23.177.146 1 1 7703 20161008065038
+180.76.15.149 1 1 7703 20161016041546
+77.122.123.166 1 14 599424 20161017132408
+91.210.147.127 2 2 15406 20161028215159
+93.76.243.241 3 20 993012 20161005201832
+198.240.105.132 1 1 7703 20161029063441
+69.199.239.200 3 3 16338 20161008062756
+204.79.180.235 1 1 7703 20161006203819
+94.153.156.227 1 1 7703 20161017094157
+91.221.124.11 6 6 32824 20161020122834
+178.151.143.139 3 22 1053409 20161005195907
+193.111.159.60 3 3 19572 20161001121542
+37.57.81.13 6 6 35168 20161006151837
+82.117.239.19 6 6 38672 20161012130153
+95.221.220.87 2 2 12294 20161013204003
+146.0.74.195 1 1 7703 20161013124716
+45.79.85.112 1 1 7703 20161008185925
+54.172.241.121 1 1 7703 20161018025206
+37.73.112.74 2 2 11869 20161020153750
+46.211.156.139 1 9 241008 20161011151647
+109.236.8.6 2 2 15406 20161003194301
+77.121.121.13 16 16 85860 20161024010001
+195.189.8.185 4 4 23653 20161012144601
+213.160.147.146 12 12 74029 20161020183516
+93.77.104.246 1 1 7703 20161005104527
+176.193.164.112 1 1 4166 20161010075747
+208.43.225.85 12 12 76442 20161010113937
+193.0.205.94 2 2 12257 20161020171245
+176.101.207.217 2 2 11784 20161021140208
+212.21.66.6 1 1 7703 20161020123734
+46.201.164.238 2 2 11784 20161022185251
+62.210.75.243 1 1 7703 20161023110913
+31.202.116.92 0 1 87881 
+109.87.123.238 1 1 4166 20161011215229
+94.179.67.68 1 1 7703 20161028145842
+188.163.85.97 2 2 11869 20161020205734
+64.251.72.66 1 1 7703 20161006190533
+45.55.131.62 11 11 68739 20161031041228
+176.36.82.9 12 12 66991 20161024204404
+46.133.99.232 1 1 4081 20161013155558
+89.163.251.164 1 1 7703 20161020094854
+188.32.234.10 1 1 4166 20161003034529
+195.46.58.224 1 9 241008 20161027155533
+94.179.57.171 5 39 1778992 20161027145602
+95.134.53.116 6 6 38974 20161018141818
+79.110.31.77 6 6 38140 20161011073625
+109.86.207.238 2 2 11784 20161002235816
+37.57.41.139 2 2 10164 20161021225319
+195.211.23.210 1 1 4081 20161030021443
+208.90.57.196 10 10 53132 20161001060531
+178.150.133.2 9 53 2233866 20161012161019
+66.102.9.135 2 2 11397 20161015195343
+178.93.113.233 4 4 19729 20161001113056
+194.31.46.73 2 2 15406 20161021032915
+5.189.144.37 1 1 4166 20161011123550
+195.24.148.130 1 1 7703 20161011152409
+195.211.188.32 1 1 4166 20161007213956
+37.54.194.58 1 1 7703 20161012111151
+66.102.9.132 3 3 15951 20161015030611
+78.24.78.114 4 4 20419 20161010172527
+193.41.185.56 2 2 11869 20161005000521
+193.85.236.70 3 3 19487 20161006165421
+200.116.18.189 13 44 1413026 20161014225950
+85.90.199.254 3 3 15865 20161007123129
+193.200.33.40 3 3 15563 20161018163429
+178.165.110.171 5 5 35366 20161008210808
+176.14.207.97 0 1 8041 
+94.119.96.7 7 7 40630 20161001234635
+78.111.186.38 4 4 20031 20161013200643
+90.188.30.19 3 3 19487 20161006023303
+91.221.124.206 1 1 7703 20161024173747
+46.164.134.6 2 2 11869 20161005134151
+78.111.190.92 1 1 7703 20161031101140
+193.105.7.105 5 5 29142 20161027220640
+91.225.227.122 2 2 11784 20161020103851
+130.180.212.74 3 3 16423 20161017185044
+37.110.157.175 1 1 5981 20161009175530
+193.17.46.253 1 1 7703 20161018143900
+178.150.151.109 2 2 11784 20161024102655
+178.165.99.90 1 9 271854 20161021161653
+37.73.211.70 2 2 11784 20161018161221
+109.86.210.176 3 3 19572 20161021001902
+91.220.253.101 2 2 11869 20161028111524
+95.25.155.78 1 1 4081 20161028214138
+193.105.7.125 2 2 14452 20161012233011
+45.55.133.240 1 1 7703 20161007045809
+178.150.171.140 10 10 59866 20161027195651
+46.29.15.100 1 1 7703 20161028153044
+195.211.188.16 1 1 4166 20161021125756
+195.88.72.183 7 7 40954 20161022182056
+82.117.225.197 21 44 1011651 20161016163529
+91.208.198.12 6 6 36760 20161012123627
+180.76.15.158 1 1 7703 20161021174659
+77.37.220.63 2 2 12257 20161006135116
+46.200.147.156 1 1 4081 20161011212514
+31.134.122.77 3 3 23109 20161006084408
+85.90.219.250 2 2 12257 20161018111454
+206.41.175.129 1 1 7703 20161024223438
+193.178.228.65 21 37 750776 20161007142736
+109.86.182.32 1 1 7703 20161010142501
+37.17.16.11 1 1 7703 20161020093459
+85.90.194.101 1 9 241008 20161016130046
+91.234.43.22 1 9 241008 20161003170951
+46.200.149.66 5 5 27883 20161009143627
+94.179.106.39 5 24 849786 20161007170608
+93.74.7.209 2 2 15406 20161002214408
+91.212.174.11 3 3 19510 20161012143428
+77.120.134.152 4 12 264117 20161024213946
+198.240.127.135 1 1 7703 20161005231543
+93.76.203.8 3 3 17867 20161008162428
+178.165.78.148 2 2 14452 20161006064742
+46.46.97.143 1 1 7703 20161031173228
+95.213.141.126 8 8 61624 20161028113916
+93.76.166.152 4 4 23568 20161031155129
+80.92.233.235 10 10 57859 20161007110733
+45.55.133.248 1 1 7703 20161014031526
+178.165.106.202 1 1 7703 20161006091009
+62.64.105.62 8 8 47136 20161024142604
+141.0.13.170 2 2 11869 20161005120807
+178.165.33.161 11 25 718840 20161024100732
+82.117.232.127 11 19 299928 20161024092158
+178.150.104.216 8 8 48184 20161008153426
+188.165.206.188 1 1 7703 20161016015212
+204.79.180.183 1 1 7703 20161017194844
+80.255.64.192 20 20 110721 20161018171819
+37.229.164.253 0 1 87881 
+77.52.29.59 7 7 41490 20161013163553
+77.120.179.122 4 4 20031 20161021060358
+188.115.170.26 1 1 7703 20161014140203
+217.20.190.245 6 21 766959 20161006085738
+85.238.101.76 1 1 7703 20161022001243
+45.32.130.87 2 2 15406 20161013064305
+188.244.34.187 1 1 7703 20161003010134
+109.236.8.10 1 1 7703 20161003194301
+178.137.95.202 20 20 154060 20161031234337
+195.88.72.187 4 4 27663 20161007194859
+46.188.31.221 1 1 5981 20161016112517
+178.165.10.30 4 4 19729 20161009184420
+77.120.181.151 1 1 7703 20161019040758
+95.133.21.19 1 1 7703 20161016162240
+93.76.186.106 3 3 18219 20161005083131
+93.77.101.125 7 7 42849 20161023192955
+192.154.106.250 2 2 15432 20161003034504
+37.57.3.215 1 1 7703 20161002145059
+195.88.72.185 1 1 7703 20161017225939
+46.73.215.119 1 1 4081 20161006014552
+74.91.26.114 3 3 15865 20161015110441
+178.136.233.172 9 42 1433164 20161010165921
+37.54.231.67 4 4 23087 20161012230109
+91.220.252.20 10 10 53733 20161003122620
+95.132.32.163 1 1 7703 20161018215144
+95.69.159.221 5 5 26890 20161029110153
+94.119.64.5 0 2 162726 
+213.231.145.219 1 1 7703 20161012222446
+93.76.248.19 12 12 69612 20161028235608
+93.77.88.255 2 2 11784 20161007114057
+46.63.103.183 8 8 40467 20161004064726
+46.133.190.105 2 13 365083 20161011102215
+77.121.132.18 3 3 17867 20161031165248
+66.249.88.139 2 2 15406 20161011053050
+178.94.64.101 5 5 30790 20161003151859
+45.55.133.241 1 1 7703 20161021120148
+31.202.22.218 11 11 58570 20161024200633
+82.207.26.103 4 4 22614 20161020160051
+141.0.13.123 4 4 27190 20161028102450
+195.154.207.28 1 1 7703 20161018112140
+195.214.198.15 2 2 11784 20161004151211
+217.20.185.141 0 1 70127 
+178.95.178.226 7 7 41405 20161012145104
+82.117.232.33 3 18 920549 20161010231016
+37.57.107.30 1 1 7703 20161012094808
+109.86.229.117 13 21 311277 20161020170121
+78.111.187.189 7 7 40767 20161029213539
+159.224.61.79 5 5 28310 20161020235231
+46.42.135.127 1 1 7703 20161030224425
+37.73.164.11 8 8 48333 20161022153634
+178.123.168.5 1 1 6350 20161021000613
+217.12.196.22 1 1 7703 20161005141234
+178.94.96.66 0 2 109040 
+91.196.158.140 3 3 19487 20161011153836
+85.90.222.133 4 4 24503 20161012132937
+176.36.91.220 10 10 51979 20161002144609
+87.244.182.215 1 1 7703 20161001125507
+109.86.246.30 4 4 23266 20161023124710
+89.78.123.159 1 1 5981 20161013040628
+93.95.189.178 2 2 15406 20161014105831
+178.151.145.115 6 6 42793 20161019181733
+178.94.53.27 7 7 43235 20161010174513
+93.76.206.82 3 3 23109 20161010105547
+178.34.49.74 1 1 7703 20161012022204
+178.217.208.10 7 7 41405 20161014154701
+91.209.36.70 1 1 7703 20161024214517
+216.19.214.184 1 1 7703 20161011174447
+93.76.242.95 2 2 11784 20161012131439
+149.202.206.103 1 1 7703 20161001035130
+93.78.235.107 4 23 845705 20161027141212
+104.236.113.5 1 1 7703 20161016141057
+178.32.139.10 1 1 7703 20161010022231
+77.122.4.60 4 4 24041 20161028172502
+109.120.161.138 1 1 7703 20161010062152
+93.76.51.154 8 8 40720 20161013155004
+109.173.125.248 3 3 23109 20161027221209
+178.94.49.241 3 3 19487 20161003095336
+46.211.154.128 1 1 7703 20161009162953
+109.86.213.99 2 2 11784 20161010120154
+91.195.96.213 7 7 33502 20161018165131
+46.133.222.19 1 1 7703 20161028192620
+91.221.199.113 6 6 32676 20161023034626
+37.53.90.127 3 3 23155 20161019095846
+178.124.254.210 2 2 15406 20161031090207
+194.187.170.113 7 7 41017 20161008171944
+178.151.222.63 5 19 677512 20161024103436
+185.12.9.143 1 1 7703 20161014003418
+66.249.93.13 4 4 24225 20161021195000
+113.240.250.156 1 1 7703 20161001234622
+62.149.1.74 1 1 7703 20161019072234
+204.79.180.162 2 2 15406 20161005205638
+188.163.82.122 2 2 14452 20161021235516
+93.174.90.30 1 1 7703 20161009012319
+109.86.245.68 5 5 26417 20161010150411
+94.179.11.50 3 3 19487 20161028133318
+93.175.208.198 5 5 26393 20161021163247
+79.171.122.226 10 10 56414 20161005201234
+185.31.84.2 7 7 38201 20161024160252
+85.90.210.112 2 2 11784 20161017092022
+89.28.207.238 3 3 18227 20161023092624
+109.87.65.236 10 56 2182320 20161005222600
+193.176.251.177 5 5 30969 20161006162726
+37.57.179.183 2 2 11869 20161006151832
+46.73.183.103 1 1 4081 20161009121501
+37.229.229.36 3 3 15950 20161023175411
+178.165.90.239 5 5 27344 20161007142434
+46.133.174.215 3 19 933028 20161005105232
+91.209.55.106 5 5 31271 20161012185307
+198.136.62.28 1 1 7703 20161007210602
+82.207.96.109 2 2 12257 20161012135535
+178.213.174.114 1 1 7703 20161011173901
+45.32.7.20 1 1 7703 20161023202114
+178.151.225.147 5 5 28686 20161019191746
+82.207.73.135 1 1 7703 20161013175121
+5.164.191.100 1 1 7703 20161002094054
+178.151.73.227 4 4 19644 20161031110223
+5.45.85.70 1 1 7703 20161016040832
+202.102.99.33 1 1 7703 20161018023146
+46.242.76.106 1 1 7703 20161024004330
+93.78.157.164 1 1 7703 20161006124323
+46.211.4.46 3 3 23109 20161011120856
+46.174.69.221 2 2 13701 20161004185432
+109.87.34.80 6 6 34581 20161010220501
+124.123.96.113 4 4 23270 20161013140135
+91.218.98.235 5 5 34893 20161011154048
+65.19.167.132 1 1 7703 20161011004738
+204.79.180.126 1 1 7703 20161030012854
+185.22.16.115 1 1 7703 20161005121222
+109.86.199.80 15 15 82202 20161008210949
+93.76.194.129 1 1 7703 20161017215803
+37.57.49.154 2 2 8635 20161019093045
+130.180.220.44 2 7 225094 20161005221144
+109.87.35.74 8 8 49053 20161011123028
+178.95.113.62 5 5 24198 20161023220512
+193.106.31.107 1 1 7703 20161008103733
+85.90.200.95 1 1 7703 20161003093021
+35.160.206.102 1 1 7703 20161019052943
+93.75.155.186 2 2 11784 20161031083155
+195.211.188.76 5 5 24846 20161003144946
+176.105.98.70 2 2 11784 20161005104345
+178.217.187.39 1 1 7703 20161010121001
+195.114.151.227 2 2 11784 20161003080157
+83.149.46.146 4 4 21948 20161015144014
+95.135.201.249 3 3 18227 20161024133703
+46.211.251.23 1 1 7703 20161003234900
+95.133.162.74 3 3 16338 20161028112159
+91.204.120.162 0 1 44335 
+80.73.3.100 13 13 86605 20161022111533
+89.190.42.7 1 1 7703 20161019230849
+37.204.152.159 2 2 11784 20161011031224
+159.224.64.146 4 4 25570 20161022194718
+204.79.180.69 1 1 7703 20161009030525
+77.120.163.4 7 7 43716 20161031173134
+188.163.82.10 3 3 23109 20161030000726
+178.151.92.156 21 21 122817 20161017152718
+115.239.212.195 1 1 4081 20161030224934
+188.231.178.76 2 2 11784 20161018222927
+82.117.228.8 8 8 44460 20161020145305
+93.76.210.56 9 9 57787 20161029185637
+77.122.13.46 8 8 39606 20161003174147
+195.78.246.9 2 2 11869 20161030075825
+66.249.93.12 1 1 4166 20161021194810
+109.86.95.202 6 6 31863 20161010070030
+188.163.82.34 3 3 15563 20161012201728
+41.82.157.82 5 5 26087 20161009000608
+51.255.83.13 1 1 7703 20161014033304
+150.70.188.175 1 1 7703 20161028145131
+104.236.196.185 11 11 68739 20161021163244
+91.197.217.11 5 5 25642 20161017120422
+195.114.249.133 0 1 104231 
+180.76.15.31 1 1 7703 20161028080101
+46.211.155.124 2 2 11784 20161030165829
+93.76.226.107 8 8 44711 20161002122815
+118.130.42.214 1 1 7703 20161027184740
+104.238.180.234 1 1 7703 20161018041641
+178.165.60.226 4 4 23087 20161012091320
+188.32.231.202 2 2 11784 20161006164142
+195.88.158.71 2 2 11869 20161013152658
+204.79.180.252 1 1 7703 20161016080855
+81.90.226.40 4 4 23780 20161010160601
+46.133.255.72 2 2 13673 20161028110431
+213.160.138.244 3 3 15950 20161031162932
+5.248.253.78 9 9 69327 20161031171634
+46.98.142.217 7 7 42313 20161008093027
+195.242.80.92 1 1 7703 20161029161409
+46.211.141.232 2 2 11784 20161014185931
+109.87.86.142 7 7 41462 20161031211936
+77.109.20.158 7 7 36166 20161020120047
+192.162.113.85 3 3 23155 20161027212319
+213.160.156.171 3 3 23109 20161011130047
+77.120.133.153 2 2 11784 20161017142341
+31.173.100.15 3 3 23122 20161014100633
+93.80.145.198 1 1 4166 20161031120059
+193.169.234.21 1 1 7703 20161016011420
+192.154.106.170 2 2 15406 20161003005300
+134.249.159.113 1 1 7703 20161027164457
+46.133.46.207 4 17 518208 20161005130214
+37.57.55.223 4 4 19644 20161028122226
+204.79.180.241 1 1 7703 20161020054630
+46.211.114.208 2 2 11784 20161017100721
+82.117.251.113 5 5 30317 20161027172223
+31.42.125.202 3 3 16338 20161030223037
+192.154.105.146 1 1 7703 20161015181632
+194.143.144.2 3 11 252792 20161021162826
+84.51.79.187 3 3 23109 20161001222004
+37.54.147.167 1 6 217391 20161005222729
+178.150.59.200 13 13 75668 20161017191227
+93.76.211.150 4 4 16192 20161031141742
+204.79.180.245 1 1 7703 20161008013602
+185.137.18.252 5 5 34893 20161016163743
+82.117.235.158 0 1 87881 
+37.140.189.219 2 2 11784 20161018145006
+188.165.29.82 1 1 7703 20161024014239
+66.249.83.193 1 1 7703 20161018031258
+193.201.83.11 17 17 105096 20161024135330
+94.179.20.111 4 4 18326 20161020114907
+192.154.104.2 2 2 15406 20161003010457
+178.151.69.1 7 7 45723 20161021172500
+178.150.94.201 7 7 44064 20161011094020
+178.165.47.177 11 11 67938 20161010100537
+149.56.229.16 1 1 7703 20161012061937
+178.165.19.221 2 2 11869 20161018163748
+185.38.208.163 4 4 23568 20161012095601
+185.137.216.42 3 11 256414 20161018181027
+130.211.157.221 1 1 7703 20161009055232
+85.25.103.119 4 4 30812 20161004094303
+178.150.94.226 1 1 7703 20161018182141
+77.244.21.33 2 2 11784 20161020101439
+94.50.7.94 1 1 7703 20161020172142
+204.79.180.121 1 1 7703 20161002051952
+213.227.228.175 1 1 7703 20161001202946
+95.133.68.100 5 5 31271 20161016165359
+178.137.164.171 2 2 15406 20161005195549
+93.72.145.80 1 1 7703 20161005103810
+85.90.214.219 2 6 188335 20161005151755
+195.5.31.54 1 1 7703 20161009155004
+95.69.184.59 1 9 241008 20161020155210
+195.191.127.252 1 1 7703 20161011144030
+88.81.43.126 1 1 6749 20161002221410
+94.179.21.26 2 2 15406 20161012193603
+162.213.3.221 1 1 7703 20161004094306
+31.202.121.2 8 8 45395 20161024103452
+77.122.124.127 8 8 37753 20161030133553
+95.133.49.30 5 5 26467 20161020021525
+104.156.230.231 1 1 7703 20161012130801
+46.211.112.166 2 2 15406 20161016221114
+89.178.91.13 1 1 7703 20161024092840
+217.20.190.33 1 1 7703 20161006144843
+207.244.70.35 1 1 7703 20161021224652
+173.193.214.107 1 1 7703 20161006045818
+212.111.199.46 5 23 794284 20161011093303
+95.130.11.147 1 1 7703 20161004131448
+87.117.189.201 2 2 11869 20161005133816
+46.211.6.23 5 5 26854 20161029121041
+178.151.216.178 2 10 248711 20161018121226
+85.238.96.55 4 4 20504 20161014140740
+159.224.38.159 3 3 15950 20161015225040
+178.150.166.164 2 2 13701 20161005113122
+193.150.109.63 2 2 11869 20161013133154
+46.98.51.101 1 1 7703 20161016161210
+109.87.98.233 2 2 11784 20161010011808
+37.53.180.17 10 56 2431735 20161014195018
+185.9.79.241 1 1 7703 20161031023013
+93.76.176.91 2 2 11784 20161021182243
+195.154.146.225 5 5 38515 20161030201229
+37.57.0.211 2 2 11784 20161024154212
+37.73.204.175 1 9 241008 20161024212045
+204.79.180.201 1 1 7703 20161004175522
+46.188.0.97 1 1 4081 20161021073435
+193.106.63.173 3 11 252792 20161010204504
+82.207.98.245 3 20 696661 20161027095728
+82.117.234.87 5 5 28306 20161003105027
+62.210.152.87 3 3 23109 20161017105224
+78.106.202.103 1 1 7703 20161004205234
+95.221.194.233 2 2 14452 20161004105027
+130.180.209.205 3 3 12414 20161012121042
+193.227.119.22 1 1 7703 20161028103750
+85.115.248.237 1 1 7703 20161024190625
+178.151.83.210 17 17 101024 20161001122451
+46.201.81.40 6 6 32387 20161020152221
+204.79.180.153 2 2 15406 20161031103837
+37.54.231.45 1 1 7703 20161004002732
+77.122.71.102 5 5 27253 20161005181322
+46.133.131.126 2 10 247006 20161004081919
+94.119.64.0 0 1 57344 
+178.158.200.226 4 4 30812 20161028212212
+46.133.15.33 1 9 241008 20161018132330
+209.128.119.82 1 1 7703 20161024205920
+46.28.70.249 1 1 7703 20161012041526
+176.37.245.180 3 3 16338 20161031131357
+176.193.110.81 2 2 11869 20161020101115
+46.133.52.104 4 4 22312 20161006164047
+37.77.104.175 1 1 7703 20161020174827
+14.134.4.5 1 1 7703 20161016084346
+45.32.129.200 1 1 7703 20161007185936
+176.102.60.14 4 4 19257 20161018164905
+45.76.196.135 11 11 68739 20161019122303
+91.76.66.227 1 1 4166 20161017062750
+46.73.236.14 1 1 4081 20161018200539
+178.78.28.252 1 1 4166 20161009212114
+159.224.64.176 4 4 24041 20161017150923
+82.117.254.178 1 1 7703 20161011103815
+198.144.182.211 1 1 7703 20161014142202
+193.176.251.155 2 2 11869 20161020160228
+77.122.67.233 3 3 19572 20161003092831
+204.79.180.127 1 1 7703 20161004000620
+178.165.96.200 6 6 36446 20161006183532
+91.212.80.57 6 39 1186380 20161019092934
+194.50.79.7 13 13 70255 20161006101145
+85.10.199.106 11 11 70776 20161031135007
+195.189.51.168 2 2 15452 20161016211328
+178.150.179.236 0 1 54520 
+109.86.220.200 4 4 19946 20161011092138
+178.54.16.215 4 4 22033 20161019104702
+195.88.72.213 3 3 19487 20161003231104
+109.254.130.3 2 2 15406 20161007152118
+46.33.57.218 17 17 108212 20161007150728
+194.44.189.68 6 6 34569 20161019214058
+82.207.53.244 1 1 7703 20161022162946
+94.244.176.121 2 2 11784 20161011192222
+77.122.37.110 1 1 7703 20161012172651
+176.9.139.227 1 1 7703 20161031104920
+94.179.53.26 2 2 11784 20161003110817
+109.87.41.18 3 3 19487 20161010140556
+95.132.166.164 1 1 7703 20161014122525
+198.50.132.10 1 1 7703 20161004003150
+92.241.245.126 1 1 7703 20161025234406
+52.3.127.144 18 18 106127 20161031044815
+93.185.29.124 2 2 11784 20161028013222
+37.73.243.52 2 18 245089 20161027110615
+188.163.86.102 13 13 71185 20161014152857
+159.224.91.203 2 2 11869 20161016165945
+85.248.227.164 2 2 15406 20161011161001
+62.221.52.121 2 19 954656 20161027090054
+37.52.151.241 1 1 7703 20161019182200
+192.154.105.122 2 2 11940 20161001060859
+77.109.20.130 2 2 15406 20161020165318
+91.202.129.207 0 1 104231 
+94.243.245.12 1 1 7703 20161018025100
+31.129.188.47 3 3 18219 20161027213520
+194.187.170.143 1 1 7703 20161007205459
+217.69.133.169 2 2 15406 20161024021826
+85.90.199.59 2 2 11784 20161010115519
+37.55.72.114 4 37 1929683 20161022112032
+82.193.99.34 3 20 696661 20161027133146
+213.159.212.73 3 3 23122 20161031131351
+213.227.209.86 2 2 11784 20161007102946
+109.173.59.141 1 1 7703 20161014092311
+46.164.137.68 4 4 27663 20161010171415
+94.178.218.112 6 6 38672 20161022220123
+85.114.203.216 3 3 19487 20161007055242
+109.87.96.35 14 50 1732028 20161022112325
+37.57.16.167 2 2 11869 20161012150610
+212.111.192.154 9 9 44333 20161019110120
+50.60.135.135 1 1 7703 20161005014245
+193.105.7.78 1 1 7703 20161014125434
+193.151.58.18 3 3 12243 20161013141315
+77.122.125.217 1 24 884017 20161023233337
+213.231.145.118 3 3 23109 20161014114203
+77.122.124.105 1 1 7703 20161006171027
+159.224.20.118 7 7 39128 20161002214218
+192.99.160.151 1 1 7703 20161017142433
+37.57.115.40 2 2 11784 20161012103823
+159.224.216.64 6 6 36312 20161031183901
+93.74.2.131 1 1 7703 20161011211256
+66.102.9.129 3 3 16035 20161015195324
+178.150.235.5 4 4 22336 20161003212319
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20161001 106 118 1180207 22
+20161002 92 92 542629 20
+20161003 108 164 3082210 39
+20161004 102 135 1728941 39
+20161005 114 270 8476655 46
+20161006 160 192 2204055 38
+20161007 137 199 3175685 39
+20161008 73 73 456491 29
+20161009 194 195 1190158 32
+20161010 205 295 5481276 46
+20161011 110 178 3151310 49
+20161012 171 232 3797808 52
+20161013 97 105 814769 41
+20161014 72 127 3157227 29
+20161015 75 148 3576003 22
+20161016 91 164 3590972 35
+20161017 116 145 1774792 37
+20161018 202 269 3875160 62
+20161019 145 163 1486265 43
+20161020 166 217 2914163 55
+20161021 175 236 3767195 52
+20161022 128 232 5985141 32
+20161023 120 160 2201781 31
+20161024 173 220 3076657 52
+20161025 1 1 7703 1
+20161026 47 55 540244 13
+20161027 88 227 6243125 31
+20161028 120 129 1101059 48
+20161029 79 116 2190936 30
+20161030 140 140 847721 39
+20161031 154 184 2042769 47
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30s-2mn 182
+15mn-30mn 21
+0s-30s 818
+2mn-5mn 57
+5mn-15mn 45
+1h+ 9
+30mn-1h 19
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 30
+/ 1318 10152554 931 496
+/contacts.php 466 1901746 78 246
+/produce.php 350 1458100 41 84
+/about.php 271 1234134 9 63
+/manufacture.php 214 1283572 5 42
+/label.php 160 1079840 4 27
+/quality.php 153 971550 5 23
+/index.php 151 1163153 24 43
+/history.php 147 877590 7 33
+/brand.php 110 406340 6 28
+/index-ua.php 56 433944 2 8
+/prodnew-ua.php 54 308807 9 8
+/index-eng.php 46 354936 9 8
+/produce-ua.php 31 132742 2 2
+/about-ua.php 30 136350 4 4
+/history-ua.php 25 149525 5 5
+/contacts-ua.php 22 89276 0 8
+/quality-ua.php 17 105281 1 1
+/brand-ua.php 17 64804 0 5
+/produce-eng.php 17 68510 1 4
+/manufacture-ua.php 16 95984 0 1
+/label-ua.php 14 95326 0 0
+/manufacture-eng.php 12 65016 2 3
+/about-eng.php 12 56124 1 1
+/contacts-eng.php 11 41470 1 4
+/brand-eng.php 8 28520 0 0
+/quality-eng.php 10 53290 1 1
+/label-eng.php 11 69212 1 2
+/about.php/contacts.php 1 4554 0 0
+/history-eng.php 11 60456 2 1
+END_SIDER

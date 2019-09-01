@@ -1,0 +1,335 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201010 will be lost/reset.
+# Last config file used to build this data file was /home/khladopr/tmp/awstats/awstats.khladoprom.com.ua.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2011                
+POS_TIME 2683                
+POS_VISITOR 8213                
+POS_DAY 9508                
+POS_DOMAIN 3277                
+POS_LOGIN 3553                
+POS_ROBOT 3708                
+POS_WORMS 4021                
+POS_EMAILSENDER 4152                
+POS_EMAILRECEIVER 4295                
+POS_SESSION 9655                
+POS_SIDER 9845                
+POS_FILETYPES 4430                
+POS_DOWNLOADS 9919                
+POS_OS 4497                
+POS_BROWSER 4585                
+POS_SCREENSIZE 4724                
+POS_UNKNOWNREFERER 4798                
+POS_UNKNOWNREFERERBROWSER 5025                
+POS_ORIGIN 5145                
+POS_SEREFERRALS 5281                
+POS_PAGEREFS 5447                
+POS_SEARCHWORDS 6365                
+POS_KEYWORDS 6804                
+POS_MISC 2347                
+POS_ERRORS 7097                
+POS_CLUSTER 3409                
+POS_SIDER_404 7184                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20120425114808 1 0 24746065685805
+FirstTime 20101027145453
+LastTime 20101030232812
+LastUpdate 20120425211741 1 0 0 0 0
+TotalVisits 35                  
+TotalUnique 32                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 32                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 7 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 5 5 13605
+1 0 0 0 0 2 102
+2 0 0 0 3 4 4654
+3 0 0 0 1 1 51
+4 0 0 0 6 7 18133
+5 1 1 4501 0 0 0
+6 1 1 4501 9 10 9410
+7 1 1 4501 4 4 9104
+8 0 0 0 4 4 9104
+9 7 7 31495 1 2 4552
+10 3 3 13503 2 12 612
+11 1 1 4501 2 3 4603
+12 0 0 0 3 4 204
+13 5 5 22481 2 2 4552
+14 3 3 13491 3 6 4744
+15 1 1 4489 0 0 0
+16 0 0 0 5 5 13605
+17 6 6 27006 2 3 153
+18 3 3 13503 7 7 9257
+19 9 9 40497 3 6 4756
+20 1 1 4489 1 3 153
+21 2 2 9002 7 7 357
+22 2 2 9002 3 4 4654
+23 6 6 26958 0 1 51
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 5
+ua 40 40 179932
+ru 9 9 40497
+se 1 1 4501
+ro 1 1 4501
+us 1 1 4489
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 5
+bot[+:,\.\;\/\\-] 21 94485 20101031005237 0
+msnbot 1 4501 20101030063713 0
+slurp 1 4501 20101030163825 0
+googlebot 1 4501 20101029023413 0
+[+:,\.\;\/\\-]bot 1 4501 20101028003515 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 1
+html 52 233920 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 5
+winxp 29
+winlong 8
+win2003 1
+Unknown 5
+win2008 9
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 8
+msie6.0 8
+msie8.0 1
+firefox3.6 1
+chrome 11
+msie7.0 11
+opera 14
+firefox3.6.12 2
+Unknown 4
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+Opera/9.80_(J2ME/MIDP;_Opera_Mini/4.2.14912/21.529;_U;_ru)_Presto/2.5.25_Version/10.54 20101030133157
+Yandex.Commerce.Pinger 20101030070811
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Yandex.Commerce.Pinger 20101030070811
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 18 18
+From1 0 0
+From2 11 11
+From3 23 23
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 7 7
+yandex 4 4
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 13
+http://www.goldenpages.ua/details/15942/224/%D0%A5%D0%9B%D0%90%D0%94%D0%9E%D0%9F%D0%A0%D0%9E%D0%9C,_%D0%90%D0%9E%D0%97%D0%A2 5 5
+http://divintos.com.ua/partners.html 3 3
+http://www.goldenpages.ua/details/15942/465/%D0%A5%D0%9B%D0%90%D0%94%D0%9E%D0%9F%D0%A0%D0%9E%D0%9C,_%D0%90%D0%9E%D0%97%D0%A2 3 3
+http://www.goldenpages.ua/details/15942/465/\xd5\xcb\xc0\xc4\xce\xcf\xd0\xce\xcc,_\xc0\xce\xc7\xd2 2 2
+http://www.rada.com.ua/rus/catalog/9109/ 2 2
+http://www.goldenpages.ua/details/15942/ 1 1
+http://www.bing.com/search 1 1
+http://tigerclub.at.ua/forum/2-3-1 1 1
+http://yandex.ua/yandsearch 1 1
+http://www.bestportal.com.ua/rates/redirector.php 1 1
+http://www.busauto.com.ua/index.php 1 1
+http://kharkov.ukrfirm.ru/catalog/card/201.6471 1 1
+http://yandex.ua/msearch 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 5
+%ee%ee%ee+%f2%f0%ee%ff%ed%e4%e0 4
+%d1%85%d0%bb%d0%b0%d0%b4%d0%be%d0%bf%d1%80%d0%be%d0%bc+%d1%85%d0%b0%d1%80%d1%8c%d0%ba%d0%be%d0%b2 3
+%d0%a5%d0%bb%d0%b0%d0%b4%d0%be%d0%bf%d1%80%d0%be%d0%bc 1
+%d1%85%d0%bb%d0%b0%d0%b4%d0%be%d0%bf%d1%80%d0%be%d0%bc 1
+%d0%a5%d0%bb%d0%b0%d0%b4%d0%b8%d0%ba 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 6
+%f2%f0%ee%ff%ed%e4%e0 4
+%ee%ee%ee 4
+%d1%85%d0%bb%d0%b0%d0%b4%d0%be%d0%bf%d1%80%d0%be%d0%bc 4
+%d1%85%d0%b0%d1%80%d1%8c%d0%ba%d0%be%d0%b2 3
+%d0%a5%d0%bb%d0%b0%d0%b4%d0%be%d0%bf%d1%80%d0%be%d0%bc 1
+%d0%a5%d0%bb%d0%b0%d0%b4%d0%b8%d0%ba 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+404 77 3927
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 22
+/robots.txt 26 -
+/%3C 1 -
+/admin/include/spaw/spacer.gif 1 -
+/.well-known/autoconfig/mail/config-v1.1.xml 1 -
+/underconstruction.jpg 2 -
+/news/plugins/spaw/spacer.gif 1 -
+/photos/proizvodstvo6.jpg 1 -
+/index1.php 19 http://www.google.com.ua/search
+/includes/spaw2/spacer.gif 1 -
+/sitemanager/spaw/spacer.gif 1 -
+/en/cp/plugins/spaw/spacer.gif 1 -
+/admin_site/spaw/spacer.gif 1 -
+/cms/spaw2/spacer.gif 1 -
+/ydcms/spaw/spacer.gif 1 -
+/photos/L.jpg 1 -
+/simple99/spaw/spacer.gif 1 -
+/photos/Hl_Pelm_Dom900.jpg 1 -
+/site/spaw/spacer.gif 1 -
+/index.php 1 http://www.khladoprom.com.ua/index.php
+/core/spaw/spacer.gif 1 -
+/modules/spaw/spacer.gif 1 -
+/photos/kashtan_white.jpg 12 http://gera-gerka.livejournal.com/191352.html
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 32
+109.87.51.222 5 5 22445 20101030232812
+178.94.137.236 5 5 22505 20101030193632
+109.86.251.189 3 3 13503 20101029194931
+217.112.210.90 3 3 13503 20101028100104
+178.165.21.74 3 3 13503 20101028132206
+109.87.63.251 2 2 9002 20101028211449
+95.108.139.54 2 2 9002 20101029061208
+194.0.89.162 2 2 8990 20101028132313
+82.144.203.193 2 2 9002 20101028104318
+79.171.124.7 2 2 9002 20101028090036
+85.90.195.226 2 2 9002 20101028171634
+92.115.64.193 1 1 4501 20101028113619
+77.120.144.247 1 1 4501 20101029093922
+78.111.19.166 1 1 4489 20101028094246
+95.25.60.183 1 1 4501 20101030225024
+95.27.210.141 1 1 4501 20101029093727
+217.12.97.5 1 1 4489 20101028143340
+77.120.183.104 1 1 4489 20101028135449
+77.88.18.7 1 1 4501 20101028050939
+77.88.59.64 1 1 4501 20101030070811
+82.117.252.237 1 1 4501 20101027174216
+178.165.21.118 1 1 4501 20101029183502
+95.27.114.223 1 1 4501 20101030183040
+77.120.139.66 1 1 4489 20101028195006
+194.6.233.252 1 1 4501 20101028141839
+85.90.193.240 1 1 4501 20101027145453
+85.238.124.153 1 1 4501 20101028234029
+109.86.210.243 1 1 4501 20101029173421
+94.246.126.157 1 1 4501 20101030133157
+95.26.140.119 1 1 4501 20101029230843
+207.46.195.209 1 1 4489 20101029200700
+178.94.32.47 1 1 4501 20101027180054
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 4
+20101027 7 7 31495 6
+20101028 22 22 98962 15
+20101029 10 10 44998 8
+20101030 13 13 58465 6
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+5mn-15mn 2
+0s-30s 27
+30s-2mn 4
+2mn-5mn 1
+15mn-30mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 1
+/ 52 233920 35 35
+END_SIDER
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS

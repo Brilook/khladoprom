@@ -1,0 +1,3 @@
+<?
+readfile("index.php");
+?>

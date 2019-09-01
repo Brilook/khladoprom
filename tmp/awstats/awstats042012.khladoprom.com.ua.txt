@@ -1,0 +1,461 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201204 will be lost/reset.
+# Last config file used to build this data file was /home/khladopr/tmp/awstats/awstats.khladoprom.com.ua.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2011                
+POS_TIME 2689                
+POS_VISITOR 9815                
+POS_DAY 13974               
+POS_DOMAIN 3268                
+POS_LOGIN 3591                
+POS_ROBOT 3746                
+POS_WORMS 3984                
+POS_EMAILSENDER 4115                
+POS_EMAILRECEIVER 4258                
+POS_SESSION 14167               
+POS_SIDER 14368               
+POS_FILETYPES 4393                
+POS_DOWNLOADS 4475                
+POS_OS 4523                
+POS_BROWSER 4665                
+POS_SCREENSIZE 5154                
+POS_UNKNOWNREFERER 5228                
+POS_UNKNOWNREFERERBROWSER 5587                
+POS_ORIGIN 5773                
+POS_SEREFERRALS 5911                
+POS_PAGEREFS 6070                
+POS_SEARCHWORDS 7164                
+POS_KEYWORDS 8477                
+POS_MISC 2353                
+POS_ERRORS 9181                
+POS_CLUSTER 3447                
+POS_SIDER_404 9268                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20120501001332 16 3608 24728598595633
+FirstTime 20120425114808
+LastTime 20120430231734
+LastUpdate 20120501211522 16 0 15 0 0
+TotalVisits 130                 
+TotalUnique 112                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 112                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 4 4 168 0 2 0
+1 0 0 0 0 0 0
+2 3 3 126 0 1 51
+3 1 1 42 1 4 204
+4 1 1 42 1 2 93
+5 0 0 0 0 0 0
+6 0 0 0 0 0 0
+7 4 4 168 0 1 0
+8 3 3 126 0 0 0
+9 13 13 546 4 12 270
+10 17 17 714 0 16 0
+11 21 21 882 2 23 102
+12 14 14 588 1 10 51
+13 12 12 504 2 18 195
+14 24 24 1008 4 26 297
+15 27 27 1134 1 17 102
+16 21 21 882 1 16 93
+17 7 7 294 5 14 363
+18 8 8 336 5 16 414
+19 17 17 714 2 13 186
+20 7 7 294 2 8 186
+21 11 11 462 0 12 0
+22 21 21 882 0 15 51
+23 2 2 84 1 2 42
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 10
+ua 209 209 8778
+us 8 8 336
+cz 6 6 252
+ru 5 5 210
+no 3 3 126
+de 3 3 126
+cn 1 1 42
+se 1 1 42
+at 1 1 42
+sa 1 1 42
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+bot[\s_+:,\.\;\/\\-] 18 756 20120430185252 0
+googlebot 4 168 20120428040037 0
+robot 1 42 20120426235526 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 1
+html 238 9996 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 11
+linuxandroid 4
+winlong 6
+winxp 125
+java 1
+linux 9
+win7 77
+macosx 3
+win16 4
+j2me 2
+win2003 1
+Unknown 6
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 31
+safari5.0.3 2
+msie6.0 1
+firefox3.6 1
+chrome18.0.1025.162 29
+firefox10.0 1
+firefox3.0.17 1
+android 4
+firefox3.0.4 1
+firefox10.0.1 1
+chrome9.0.597 1
+firefox7.0.1 4
+firefox12.0 13
+opera9.80 60
+safari5.0.2 1
+msie8.0 16
+chrome15.0.874.121 2
+mozilla 1
+firefox1.0 1
+chrome18.0.1025.142 1
+msie7.0 2
+firefox3.6.28 10
+safari5.1.5 26
+chrome17.0.963.46 6
+firefox6.0 1
+firefox3.6.12 4
+wget 2
+msie9.0 1
+Unknown 5
+firefox8.0.1 6
+safari 1
+firefox11.0 33
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Mozilla/5.0_(en-us)_AppleWebKit/534.14_(KHTML,_like_Gecko;_Google_Wireless_Transcoder)_Chrome/9.0.597_Safari/534.14 20120428131952
+Mozilla/5.0_Firefox/3.6.12 20120430021303
+Opera/9.80_(iPhone;_Opera_Mini/5.19802/27.1573;_U;_ru)_Presto/2.8.119_Version/11.10 20120428104507
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Apache-HttpClient/4.1.1_(java_1.5) 20120430004934
+Yandex/1.01.001_(compatible;_Win16;_I) 20120430190711
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 70 70
+From1 0 0
+From2 102 102
+From3 65 65
+From4 1 1
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 102 102
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 19
+http://vk.com/xladik_the_best 11 11
+http://www.spr.ua/site_go.php 9 9
+http://www.spr.ua/site_menu.php 7 7
+http://www.wgsoftpro.com/pages/hladoprom.html 4 4
+http://www.priceua.com/catalog/firm.php 4 4
+http://www.vuve.ru/modules/siteview.php 3 3
+http://gid.all.kharkov.ua/rubric/firm/id/5248/ptype/full/pid/184108069 3 3
+http://www.bestportal.com.ua/rates/redirector.php 3 3
+http://go.mail.ru/search 3 3
+http://www.prodinfo.com.ua/proizvodstvo/morozhenoe_zm_produktyi/morozhenoe_chto_novenkogo.html 2 2
+http://www.cy-pr.com/analysis/www.khladoprom.com.ua 2 2
+http://www.rada.com.ua/ukr/catalog/9109/ 2 2
+http://www.favor.com.ua/ru/company/khladoprom/ 2 2
+http://www.rada.com.ua/rus/catalog/9109/ 2 2
+http://yandex.ua/yandsearch 2 2
+http://maps.yandex.ua 2 2
+http://www.vuve.ru/modules/viewheader.php 2 2
+http://wikimapia.org/15735745/ru/AO%D0%97%D0%A2-%D0%A5%D0%BB%D0%B0%D0%B4%D0%BE%D0%BF%D1%80%D0%BE%D0%BC 1 1
+http://busauto.com.ua/index.php 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 15
+%d1%85%d0%bb%d0%b0%d0%b4%d0%b8%d0%ba 26
+%d1%85%d0%bb%d0%b0%d0%b4%d0%be%d0%bf%d1%80%d0%be%d0%bc 23
+%d1%85%d0%bb%d0%b0%d0%b4%d0%be%d0%bf%d1%80%d0%be%d0%bc+%d1%85%d0%b0%d1%80%d1%8c%d0%ba%d0%be%d0%b2 4
+%5bkfljghjv 3
+%d1%85%d0%bb%d0%b0%d0%b4%d0%b8%d0%ba+%d1%81%d0%b0%d0%b9%d1%82 3
+khladoprom 2
+%d0%a5%d0%bb%d0%b0%d0%b4%d0%be%d0%bf%d1%80%d0%be%d0%bc 2
+%d1%85%d0%bb%d0%b0%d0%b4%d0%bf%d1%80%d0%be+%d1%85%d0%b0%d1%80%d1%8c%d0%ba%d0%be%d0%b2 2
+%d1%85%d0%bb%d0%be%d0%b4%d0%be%d0%bf%d1%80%d0%be%d0%bc 1
+%d0%90%d0%9e%d0%97%d0%a2+%c2%ab%d0%a5%d0%bb%d0%b0%d0%b4%d0%be%d0%bf%d1%80%d0%be%d0%bc%c2%bb 1
+%d1%85%d0%bb%d0%b0%d0%b4%d0%b8%d0%ba+%d1%85%d0%b0%d1%80%d1%8c%d0%ba%d0%be%d0%b2+%d1%81%d0%b0%d0%b9%d1%82 1
+%d0%a5%d0%bb%d0%b0%d0%b4%d0%be%d0%bf%d1%80%d0%be%d0%bc+%d0%a5%d0%b0%d1%80%d1%8c%d0%ba%d0%be%d0%b2 1
+%d0%b0%d0%be%d0%b7%d1%82+%d1%85%d0%bb%d0%b0%d0%b4%d0%be%d0%bf%d1%80%d0%be%d0%bc+%d1%85%d0%b0%d1%80%d1%8c%d0%ba%d0%be%d0%b2 1
+%d0%bc%d0%be%d1%80%d0%be%d0%b6%d0%b5%d0%bd%d0%be%d0%b5+%d1%85%d0%bb%d0%b0%d0%b4%d0%be%d0%bf%d1%80%d0%be%d0%bc+%d1%85%d0%b0%d1%80%d1%8c%d0%ba%d0%be%d0%b2 1
+%d0%90%d0%9e%d0%97%d0%a2+%c2%ab%d0%a5%d0%bb%d0%b0%d0%b4%d0%be%d0%bf%d1%80%d0%be%d0%bc 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 15
+%d1%85%d0%bb%d0%b0%d0%b4%d0%b8%d0%ba 30
+%d1%85%d0%bb%d0%b0%d0%b4%d0%be%d0%bf%d1%80%d0%be%d0%bc 29
+%d1%85%d0%b0%d1%80%d1%8c%d0%ba%d0%be%d0%b2 9
+%d1%81%d0%b0%d0%b9%d1%82 4
+%5bkfljghjv 3
+%d0%a5%d0%bb%d0%b0%d0%b4%d0%be%d0%bf%d1%80%d0%be%d0%bc 3
+khladoprom 2
+%d1%85%d0%bb%d0%b0%d0%b4%d0%bf%d1%80%d0%be 2
+%d0%90%d0%9e%d0%97%d0%a2 2
+%d0%bc%d0%be%d1%80%d0%be%d0%b6%d0%b5%d0%bd%d0%be%d0%b5 1
+%d1%85%d0%bb%d0%be%d0%b4%d0%be%d0%bf%d1%80%d0%be%d0%bc 1
+%c2%ab%d0%a5%d0%bb%d0%b0%d0%b4%d0%be%d0%bf%d1%80%d0%be%d0%bc 1
+%d0%b0%d0%be%d0%b7%d1%82 1
+%c2%ab%d0%a5%d0%bb%d0%b0%d0%b4%d0%be%d0%bf%d1%80%d0%be%d0%bc%c2%bb 1
+%d0%a5%d0%b0%d1%80%d1%8c%d0%ba%d0%be%d0%b2 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+404 34 1734
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 7
+/underconstruction.jpg 1 -
+/xml/structure.xml 2 http://www.khladoprom.com.ua/moto.swf
+/uk/ 1 -
+/robots.txt 22 -
+/%3C 1 -
+/index1.php 5 http://www.google.com.ua/url
+/photos/kashtan_white.jpg 2 http://gera-gerka.livejournal.com/191352.html
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 112
+77.244.32.68 15 15 630 20120428074604
+77.122.33.78 9 9 378 20120430210037
+82.117.228.4 6 6 252 20120428122830
+176.103.237.73 6 6 252 20120427161622
+93.95.186.73 6 6 252 20120425211839
+77.120.165.1 5 5 210 20120428193205
+82.117.225.236 5 5 210 20120426145009
+78.111.16.246 5 5 210 20120427221512
+77.120.169.199 5 5 210 20120430111937
+178.94.189.252 5 5 210 20120426091603
+46.133.103.64 4 4 168 20120430090656
+193.107.173.101 4 4 168 20120430220019
+82.117.232.10 4 4 168 20120427111802
+91.223.223.144 4 4 168 20120430021303
+95.133.39.102 4 4 168 20120427162421
+94.179.29.238 4 4 168 20120425125554
+195.191.59.208 3 3 126 20120426195234
+178.151.224.194 3 3 126 20120428221950
+91.193.165.66 3 3 126 20120427103750
+195.138.65.142 3 3 126 20120428113528
+77.7.85.76 3 3 126 20120428134151
+95.133.15.30 3 3 126 20120425154845
+194.44.181.190 3 3 126 20120425135815
+178.94.52.180 3 3 126 20120430112400
+37.55.29.157 3 3 126 20120425154825
+77.120.151.26 2 2 84 20120426221836
+109.254.82.222 2 2 84 20120430144552
+46.118.230.230 1 1 42 20120425131612
+178.94.210.14 2 2 84 20120428171014
+95.69.250.15 1 1 42 20120426111012
+46.211.253.162 1 1 42 20120428215018
+82.145.208.51 1 1 42 20120428190554
+212.17.76.230 1 1 42 20120430131527
+178.150.113.208 1 1 42 20120429210643
+178.150.174.135 2 2 84 20120425152126
+74.52.245.146 1 1 42 20120430002256
+82.145.210.32 1 1 42 20120428104507
+213.227.206.142 1 1 42 20120425150351
+69.164.111.198 1 1 42 20120427190951
+109.86.164.29 2 2 84 20120427125848
+195.88.72.195 1 1 42 20120428160229
+109.87.88.213 2 2 84 20120430105413
+92.112.193.184 1 1 42 20120428172959
+89.252.21.87 2 2 84 20120428130431
+93.183.239.109 1 1 42 20120426115511
+178.150.53.236 1 1 42 20120426000659
+176.8.67.11 1 1 42 20120429184802
+217.69.132.81 1 1 42 20120428020923
+195.58.238.171 1 1 42 20120425162217
+109.87.233.126 1 1 42 20120429125119
+82.117.225.127 1 1 42 20120426104021
+109.87.134.56 2 2 84 20120426180506
+77.122.37.173 1 1 42 20120430231734
+77.88.18.7 1 1 42 20120430180650
+178.165.91.155 1 1 42 20120429000241
+77.120.146.127 2 2 84 20120428075905
+194.106.219.254 2 2 84 20120426113132
+85.90.193.240 1 1 42 20120426161235
+178.217.213.236 1 1 42 20120428163909
+81.90.230.114 1 1 42 20120427131313
+195.214.196.90 2 2 84 20120427165645
+93.72.75.217 2 2 84 20120429204033
+220.181.126.47 1 1 42 20120425145036
+95.134.180.180 1 1 42 20120426220554
+159.224.6.135 1 1 42 20120426151140
+80.249.227.123 1 1 42 20120425114808
+217.212.230.14 1 1 42 20120425140326
+93.180.235.242 1 1 42 20120425213017
+207.46.204.171 1 1 42 20120430140246
+178.92.114.149 2 2 84 20120426104308
+195.88.242.35 1 1 42 20120430004934
+78.93.14.9 1 1 42 20120429103016
+92.244.100.226 3 3 126 20120426100638
+77.88.59.63 1 1 42 20120430190711
+95.133.118.239 1 1 42 20120425122636
+88.81.233.98 2 2 84 20120427152447
+109.87.134.25 2 2 84 20120426141046
+109.86.211.82 3 3 126 20120428185215
+82.117.233.103 2 2 84 20120429094106
+46.119.36.43 1 1 42 20120426201414
+82.145.209.139 1 1 42 20120430173634
+178.151.72.79 1 1 42 20120425191922
+194.246.77.2 1 1 42 20120427154504
+217.112.217.110 1 1 42 20120428151531
+95.108.139.54 1 1 42 20120429090819
+74.125.18.152 1 1 42 20120428131952
+77.88.59.64 1 1 42 20120428234809
+77.122.83.25 1 1 42 20120429143256
+94.124.164.24 2 2 84 20120428142846
+46.119.40.189 2 2 84 20120427223917
+193.105.7.76 2 2 84 20120430143925
+82.117.232.178 1 1 42 20120427100446
+212.90.189.120 1 1 42 20120426125908
+94.179.71.45 1 1 42 20120429160808
+46.164.135.184 2 2 84 20120425145851
+178.94.163.11 1 1 42 20120428225421
+95.132.180.207 1 1 42 20120430211814
+178.92.94.142 1 1 42 20120426180350
+93.95.185.73 1 1 42 20120425203631
+94.179.151.254 2 2 84 20120427113717
+77.122.57.22 1 1 42 20120430220555
+91.211.12.125 1 1 42 20120428165441
+77.122.110.77 2 2 84 20120425150423
+94.179.197.90 1 1 42 20120426161038
+178.94.149.116 3 3 126 20120426175532
+173.254.28.35 2 2 84 20120427225909
+130.185.8.172 3 3 126 20120428223456
+178.150.99.41 2 2 84 20120427101653
+24.190.54.104 2 2 84 20120430190512
+193.106.63.231 1 1 42 20120426200329
+109.87.59.40 1 1 42 20120426113918
+82.207.103.221 1 1 42 20120427111227
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 6
+20120425 39 39 1638 21
+20120426 48 48 2016 27
+20120427 52 52 2184 22
+20120428 43 43 1806 24
+20120429 18 18 756 14
+20120430 38 38 1596 22
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+5mn-15mn 9
+0s-30s 93
+2mn-5mn 6
+30s-2mn 11
+15mn-30mn 7
+30mn-1h 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 1
+/ 238 9996 130 130
+END_SIDER

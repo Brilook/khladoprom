@@ -1,0 +1,363 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201903 will be lost/reset.
+# Last config file used to build this data file was /home/khladopr/tmp/awstats/ssl/awstats.khladoprom.com.ua.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2018                
+POS_TIME 2695                
+POS_VISITOR 9145                
+POS_DAY 10126               
+POS_DOMAIN 3392                
+POS_LOGIN 3654                
+POS_ROBOT 3809                
+POS_WORMS 4219                
+POS_EMAILSENDER 4350                
+POS_EMAILRECEIVER 4493                
+POS_SESSION 10551               
+POS_SIDER 10710               
+POS_FILETYPES 4628                
+POS_DOWNLOADS 4728                
+POS_OS 4776                
+POS_BROWSER 4921                
+POS_SCREENSIZE 5310                
+POS_UNKNOWNREFERER 5384                
+POS_UNKNOWNREFERERBROWSER 5586                
+POS_ORIGIN 5698                
+POS_SEREFERRALS 5830                
+POS_PAGEREFS 5974                
+POS_SEARCHWORDS 6122                
+POS_KEYWORDS 6274                
+POS_MISC 2359                
+POS_ERRORS 6333                
+POS_CLUSTER 3510                
+POS_SIDER_404 6426                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20190401001659 18 4498 8957975350259
+FirstTime 20190301145950
+LastTime 20190331184930
+LastUpdate 20190401151733 18 0 17 0 0
+TotalVisits 23                  
+TotalUnique 13                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 29                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 1 480 10 24 432929
+1 1 1 480 13 27 976896
+2 0 0 0 15 26 2303541
+3 1 1 480 18 45 1752966
+4 2 2 960 7 17 771513
+5 1 11 72195 13 25 1352562
+6 2 2 960 15 36 1879811
+7 0 0 0 10 23 511068
+8 1 1 480 14 44 2898043
+9 0 0 0 8 17 960718
+10 0 0 0 22 105 5544493
+11 0 0 0 10 27 1188037
+12 0 0 0 7 21 1649798
+13 2 2 960 15 41 2011312
+14 3 3 1440 11 33 1874396
+15 0 0 0 11 61 6792014
+16 2 2 960 20 53 4241400
+17 1 1 480 12 30 1475198
+18 3 3 1440 8 23 427461
+19 0 0 0 11 44 1018687
+20 1 11 72195 26 63 2767230
+21 3 3 1440 17 60 5051898
+22 0 0 0 18 35 1401005
+23 0 0 0 22 52 1807231
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 4
+us 20 20 9600
+ca 2 2 960
+ua 2 2 960
+cn 0 20 143430
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 7
+bingbot/ 146 14298432 20190331140520 0
+YandexBot/ 50 24000 20190331163907 0
+Googlebot\-Image/ 42 8050532 20190325194604 0
+Googlebot/ 41 420522 20190331160707 0
+YandexImages/ 38 7329442 20190331183728 0
+AhrefsBot/ 11 35202 20190319002320 0
+Python\-urllib/ 2 960 20190331185202 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 2
+css 20 143430 0 0
+html 24 11520 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 6
+win95 2 2
+linuxandroid 16 0
+ios_iphone 4 0
+Unknown 6 6
+win10 6 6
+macosx12 10 10
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 15
+chrome45.0.1550.1987 2 0
+opera3.60 2 2
+mozilla 4 4
+chrome61.0.3163.100 10 10
+chrome59.0.4376.1253 2 0
+chrome46.0.2492.1789 2 0
+Unknown 2 2
+chrome39.0.3229.1808 2 0
+chrome59.0.3299.1554 2 0
+chrome47.0.4975.1493 2 0
+chrome58.0.3872.1002 2 0
+chrome56.0.6907.1851 2 0
+chrome66.0.3359.117 6 6
+chrome59.0.8417.1509 2 0
+chrome46.0.8860.1794 2 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+}__test|O:21:\ 20190331184930
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20190305162329
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+}__test|O:21:\ 20190331184930
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 22 42
+From1 2 2
+From2 0 0
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+404 543 20931117
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 57
+/history-ua.php 4 -
+/label-eng.php 3 -
+/assets/i/clients/hromadske@2x.png 5 https://www.khladoprom.com.ua/prodnew.php
+/assets/i/clients/interkassa@2x.png 4 https://www.khladoprom.com.ua/prodnew.php
+//administrator//webconfig.txt.php 2 http://www.google.com.hk
+/ads.txt 35 -
+/contacts-eng.php 3 -
+/prodnew-ua.php 1 -
+/assets/i/clients/biola@2x.png 4 https://www.khladoprom.com.ua/prodnew.php
+/brand-ua.php 2 -
+/label.php 6 -
+/about-ua.php 3 -
+/uploads/media/page/5c79/59/857f172e92c98240d3c8afb59f88ff56af9bfcd0.jpeg 9 https://www.khladoprom.com.ua/prodnew.php
+/index-ua.php 2 -
+/produce-ua.php 4 -
+/quality.php 4 -
+/assets/css/cache_35d1548.css 10 https://www.khladoprom.com.ua/prodnew.php
+//administrator/ 2 -
+/quality-eng.php 4 -
+/js/4bb0d84.js 12 https://www.khladoprom.com.ua/prodnew.php
+/autodiscover/autodiscover.xml 2 -
+/assets/i/clients/coca-cola@2x.png 4 https://www.khladoprom.com.ua/prodnew.php
+/assets/i/clients/pepsi@2x.png 4 https://www.khladoprom.com.ua/prodnew.php
+/assets/js/modernizr.custom.min.js 10 https://www.khladoprom.com.ua/prodnew.php
+/produce.php 2 -
+/assets/i/payment-methods@2x.png 9 https://www.khladoprom.com.ua/prodnew.php
+/produce-eng.php 3 -
+/label-ua.php 2 -
+/about.php 6 -
+/robots.txt 222 -
+/brand.php 2 -
+/quality-ua.php 3 -
+/assets/css/font-awesome.min.css 10 https://www.khladoprom.com.ua/prodnew.php
+/manufacture.php 1 -
+/brand-eng.php 1 -
+/assets/i/clients/pepsi.png 5 https://www.khladoprom.com.ua/prodnew.php
+/assets/i/clients/mts.png 5 https://www.khladoprom.com.ua/prodnew.php
+/Dockerfile 2 -
+/en/js/routing 14 https://www.khladoprom.com.ua/prodnew.php
+/about-eng.php 4 -
+/manufacture-ua.php 1 -
+/manufacture-eng.php 3 -
+/assets/i/clients/mts@2x.png 5 https://www.khladoprom.com.ua/prodnew.php
+/bundles/app/css/main_data.css 10 https://www.khladoprom.com.ua/prodnew.php
+/contacts.php 2 -
+/history-eng.php 5 -
+/.well-known/assetlinks.json 7 -
+/index-eng.php 1 -
+/cache/js/6943414.js 13 https://www.khladoprom.com.ua/prodnew.php
+/history.php 3 -
+/assets/i/clients/hromadske.png 5 https://www.khladoprom.com.ua/prodnew.php
+/assets/i/clients/interkassa.png 5 https://www.khladoprom.com.ua/prodnew.php
+/bundles/fosjsrouting/js/router.js 14 https://www.khladoprom.com.ua/prodnew.php
+/contacts-ua.php 2 -
+/assets/i/clients/biola.png 5 https://www.khladoprom.com.ua/prodnew.php
+/prodnew.php 27 -
+/assets/i/clients/coca-cola.png 5 https://www.khladoprom.com.ua/prodnew.php
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 29
+13.57.233.99 10 10 4800 20190330202639
+178.158.200.226 2 2 960 20190320145612
+198.20.103.242 2 2 960 20190313180535
+192.99.0.107 1 1 480 20190328063302
+134.209.46.171 1 1 480 20190305041031
+108.178.61.58 1 1 480 20190326215357
+134.209.46.239 1 1 480 20190305162119
+209.97.145.233 1 1 480 20190305041644
+192.99.15.141 1 1 480 20190331184930
+74.207.253.60 1 1 480 20190329212609
+172.104.174.208 1 1 480 20190328175610
+134.209.46.173 1 1 480 20190305162329
+96.127.158.234 1 1 480 20190329015340
+220.243.135.245 0 1 8346 
+220.243.136.228 0 1 4431 
+220.243.136.102 0 2 16692 
+220.243.135.39 0 1 8346 
+220.243.135.56 0 1 8346 
+220.243.135.228 0 1 8346 
+220.243.135.102 0 1 8346 
+220.243.136.245 0 1 4431 
+220.243.136.56 0 1 4431 
+220.243.136.39 0 1 4431 
+220.243.136.182 0 1 4431 
+220.243.136.165 0 1 4431 
+220.243.135.119 0 1 8346 
+220.243.135.182 0 2 16692 
+220.243.135.165 0 2 16692 
+220.243.136.119 0 2 16692 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 19
+20190301 1 1 480 1
+20190304 1 1 480 1
+20190305 4 4 1920 4
+20190307 0 10 71715 0
+20190308 1 1 480 1
+20190311 1 1 480 1
+20190312 1 1 480 1
+20190313 1 11 72195 1
+20190314 1 1 480 1
+20190317 1 1 480 1
+20190320 2 2 960 1
+20190321 1 1 480 1
+20190324 1 1 480 1
+20190326 1 1 480 1
+20190327 1 1 480 1
+20190328 2 2 960 2
+20190329 2 2 960 2
+20190330 1 1 480 1
+20190331 1 1 480 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+0s-30s 22
+15mn-30mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 1
+/ 24 11520 23 23
+END_SIDER
