@@ -1,10 +1,14 @@
 @charset "utf-8";
-html, body {
+
+/* @import url("https://fonts.googleapis.com/css?family=Mukta:700"); */
+html,
+body {
 	height: 100%;
 	width: 100%;
 	margin: 0;
 	padding: 0;
 }
+
 body {
 	font: 100%/1.4 Meiryo, Arial, Helvetica, sans-serif;
 	background: #FFF;
@@ -18,31 +22,52 @@ body {
 	width: 100%;
 	height: 100%;
 }
+
 /* ~~ Element/tag selectors ~~ */
 
-ul, ol, dl, div { /* Due to variations between browsers, it's best practices to zero padding and margin on lists. For consistency, you can either specify the amounts you want here, or on the list items (LI, DT, DD) they contain. Remember that what you do here will cascade to the .nav list unless you write a more specific selector. */
+ul,
+ol,
+dl,
+div {
+	/* Due to variations between browsers, it's best practices to zero padding and margin on lists. For consistency, you can either specify the amounts you want here, or on the list items (LI, DT, DD) they contain. Remember that what you do here will cascade to the .nav list unless you write a more specific selector. */
 	padding: 0;
 	margin: 0;
 }
-h1, h2, h3, h4, h5, h6, p {
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
 	margin: 0px 0px 0px 0px;
 	padding: 0px 0px 0px 0px;
 }
-a img { /* this selector removes the default blue border displayed in some browsers around an image when it is surrounded by a link */
+
+a img {
+	/* this selector removes the default blue border displayed in some browsers around an image when it is surrounded by a link */
 	border: none;
 }
+
 /* ~~ Styling for your site's links must remain in this order - including the group of selectors that create the hover effect. ~~ */
 
 a:link {
 	color: #000;
-	text-decoration: none; /* unless you style your links to look extremely unique, it's best to provide underlines for quick visual identification */
+	text-decoration: none;
+	/* unless you style your links to look extremely unique, it's best to provide underlines for quick visual identification */
 }
+
 a:visited {
 	color: #EC1D23;
 	;
 	text-decoration: none;
 }
-a:hover, a:active, a:focus { /* this group of selectors will give a keyboard navigator the same hover experience as the person using a mouse. */
+
+a:hover,
+a:active,
+a:focus {
+	/* this group of selectors will give a keyboard navigator the same hover experience as the person using a mouse. */
 	text-decoration: none;
 	color: #ED1B24
 }
@@ -52,43 +77,55 @@ a:hover, a:active, a:focus { /* this group of selectors will give a keyboard nav
 .container {
 	width: 100%;
 	background: #FFF;
-	margin: 0 auto; /* the auto value on the sides, coupled with the width, centers the layout */
+	margin: 0 auto;
+	/* the auto value on the sides, coupled with the width, centers the layout */
 }
+
 /* ~~ the header is not given a width. It will extend the full width of your layout. It contains an image placeholder that should be replaced with your own linked logo ~~ */
 
 .header {
 	width: 100%;
 	background: #FFF;
-	margin: 0 auto; /* the auto value on the sides, coupled with the width, centers the layout */
+	margin: 0 auto;
+	/* the auto value on the sides, coupled with the width, centers the layout */
 }
+
 .topline1 {
 	width: 100%;
 	height: 12px;
 	background-color: #2e3192;
 }
+
 .topline2 {
 	width: 100%;
 	height: 52px;
 	background: #00baf2;
 }
+
 .topline3 {
 	width: 100%;
 	height: 19px;
 	background: #00baf2;
 }
+
 .topline4 {
 	width: 100%;
 	height: 108px;
 	background: #FFF;
 	background-image: url(images/topbg.gif);
-	margin: 0 auto; /* the auto value on the sides, coupled with the width, centers the layout */
+	margin: 0 auto;
+	/* the auto value on the sides, coupled with the width, centers the layout */
 }
+
 .topline4in {
 	width: 1024px;
 	height: 108px;
-	margin: 0 auto; /* the auto value on the sides, coupled with the width, centers the layout */
+	margin: 0 auto;
+	/* the auto value on the sides, coupled with the width, centers the layout */
 }
-.mainmenuitem, .mainmenuitemsel {
+
+.mainmenuitem,
+.mainmenuitemsel {
 	width: 123px;
 	height: 108px;
 	text-align: center;
@@ -101,14 +138,19 @@ a:hover, a:active, a:focus { /* this group of selectors will give a keyboard nav
 	float: left;
 	margin-left: 6px;
 }
+
 .mainmenuitemsel {
 	background-image: url(images/mainbutsel.jpg);
-	color: #FFF;
+	color: red;
 }
+
 .mainmenuitem:hover {
 	background-image: url(images/mainbutsel.jpg);
 }
-.mainmenuitemtext:hover, .brandtext:hover, .sitelinktext {
+
+.mainmenuitemtext:hover,
+.brandtext:hover,
+.sitelinktext {
 	color: #FFF;
 }
 
@@ -117,6 +159,7 @@ a:hover, a:active, a:focus { /* this group of selectors will give a keyboard nav
 	height: 3px;
 	background: #b3b3b3;
 }
+
 .title {
 	width: 197px;
 	height: 40px;
@@ -128,7 +171,9 @@ a:hover, a:active, a:focus { /* this group of selectors will give a keyboard nav
 	margin-bottom: 0px;
 	margin-left: 117px;
 }
-.brand, .brandsel {
+
+.brand,
+.brandsel {
 	width: 229px;
 	height: 40px;
 	background-image: url(images/branddes.jpg);
@@ -139,37 +184,46 @@ a:hover, a:active, a:focus { /* this group of selectors will give a keyboard nav
 	margin-bottom: 0px;
 	margin-left: 117px;
 }
+
 .brandsel {
 	background-image: url(images/brandsel.jpg);
-	color: #FFF;	
+	color: #FFF;
 }
+
 .brand:hover {
 	background-image: url(images/brandsel.jpg);
 }
-.sitelink, .sitelinksel {
+
+.sitelink,
+.sitelinksel {
 	width: 200px;
 	height: 40px;
 	background-image: url(images/branddes.jpg);
 	text-align: center;
-	line-height: 2.5em; 
+	line-height: 2.5em;
 }
+
 .sitelinksel {
 	background-image: url(images/brandsel.jpg);
-	color: #FFF;	
+	color: #FFF;
 }
+
 .sitelink:hover {
 	background-image: url(images/brandsel.jpg);
 }
+
 .delimiter {
 	width: 1006px;
 	margin: 0 auto;
 	margin-top: 12px;
 }
+
 .logisticmap {
 	width: 600px;
 	margin: 0 auto;
 	margin-top: 32px;
 }
+
 .privatelable {
 	width: 999px;
 	margin-top: 48px;
@@ -177,18 +231,22 @@ a:hover, a:active, a:focus { /* this group of selectors will give a keyboard nav
 	margin-bottom: 0;
 	margin-left: auto;
 }
-.titletext, .brandtext {
+
+.titletext,
+.brandtext {
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 1.2em;
 	font-weight: bold;
 	color: #74bde9;
 	margin-left: 5px;
 }
+
 .topmenu {
 	width: 100%;
 	height: 108px;
 	background: #FFF;
 }
+
 .atopmenu {
 	float: left;
 	margin-top: 28px;
@@ -197,12 +255,17 @@ a:hover, a:active, a:focus { /* this group of selectors will give a keyboard nav
 	height: 57px;
 	background-image: url(images/bgbuttondes.jpg);
 }
+
 #atopmenu {
 	margin-left: 26px;
 }
-.atopmenu:hover, .atopmenu:active, .atopmenu:focus {
+
+.atopmenu:hover,
+.atopmenu:active,
+.atopmenu:focus {
 	background-image: url(images/bgbuttonsel.jpg);
 }
+
 .greylinecat {
 	width: 100%;
 	height: 3px;
@@ -211,20 +274,28 @@ a:hover, a:active, a:focus { /* this group of selectors will give a keyboard nav
 
 .agraylink:link {
 	color: #EC1D23;
-	text-decoration: none; /* unless you style your links to look extremely unique, it's best to provide underlines for quick visual identification */
+	text-decoration: none;
+	/* unless you style your links to look extremely unique, it's best to provide underlines for quick visual identification */
 }
+
 .agraylink:visited {
 	color: #EC1D23;
 	text-decoration: none;
 }
-.agraylink:hover, a:active, a:focus { /* this group of selectors will give a keyboard navigator the same hover experience as the person using a mouse. */
+
+.agraylink:hover,
+a:active,
+a:focus {
+	/* this group of selectors will give a keyboard navigator the same hover experience as the person using a mouse. */
 	text-decoration: none;
 	color: #FFF;
 }
+
 .redline {
 	background: #FFF;
 	height: 86px;
 }
+
 /* ~~ This is the layout information. ~~ 
 
 
@@ -245,18 +316,23 @@ a:hover, a:active, a:focus { /* this group of selectors will give a keyboard nav
 	margin-bottom: 0;
 	margin-left: auto;
 }
+
 .indexmenutext {
 	margin-left: 10px;
 	color: #0d4ea3;
 	font-weight: bold;
 }
+
 .indexmenutext:hover {
 	color: #00baf2;
 }
+
 .catlist {
 	min-height: 610px;
 }
-.contenttext, .phototext {
+
+.contenttext,
+.phototext {
 	color: #224099;
 	text-align: justify;
 	font-size: 0.9em;
@@ -267,22 +343,27 @@ a:hover, a:active, a:focus { /* this group of selectors will give a keyboard nav
 	margin-bottom: 0px;
 	margin-left: 76px;
 }
+
 .photo {
 	float: left;
 }
+
 .phototext {
 	text-align: center;
 	margin: 0px 0px 0px 0px;
 }
+
 .divhistory {
 	width: 1024px;
 	height: 415px;
 	margin: 0 auto;
 	text-align: center;
 }
+
 .hisphoto {
 	margin-top: 33px;
 }
+
 .hisphototext {
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 0.9em;
@@ -291,17 +372,20 @@ a:hover, a:active, a:focus { /* this group of selectors will give a keyboard nav
 	margin-left: 362px;
 	line-height: 2.6em;
 }
+
 .prodcontent {
 	width: 991px;
 	height: 449px;
 	margin: 0 auto;
 	float: none;
 }
+
 .contacttext {
 	width: 100%;
 	margin: 0 auto;
 	text-align: center;
 }
+
 /* ~~ The footer ~~ */
 
 .footer {
@@ -310,53 +394,207 @@ a:hover, a:active, a:focus { /* this group of selectors will give a keyboard nav
 	text-align: center;
 	margin: 0 auto;
 }
+
 .footergreen {
 	width: 100%;
 	height: 43px;
 	background: #00baf2;
 }
+
 .footercopy {
 	width: 100%;
 	height: 2em;
 	background: #00baf2;
 }
+
 .bottommenu {
 	width: 100%;
 	height: 0.9em;
 	background-color: #00baf2;
 }
+
 /* ~~ miscellaneous float/clear classes ~~ */
 
-.fltrt {  /* this class can be used to float an element right in your page. The floated element must precede the element it should be next to on the page. */
+.fltrt {
+	/* this class can be used to float an element right in your page. The floated element must precede the element it should be next to on the page. */
 	float: right;
 	margin-left: 8px;
 }
-.fltlft { /* this class can be used to float an element left in your page. The floated element must precede the element it should be next to on the page. */
+
+.fltlft {
+	/* this class can be used to float an element left in your page. The floated element must precede the element it should be next to on the page. */
 	float: left;
 	margin-right: 8px;
 }
-.clearfloat { /* this class can be placed on a <br /> or empty div as the final element following the last floated div (within the #container) if the #footer is removed or taken out of the #container */
+
+.clearfloat {
+	/* this class can be placed on a <br /> or empty div as the final element following the last floated div (within the #container) if the #footer is removed or taken out of the #container */
 	clear: both;
 	height: 0;
 	font-size: 1px;
 	line-height: 0px;
 }
+
 .pcopyright {
 	color: #FFF;
 	font-size: 0.8em;
 }
+
 .pbmenu {
 	font-size: 0.8em;
 }
+
 .abotmenu:link {
 	color: #000;
-	text-decoration: none; /* unless you style your links to look extremely unique, it's best to provide underlines for quick visual identification */
+	text-decoration: none;
+	/* unless you style your links to look extremely unique, it's best to provide underlines for quick visual identification */
 }
+
 .abotmenu:visited {
 	color: #000;
 	text-decoration: none;
 }
-.abotmenu:hover, a:active, a:focus { /* this group of selectors will give a keyboard navigator the same hover experience as the person using a mouse. */
+
+.abotmenu:hover,
+a:active,
+a:focus {
+	/* this group of selectors will give a keyboard navigator the same hover experience as the person using a mouse. */
 	text-decoration: none;
 	color: #FFF;
+}
+
+/* --------------------------------------------------------------------------------------- */
+.leng-plase {
+    background-repeat: no-repeat;
+    margin-left: 100px;
+    background-position: 2px 25px;
+    padding-left: 16px;
+    border: none;
+    background-color: #00baf2;
+    border-radius: 115px;
+    height: 60px;
+    color: #fff;
+    width: 60px;
+    font-weight: 600;
+   border: 1px colid #fff;
+   margin-top: 10px;
+}
+
+.main-title {
+	font-size: 50px;
+	font-weight: 900;
+}
+
+.content-main {
+	background-image: url(./images/indexcenter.jpg);
+	background-repeat: no-repeat;
+	background-position: 65px 35px;
+	background-size: contain;
+	transition: ease-in-out 2s;
+}
+.content-main:hover{
+	background-position: 265px 35px;
+}
+
+
+
+/* main-button */
+button {
+	position: relative;
+	display: inline-block;
+	cursor: pointer;
+	outline: none;
+	border: 0;
+	vertical-align: middle;
+	text-decoration: none;
+	background: transparent;
+	padding: 0;
+	font-size: inherit;
+	font-family: inherit;
+}
+
+button.learn-more {
+	width: 12rem;
+	height: auto;
+	margin: 10px 0;
+}
+
+button.learn-more .circle {
+	transition: all 0.45s cubic-bezier(0.65, 0, 0.076, 1);
+	position: relative;
+	margin: 0;
+	width: 3rem;
+	height: 3rem;
+	background: #00baf2;
+	border-radius: 1.625rem;
+}
+
+button.learn-more .circle .icon {
+	transition: all 0.45s cubic-bezier(0.65, 0, 0.076, 1);
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	margin: auto;
+	background: #fff;
+}
+
+button.learn-more .circle .icon.arrow {
+	transition: all 0.45s cubic-bezier(0.65, 0, 0.076, 1);
+	left: 0.625rem;
+	width: 1.125rem;
+	height: 0.125rem;
+	background: none;
+}
+
+button.learn-more .circle .icon.arrow::before {
+	position: absolute;
+	content: '';
+	top: -0.25rem;
+	right: 0.0625rem;
+	width: 0.625rem;
+	height: 0.625rem;
+	border-top: 0.125rem solid #fff;
+	border-right: 0.125rem solid #fff;
+	-webkit-transform: rotate(45deg);
+	transform: rotate(45deg);
+}
+
+button.learn-more .button-text {
+	transition: all 0.45s cubic-bezier(0.65, 0, 0.076, 1);
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	padding: 0.75rem 0;
+	margin: 0 0 0 1.85rem;
+	color: #00baf2;
+	font-weight: 700;
+	line-height: 1.6;
+	text-transform: uppercase;
+	padding-left: 20px;
+	text-align: start;
+}
+
+button:hover .circle {
+	width: 100%;
+}
+
+button:hover .circle .icon.arrow {
+	background: #fff;
+	-webkit-transform: translate(1rem, 0);
+	transform: translate(1rem, 0);
+}
+
+button:hover .button-text {
+	color: #fff;
+}
+
+.content_right {
+	width: 297px;
+	height: 461px;
+	float: left;
+	position: absolute;
+	right: 0;
+
 }

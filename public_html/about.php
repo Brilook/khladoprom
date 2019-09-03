@@ -21,10 +21,19 @@
   <div class="header">
     <div class="topline3"></div>
     <div class="topline4">
-      <div class="topline4in"> <a href="index.php"><img src="images/logo.jpg" width="101" height="108" style="margin-left: 9px; float: left;" /></a>
-        <div class="mainmenuitemsel">
-          <p class="mainmenuitemtext" style="margin-left: 26px;">О компании</p>
+      <div class="topline4in">
+         <a href="index.php"><img src="images/logo.jpg" width="101" height="108" style="margin-left: 9px; float: left;" /></a>
+
+         <button class="learn-more mainmenuitemsel " id="menu_item_left1">
+        <div class="circle">
+        <span class="icon arrow"> </span>
         </div>
+        <a href="about.php" class="button-text">о компании</a>
+    </button>
+
+        <!-- <div class="mainmenuitemsel">
+          <p class="mainmenuitemtext" style="margin-left: 26px;">О компании</p>
+        </div> -->
         <a href="history.php">
         <div class="mainmenuitem">
           <p class="mainmenuitemtext" style="margin-left: 24px;">История</p>
