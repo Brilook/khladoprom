@@ -1,4 +1,10 @@
 @charset "utf-8";
+@font-face {
+    font-family: 'Montserrat Alternates';
+    src: url('./fonts/Montserrat_Alternates/MontserratAlternates-Black.ttf') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+}
 
 /* @import url("https://fonts.googleapis.com/css?family=Mukta:700"); */
 html,
@@ -315,6 +321,7 @@ a:focus {
 	margin-right: auto;
 	margin-bottom: 0;
 	margin-left: auto;
+	background-image: url(./images/bgbubl.png);
 }
 
 .indexmenutext {
@@ -395,15 +402,15 @@ a:focus {
 	margin: 0 auto;
 }
 
-.footergreen {
+/* .footergreen {
 	width: 100%;
 	height: 43px;
 	background: #00baf2;
-}
+} */
 
 .footercopy {
 	width: 100%;
-	height: 2em;
+	/* height: 2em; */
 	background: #00baf2;
 }
 
@@ -465,19 +472,19 @@ a:focus {
 
 /* --------------------------------------------------------------------------------------- */
 .leng-plase {
-    background-repeat: no-repeat;
-    margin-left: 100px;
-    background-position: 2px 25px;
-    padding-left: 16px;
-    border: none;
-    background-color: #00baf2;
-    border-radius: 115px;
-    height: 60px;
-    color: #fff;
-    width: 60px;
-    font-weight: 600;
-   border: 1px colid #fff;
-   margin-top: 10px;
+	background-repeat: no-repeat;
+	margin-left: 100px;
+	background-position: 2px 25px;
+	padding-left: 16px;
+	border: none;
+	background-color: #00baf2;
+	border-radius: 115px;
+	height: 60px;
+	color: #fff;
+	width: 60px;
+	font-weight: 600;
+	margin-top: 10px;
+	outline: none;
 }
 
 .main-title {
@@ -492,7 +499,8 @@ a:focus {
 	background-size: contain;
 	transition: ease-in-out 2s;
 }
-.content-main:hover{
+
+.content-main:hover {
 	background-position: 265px 35px;
 }
 
@@ -517,6 +525,9 @@ button.learn-more {
 	width: 12rem;
 	height: auto;
 	margin: 10px 0;
+}
+button.learn-more.menuitem{
+	margin: 5px 0 0;
 }
 
 button.learn-more .circle {
@@ -597,4 +608,60 @@ button:hover .button-text {
 	position: absolute;
 	right: 0;
 
+}
+
+/* ---------------------NAV-------------------------------- */
+.main-nav {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+.selected{
+	display: none;
+	position: absolute;
+}
+.btn-wrap{
+	width: 27%;
+	
+}
+.about-title{
+	font-size: 38px;
+	color: #0d4ea3;
+	text-align: center;
+	margin-top: 25px;
+	font-weight: 900;
+	text-transform: uppercase;
+	font-family: 'Montserrat Alternates', sans-serif;
+}
+.logo{
+	float: right;
+    overflow: hidden;
+    position: absolute;
+    right: 0;
+    top: -50px;
+}
+.logo img{
+
+	height: 200px;
+}
+.list{
+	text-align: left;
+	font-size: 18px;
+	font-family: 'Montserrat Alternates', sans-serif;
+	color: #00baf2;
+	margin-left: 230px;
+	margin-top: 25px;
+}
+.list-item{
+	list-style: none;
+}
+.list-item::before{
+	content: '';
+    display: inline-block;
+    height: 25px;
+    width: 25px;
+    background-image: url(./images/khladoprom-logo.png);
+    background-size: cover;
+    background-position: -7px 6px;
+    background-repeat: no-repeat;
 }
