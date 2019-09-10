@@ -1,9 +1,10 @@
 @charset "utf-8";
+
 @font-face {
-    font-family: 'Montserrat Alternates';
-    src: url('./fonts/Montserrat_Alternates/MontserratAlternates-Black.ttf') format('truetype');
-    font-style: normal;
-    font-weight: normal;
+	font-family: 'Montserrat Alternates';
+	src: url('./fonts/Montserrat_Alternates/MontserratAlternates-Black.ttf') format('truetype');
+	font-style: normal;
+	font-weight: normal;
 }
 
 /* @import url("https://fonts.googleapis.com/css?family=Mukta:700"); */
@@ -59,31 +60,27 @@ a img {
 /* ~~ Styling for your site's links must remain in this order - including the group of selectors that create the hover effect. ~~ */
 
 a:link {
-	color: #000;
+	/* color: #000; */
 	text-decoration: none;
 	/* unless you style your links to look extremely unique, it's best to provide underlines for quick visual identification */
 }
 
-a:visited {
-	color: #EC1D23;
-	;
-	text-decoration: none;
-}
 
-a:hover,
+/* a:hover,
 a:active,
-a:focus {
+a:focus { */
 	/* this group of selectors will give a keyboard navigator the same hover experience as the person using a mouse. */
-	text-decoration: none;
+	/* text-decoration: none;
 	color: #ED1B24
-}
+} */
 
 /* ~~ this fixed width container surrounds the other divs ~~ */
 
 .container {
-	width: 100%;
-	background: #FFF;
+	max-width: 1200px;
+	/* background: #FFF; */
 	margin: 0 auto;
+	padding: 0 20px;
 	/* the auto value on the sides, coupled with the width, centers the layout */
 }
 
@@ -116,17 +113,18 @@ a:focus {
 
 .topline4 {
 	width: 100%;
-	height: 108px;
 	background: #FFF;
-	background-image: url(images/topbg.gif);
 	margin: 0 auto;
 	/* the auto value on the sides, coupled with the width, centers the layout */
 }
 
 .topline4in {
-	width: 1024px;
+	/* width: 1024px; */
 	height: 108px;
 	margin: 0 auto;
+	display: flex;
+	box-sizing: border-box;
+	
 	/* the auto value on the sides, coupled with the width, centers the layout */
 }
 
@@ -289,13 +287,13 @@ a:focus {
 	text-decoration: none;
 }
 
-.agraylink:hover,
+/* .agraylink:hover,
 a:active,
 a:focus {
 	/* this group of selectors will give a keyboard navigator the same hover experience as the person using a mouse. */
-	text-decoration: none;
+	/* text-decoration: none;
 	color: #FFF;
-}
+} */ 
 
 .redline {
 	background: #FFF;
@@ -316,12 +314,14 @@ a:focus {
 
 .content {
 	position: relative;
-	height: 1216px;
 	margin-top: 0;
 	margin-right: auto;
 	margin-bottom: 0;
 	margin-left: auto;
 	background-image: url(./images/bgbubl.png);
+	background-repeat: no-repeat;
+	background-position: 0 0;
+	background-size: cover;
 }
 
 .indexmenutext {
@@ -462,29 +462,30 @@ a:focus {
 	text-decoration: none;
 }
 
-.abotmenu:hover,
+/* .abotmenu:hover,
 a:active,
 a:focus {
 	/* this group of selectors will give a keyboard navigator the same hover experience as the person using a mouse. */
-	text-decoration: none;
+	/* text-decoration: none;
 	color: #FFF;
-}
+} */ 
 
 /* --------------------------------------------------------------------------------------- */
+
 .leng-plase {
 	background-repeat: no-repeat;
-	margin-left: 100px;
-	background-position: 2px 25px;
-	padding-left: 16px;
-	border: none;
-	background-color: #00baf2;
-	border-radius: 115px;
-	height: 60px;
-	color: #fff;
-	width: 60px;
-	font-weight: 600;
-	margin-top: 10px;
-	outline: none;
+    margin-left: 100px;
+    background-position: 2px 13px;
+    padding-left: 16px;
+    border: none;
+    background-color: #00baf2;
+    border-radius: 10px;
+    height: 35px;
+    color: #fff;
+    width: 60px;
+    font-weight: 600;
+    margin-top: 10px;
+    outline: none;
 }
 
 .main-title {
@@ -495,19 +496,60 @@ a:focus {
 .content-main {
 	background-image: url(./images/indexcenter.jpg);
 	background-repeat: no-repeat;
-	background-position: 65px 35px;
+	background-position: 65px 10px;
 	background-size: contain;
-	transition: ease-in-out 2s;
+	transition: ease-in-out 5s;
 }
 
 .content-main:hover {
-	background-position: 265px 35px;
+	background-position: 200px 10px;
+}
+/* ------------------btn-ice--------------- */
+.btn-ice{
+	margin-top: 10px;
+	height: 50px;
+	transition: all .5s;
 }
 
+.btn-text{
+	color: #00baf2;
+	font-weight: 700;
+	line-height: 1.6;
+	text-transform: uppercase;
+	text-align: start;
+	transition: all .5s;
+}
+.btn-text:hover,
+.btn-ice:hover{
+	color: #194e9e;
+	font-size: 18px;
+}
+
+.btn-text::before{
+	background-image: url(./images/Asset1.png);
+    background-size: 50px 50px;
+    background-repeat: no-repeat;
+    width: 50px;
+    height: 50px;
+    display: block;
+    content: "";
+    top: 39px;
+    right: 57px;
+	position: relative;
+	transition: all .2s;
+}
+.btn-text:hover::before{
+    /* background-size: 60px 60x; */
+	width: 60px;
+   
+
+
+}
 
 
 /* main-button */
 button {
+	height: auto;
 	position: relative;
 	display: inline-block;
 	cursor: pointer;
@@ -521,147 +563,302 @@ button {
 	font-family: inherit;
 }
 
-button.learn-more {
-	width: 12rem;
-	height: auto;
-	margin: 10px 0;
-}
-button.learn-more.menuitem{
-	margin: 5px 0 0;
-}
-
-button.learn-more .circle {
-	transition: all 0.45s cubic-bezier(0.65, 0, 0.076, 1);
-	position: relative;
-	margin: 0;
-	width: 3rem;
-	height: 3rem;
-	background: #00baf2;
-	border-radius: 1.625rem;
-}
-
-button.learn-more .circle .icon {
-	transition: all 0.45s cubic-bezier(0.65, 0, 0.076, 1);
-	position: absolute;
-	top: 0;
-	bottom: 0;
-	margin: auto;
-	background: #fff;
-}
-
-button.learn-more .circle .icon.arrow {
-	transition: all 0.45s cubic-bezier(0.65, 0, 0.076, 1);
-	left: 0.625rem;
-	width: 1.125rem;
-	height: 0.125rem;
-	background: none;
-}
-
-button.learn-more .circle .icon.arrow::before {
-	position: absolute;
-	content: '';
-	top: -0.25rem;
-	right: 0.0625rem;
-	width: 0.625rem;
-	height: 0.625rem;
-	border-top: 0.125rem solid #fff;
-	border-right: 0.125rem solid #fff;
-	-webkit-transform: rotate(45deg);
-	transform: rotate(45deg);
-}
-
-button.learn-more .button-text {
-	transition: all 0.45s cubic-bezier(0.65, 0, 0.076, 1);
-	position: absolute;
-	top: 0;
-	left: 0;
-	right: 0;
-	bottom: 0;
-	padding: 0.75rem 0;
-	margin: 0 0 0 1.85rem;
-	color: #00baf2;
-	font-weight: 700;
-	line-height: 1.6;
-	text-transform: uppercase;
-	padding-left: 20px;
-	text-align: start;
-}
-
-button:hover .circle {
-	width: 100%;
-}
-
-button:hover .circle .icon.arrow {
-	background: #fff;
-	-webkit-transform: translate(1rem, 0);
-	transform: translate(1rem, 0);
-}
-
-button:hover .button-text {
-	color: #fff;
-}
 
 .content_right {
 	width: 297px;
-	height: 461px;
-	float: left;
 	position: absolute;
 	right: 0;
+	margin-top: -20px;
 
 }
 
 /* ---------------------NAV-------------------------------- */
-.main-nav {
-	display: flex;
-	flex-wrap: wrap;
-	justify-content: space-around;
+.nav-logo{
+	width: 150px;
+    position: relative;
+    top: -20px;
+    left: -20px;
 }
-.selected{
-	display: none;
-	position: absolute;
+.main-nav {
+	width: 100%;
+}
+.nav-items{
+	display: flex;
+	line-height: 108px;
+	margin-left: -20px;
+
+}
+.item-nav{
+	background-image: url(./images/Asset1-30.png);
+	background-repeat: no-repeat;
+	background-position: 0 40px;
+	margin-right: 25px;
+	box-sizing: border-box;
+	cursor: pointer;
+	list-style: none;
+
+
+}
+.nav-btn-text{
+	margin-left: 50px;
+	color: #00baf2;
+	font-weight: 700;
+	text-transform: uppercase;
+	transition: all .5s;
+	font-size: 15px;
+}
+.nav-btn-text:hover{
+	color: #0d4ea3;
+
 }
 .btn-wrap{
-	width: 27%;
-	
+	margin-left: 25px;
 }
-.about-title{
-	font-size: 38px;
+
+.selected {
+	display: none;
+	position: absolute;
+	margin-right: 0;
+}
+
+
+
+
+
+
+
+.about-title {
+	font-size: 31px;
 	color: #0d4ea3;
-	text-align: center;
-	margin-top: 25px;
+	text-align: end;
+	padding-top: 25px;
 	font-weight: 900;
 	text-transform: uppercase;
 	font-family: 'Montserrat Alternates', sans-serif;
+	text-align: center;
 }
-.logo{
+
+.logo {
 	float: right;
-    overflow: hidden;
-    position: absolute;
-    right: 0;
-    top: -50px;
+	overflow: hidden;
+	position: relative;
+	right: -40px;
+	top: -36px;
 }
-.logo img{
+
+.logo img {
 
 	height: 200px;
 }
-.list{
+.cont-wrap{
+	display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-top: 50px;
+}
+
+.list {
 	text-align: left;
 	font-size: 18px;
 	font-family: 'Montserrat Alternates', sans-serif;
-	color: #00baf2;
-	margin-left: 230px;
-	margin-top: 25px;
+	color: #0d4ea3;
+	width: 20%;
+	padding-bottom: 20px;
 }
-.list-item{
-	list-style: none;
+
+
+
+
+
+/* --------------------slide-------------------------------------- */
+.slder{
+	width: 50%;
+	margin-right: 15px;
 }
-.list-item::before{
-	content: '';
-    display: inline-block;
-    height: 25px;
-    width: 25px;
-    background-image: url(./images/khladoprom-logo.png);
-    background-size: cover;
-    background-position: -7px 6px;
+.sl{
+	width: 500px;
+	margin: 20px auto;
+
+}
+.sl-slide{
+	position: relative;
+}
+.sl_img{
+	width: 500px;
+	height: auto;
+}
+.slick-next {
+	background-image: url(./images/next.png);
     background-repeat: no-repeat;
+    background-position: 3px 0;
+    background-size: contain;
+    height: auto;
+
 }
+.slick-prev {
+	background-image: url(./images/prev.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+	height: auto;
+	background-position: 9px 0;
+}
+
+/* --------------------history-------------------------------------- */
+
+
+.items-wrap {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	text-align: center;
+	
+	
+}
+
+
+.item {
+	width: 30%;
+	margin-top: 50px;
+	
+	
+}
+.foto_style{
+	border: 2px solid #b3b3b3;
+	border-radius: 5px;
+}
+.item-text{
+	font-size: 15px;
+	font-family: 'Montserrat Alternates', sans-serif;
+	color: #2e3192;
+	padding: 15px 20px;
+}
+.item-text span{
+	font-size: 20px;
+	color: #0d4ea3;
+
+}
+/* --------------------quality-------------------------- */
+.quality-cont{
+	display: flex;
+	padding: 30px 0;
+	color: #0d4ea3;
+
+	
+}
+.left-column{
+	width: 33%;
+	border-right: #0d4ea3 2px solid;
+}
+.right-column{
+	width: 33%;
+	border-left: #0d4ea3 2px solid;
+
+}
+.l-col-item:last-child{
+	padding-bottom: 0;
+}
+.l-col-item-text{
+    color: #0d4ea3;
+	width: 190%;
+}
+.l-col-item {
+	display: flex;
+	padding-bottom: 36px;
+	font-size: 21px;
+}
+.r-col-item{
+	font-size: 19px;
+	padding-bottom: 20px;
+}
+
+.l-col-item-drawing{
+	border: 2px solid #0d4ea3;
+    border-radius: 25px;
+    width: 65px;
+    height: 26px;
+    margin: auto;
+}
+.r-col-item-drawing{
+	margin-right: 15px;
+}
+.l-col-item-hr{
+	border: none;
+	width: 69px;
+	color: #0d4ea3;
+	background-color: #0d4ea3;
+    height: 2px;
+    margin: auto -1px;
+}
+
+
+.center-column{
+	width: 50%;
+	display: flex;
+}
+.c-c-title{
+    text-transform: uppercase;
+    font-size: 15px;
+    transform: rotate(-90deg);
+    position: absolute;
+    bottom: 0;
+    top: 0;
+    left: 370px;
+    right: 0;
+    text-align: center;
+    font-weight: 700;
+    letter-spacing: 3px;
+}
+.c-c-photo{
+	margin: 0 auto;
+}
+/* ------------------------label------------------- */
+.label-text{
+	text-align: center;
+}
+.label-text p{
+	padding: 30px 150px;
+}
+.mail{
+	text-align: center;
+	padding-bottom: 79px;
+}
+.title-mail{
+	color: #0d4ea3;
+	font-size:	 20px;
+	font-weight: 700;
+}
+.item-mail{
+	font-size: 25px;
+	font-weight: 900;
+}
+.label{
+	background-position: 0 -70px;
+	background: url(./images/label1.png) 1% 2% no-repeat,
+	url(./images/label-bottom.png) 98% 5% no-repeat,
+	url(./images/bgbubl.png) no-repeat;
+	;
+	background-size:auto,auto,cover;
+}
+/* --------------------contackts------------------ */
+.contacts-logo{
+	width: 300px;
+    margin: 0 auto;
+}
+.contacts-logo img{
+	width: 300px;
+}
+.contacts{
+	text-align: center;
+	padding-bottom: 50px;
+}
+.tel{
+	font-size: 25px;
+	font-weight: 900;
+	color: #0d4ea3
+
+}
+.tel:hover{
+	color: #fff;
+}
+
+/* ----------------------produce-------------------- */

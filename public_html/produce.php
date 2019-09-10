@@ -16,25 +16,32 @@
 </head>
 
 <body>
-<div class="container">
-  <div class="header">
- 	<div class="topline3"></div>
- 	<div class="topline4">
-    	<div class="topline4in">
-        	<a href="index.php"><img src="images/logo.jpg" width="101" height="108" style="margin-left: 9px; float: left;" /></a>
-            <a href="about.php"><div class="mainmenuitem"><p class="mainmenuitemtext" style="margin-left: 26px;">О компании</p></div></a>
-            <a href="history.php"><div class="mainmenuitem"><p class="mainmenuitemtext" style="margin-left: 24px;">История</p></div></a>
-            <a href="quality.php"><div class="mainmenuitem"><p class="mainmenuitemtext" style="margin-left: 24px;">Качество</p></div></a>
-            <div class="mainmenuitemsel"><p class="mainmenuitemtext" style="margin-left: 26px;">Продукция</p></div>
-            <a href="manufacture.php"><div class="mainmenuitem"><p class="mainmenuitemtext" style="margin-left: 28px;">Производство</p></div></a>
-            <a href="label.php"><div class="mainmenuitem"><p class="mainmenuitemtext" style="margin-left: 26px;">Private Label</p></div></a>
-            <a href="contacts.php"><div class="mainmenuitem"><p class="mainmenuitemtext" style="margin-left: 24px;">Контакты</p></div></a>
-        </div>
-        </div>
+<div class="header">
+    <div class="topline3"></div>
+    <div class="topline4"></div>
+    <div class="container">
+      <div class="topline4in">
+        <a href="index.php">
+          <img src="images/khladoprom-logo.png" class="nav-logo">
+        </a>
+        <nav class="main-nav ">
+          <ul class="nav-items">
+            <li class="item-nav "><a href="about.php" class="nav-btn-text ">o компании</a></li>
+            <li class="item-nav"><a href="history.php" class="nav-btn-text">История</a></li>
+            <li class="item-nav"><a href="quality.php" class="nav-btn-text">Качество</a></li>
+            <li class="item-nav selected"><a href="produce.php" class="nav-btn-text">Продукция</a></li>
+            <li class="item-nav"><a href="manufacture.php" class="nav-btn-text">Производство</a></li>
+            <li class="item-nav"><a href="label.php" class="nav-btn-text">Private label</a></li>
+            <li class="item-nav"><a href="contacts.php" class="nav-btn-text">Контакты</a></li>
+          </ul>
+        </nav>
+
+      </div>
     </div>
     <div class="grayline"></div>
-  </div>    <!-- end .header -->
-  <div class="content" style="width: 1024px; height: 1948px;">
+  </div>
+    <!-- end .header -->
+  <!-- <div class="content" style="width: 1024px; height: 1948px;">
   	<div class="title" style="float: left;"><p class="titletext">МОРОЖЕНОЕ</p></div>
 	<a href="prodnew.php"><div class="brand" style="float: left; margin-left: 120px;"><p class="brandtext">ТМ ХЛАДИК</p></div></a>
   	<a href="brand.php"><div class="brand" style="float: right; margin-right: 10px;"><p class="brandtext">НАШИ БРЕНДЫ</p></div></a>
@@ -43,8 +50,27 @@
     <div class="prodcontent"><img src="images/prodphoto02.jpg" width="991" height="449" /></div>
     <div class="prodcontent"><img src="images/prodphoto03.jpg" width="991" height="449" /></div>
     <div class="prodcontent"><img src="images/prodphoto04.jpg" width="991" height="449" /></div>
-  </div><!-- end .content -->
-</p></div>
+  </div> -->
+<!-- ----------------newcontent---------------- -->
+<div class="content">
+  <div class="container">
+    <div class="brends">
+      <div class="brand-item"><img src="images/brand-logo1" alt="logo"></div>
+      <div class="brand-item"><img src="images/brand-logo2" alt="logo"></div>
+      <div class="brand-item"><img src="images/brand-logo3" alt="logo"></div>
+      <div class="brand-item"><img src="images/brand-logo4" alt="logo"></div>
+      <div class="brand-item"><img src="images/brand-logo5" alt="logo"></div>
+      <div class="brand-item"><img src="images/brand-logo6" alt="logo"></div>
+      <div class="brand-item"><img src="images/brand-logo7" alt="logo"></div>
+      <div class="brand-item"><img src="images/brand-logo8" alt="logo"></div>
+      <div class="brand-item"><img src="images/brand-logo9" alt="logo"></div>
+    </div>
+  </div>
+</div>
+
+
+  <!-- end .content -->
+
   <div class="footer">
     <div class="grayline"></div>
     <div class="grayline" style="margin-top: 10px;"></div>    

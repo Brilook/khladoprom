@@ -4,171 +4,132 @@
 
 <head>
 
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
-<meta name="description" content="Хладопром мороженое" />
+  <meta name="description" content="Хладопром мороженое" />
 
-<meta name="distribution" content="Global" />
+  <meta name="distribution" content="Global" />
 
-<meta name="rating" content="General" />
+  <meta name="rating" content="General" />
 
-<meta name="content-Language" content="russian" />
+  <meta name="content-Language" content="russian" />
 
-<meta name="resourse-type" content="document" />
+  <meta name="resourse-type" content="document" />
 
-<meta name="audience" content="all" />
+  <meta name="audience" content="all" />
 
-<meta name="robots" content="index,all" />
+  <meta name="robots" content="index,all" />
 
-<meta name="home_url" content="http://http://khladoprom.com.ua" />
+  <meta name="home_url" content="http://http://khladoprom.com.ua" />
 
-<title>Хладопром - История</title>
+  <title>Хладопром - История</title>
 
-<link href="mdv.css" rel="stylesheet" type="text/css" />
+  <link href="mdv.css" rel="stylesheet" type="text/css" />
 
-<script type="text/javascript" src="scripts/jquery-1.5.1.min.js"></script>
+  <script type="text/javascript" src="scripts/jquery-1.5.1.min.js"></script>
 
 </head>
 
 
 
 <body>
+<div class="header">
+    <div class="topline3"></div>
+    <div class="topline4"></div>
+    <div class="container">
+      <div class="topline4in">
+        <a href="index.php">
+          <img src="images/khladoprom-logo.png" class="nav-logo">
+        </a>
+        <nav class="main-nav ">
+          <ul class="nav-items">
+            <li class="item-nav "><a href="about.php" class="nav-btn-text ">o компании</a></li>
+            <li class="item-nav selected"><a href="history.php" class="nav-btn-text">История</a></li>
+            <li class="item-nav"><a href="quality.php" class="nav-btn-text">Качество</a></li>
+            <li class="item-nav"><a href="produce.php" class="nav-btn-text">Продукция</a></li>
+            <li class="item-nav"><a href="manufacture.php" class="nav-btn-text">Производство</a></li>
+            <li class="item-nav"><a href="label.php" class="nav-btn-text">Private label</a></li>
+            <li class="item-nav"><a href="contacts.php" class="nav-btn-text">Контакты</a></li>
+          </ul>
+        </nav>
 
-<div class="container">
+      </div>
+    </div>
+    <div class="grayline"></div>
+  </div>
 
-  <div class="header">
+  <!----------------------------------- end .header -->
 
- 	<div class="topline3"></div>
+  <div class="content">
+    <div class="container">
+      <!-- <div class="logo">
+        <img src="./images/khladoprom-logo.png" alt="khladoprom-logo">
+      </div> -->
+      <h1 class="about-title "> Фабрика мороженого Хладопром</h1>
 
- 	<div class="topline4">
-
-    	<div class="topline4in">
-
-        	<a href="index.php"><img src="images/logo.jpg" width="101" height="108" style="margin-left: 9px; float: left;" /></a>
-
-            <a href="about.php"><div class="mainmenuitem"><p class="mainmenuitemtext" style="margin-left: 26px;">О компании</p></div></a>
-
-            <div class="mainmenuitemsel"><p class="mainmenuitemtext" style="margin-left: 24px;">История</p></div>
-
-            <a href="quality.php"><div class="mainmenuitem"><p class="mainmenuitemtext" style="margin-left: 24px;">Качество</p></div></a>
-
-            <a href="produce.php"><div class="mainmenuitem"><p class="mainmenuitemtext" style="margin-left: 26px;">Продукция</p></div></a>
-
-            <a href="manufacture.php"><div class="mainmenuitem"><p class="mainmenuitemtext" style="margin-left: 28px;">Производство</p></div></a>
-
-            <a href="label.php"><div class="mainmenuitem"><p class="mainmenuitemtext" style="margin-left: 26px;">Private Label</p></div></a>
-
-            <a href="contacts.php"><div class="mainmenuitem"><p class="mainmenuitemtext" style="margin-left: 24px;">Контакты</p></div></a>
-
+      <div class="items-wrap">
+        <div class="item">
+          <div class="item-foto">
+            <img class="foto_style" src="./images/hisphoto1.png" alt="">
+          </div>
+          <div class="item-text"><span> 1932 </span> <p> Год образования предприятия. Начало производства мороженого</p>
+          </div>
         </div>
 
+        <div class="item">
+          <div class="item-foto">
+            <img class="foto_style" src="./images/hisphoto2.png" alt="">
+          </div>
+          <div class="item-text"><span> 1976 </span> <p> Рекордный выпуск мороженого в одну смену. 25 тонн продукции. Самое крупное</p>
+            предприятие в Украине
+          </div>
         </div>
-
+        <div class="item">
+          <div class="item-foto">
+            <img class="foto_style" src="./images/hisphoto3.png" alt="">
+          </div>
+          <div class="item-text"><span> 2001</span> <p> Получение сертификата 9001</p>
+          </div>
+        </div>
+        <div class="item">
+          <div class="item-foto">
+            <img class="foto_style" src="./images/hisphoto4.png" alt="">
+          </div>
+          <div class="item-text"><span> 2009 </span> <p> Установка новой линии Iglo Line по производству вафельных стаканов</p>
+          </div>
+        </div>
+        <div class="item">
+          <div class="item-foto">
+            <img class="foto_style" src="./images/hisphoto5.png" alt="">
+          </div>
+          <div class="item-text"><span> 2011 </span> <p> Установка нового оборудования для приготовления смеси мороженного</p>
+          </div>
+        </div>
+        <div class="item">
+          <div class="item-foto">
+            <img class="foto_style" src="./images/hisphoto6.png" alt="">
+          </div>
+          <div class="item-text"><span> 2017 </span> <p> Получение сертификата IFS. Высшая оценка предприятия по международным стандартам.</p>
+          </div>
+        </div>
+      </div>
     </div>
+  </div>
 
+
+    <div class="footer">
     <div class="grayline"></div>
-
-  </div>    <!-- end .header -->
-
-  <div class="content" style="width: 1024px; height: 3660px;";>
-
-  	<div class="title"><p class="titletext">ИСТОРИЯ</p></div>
-
-    <div class="divhistory" style="background-image:url(images/hisbg01.png);"><img class="hisphoto" src="images/hisphoto01.jpg" width="609" height="272" />
-
-    	<p class="hisphototext">Выпуск первой продукции</p>
-
-    </div>
-
-    <div class="divhistory" style="background-image:url(images/hisbg02.png);"><img class="hisphoto" src="images/hisphoto02.jpg" width="609" height="272" />
-
-    	<p class="hisphototext">25 тонн мороженого в смену - самое крупное предприятие отрасли на Украине</p>
-
-    </div>
-
-    <div class="divhistory" style="background-image:url(images/hisbg03.png);"><img class="hisphoto" src="images/hisphoto03.jpg" width="609" height="272" />
-
-    	<p class="hisphototext">Создано и зарегистрировано АОЗТ &laquo;Хладопром&raquo;</p>
-
-    </div>
-
-    <div class="divhistory" style="background-image:url(images/hisbg04.png);"><img class="hisphoto" style="margin-top: 28px;" src="images/hisphoto04.jpg" width="609" height="272" />
-
-    	<p class="hisphototext">Новая линия &laquo;Iglo Line&raquo; по производству мороженого в стаканчике</p>
-
-    </div>
-
-    <div class="divhistory" style="background-image:url(images/hisbg05.png);"><img class="hisphoto" style="margin-top: 27px;" src="images/hisphoto05.jpg" width="609" height="272" />
-
-    	<p class="hisphototext">Замена оборудования по приготовлению смеси</p>
-
-    </div>
-
-    <div class="divhistory" style="background-image:url(images/hisbg06.png);"><img class="hisphoto" style="margin-top: 27px;" src="images/hisphoto06.jpg" width="609" height="272" />
-
-    	<p class="hisphototext">Замена танков для хранения смеси</p>
-
-    </div>
-
-    <div class="divhistory" style="background-image:url(images/hisbg07.png);"><img class="hisphoto" style="margin-top: 27px;" src="images/hisphoto07.jpg" width="609" height="272" />
-
-    	<p class="hisphototext">Новая автоматическая CIP мойка</p>
-
-    </div>
-
-    <div class="divhistory" style="background-image:url(images/hisbg08.png); height: 676px;"><img class="hisphoto" style="margin-top: 45px;" src="images/qualphoto03.jpg" width="330" height="474" />
-
-    	<p class="hisphototext" style="margin-top: 42px;">Получение АО &laquo;Хладопром&raquo; сертификата IFS</p>
-
-    </div>
-
-    </div>
-
-  </div><!-- end .content -->
-
-</p></div>
-
-  <div class="footer">
-
-    <div class="grayline"></div>
-
-    <div class="grayline" style="margin-top: 10px;"></div>    
-
-    <div class="footergreen"></div>
-
-  	<div class="bottommenu">
-
-      <p class="pbmenu">
-
-        <a href="index.php" class="abotmenu">Главная</a> | 
-
-        <a href="about.php" class="abotmenu">О компании</a> | 
-
-        <a href="history.php" class="abotmenu">История</a> | 
-
-        <a href="quality.php" class="abotmenu">Качество</a> |
-
-        <a href="produce.php" class="abotmenu">Продукция</a> | 
-
-        <a href="manufacture.php" class="abotmenu">Производство</a> | 
-
-        <a href="label.php" class="abotmenu">Private Label</a> | 
-
-        <a href="contacts.php" class="abotmenu">Контакты</a>
-
-      </p>
-
-    </div>
-
+    <div class="grayline" style="margin-top: 10px;"></div>
     <div class="footercopy"><span class="pcopyright">Copyright Khladoprom &copy; 2012 www.khladoprom.com.ua</span></div>
+    <div class="topline1"></div>
+  </div>
+  <!-- end .footer -->
 
- 	<div class="topline1"></div>
 
-  </div><!-- end .footer -->
-
-</div><!-- end .container -->
+  <script type="text/javascript" src="scripts/jquery-3.4.1.min.js"></script>
+  <script type="text/javascript" src="slick/slick.js"></script>
+  <script type="text/javascript" src="scripts/brilook.js"></script>
 
 </body>
 
 </html>
-

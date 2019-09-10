@@ -11,18 +11,15 @@ $('#input0').click(function () {
 	}
 });
 
-$(function(){
-	$('.button-text a').click(function(){
-		$(this).toggleClass('selected');
-	});
+$('.sl').slick({
+	slidesToShow: 1,
+	slidesToScroll: 1,
+	autoplay: true,
+	autoplaySpeed: 2000,
+	dots:true,
 });
 
 
 
-$('.autoplay').slick({
-	slidesToShow: 3,
-	slidesToScroll: 1,
-	autoplay: true,
-	autoplaySpeed: 2000,
-  });
+
 });
