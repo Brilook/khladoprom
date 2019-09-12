@@ -27,7 +27,7 @@
 				</a>
 				<nav class="main-nav ">
 					<ul class="nav-items">
-						<li class="item-nav "><a href="about.php" class="nav-btn-text ">o компании</a></li>
+						<li class="item-nav "><a href="about.php" class="nav-btn-text ">o компании компании</a></li>
 						<li class="item-nav"><a href="history.php" class="nav-btn-text">История</a></li>
 						<li class="item-nav"><a href="quality.php" class="nav-btn-text">Качество</a></li>
 						<li class="item-nav"><a href="produce.php" class="nav-btn-text">Продукция</a></li>
