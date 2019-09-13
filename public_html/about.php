@@ -5,6 +5,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
   <meta name="description" content="Хладопром мороженое" />
+  <meta name="viewport" content="width = device-width, initial-scale = 1.0">
   <meta name="distribution" content="Global" />
   <meta name="rating" content="General" />
   <meta name="content-Language" content="russian" />
@@ -33,7 +34,7 @@
             <li class="item-nav"><a href="history.php" class="nav-btn-text">История</a></li>
             <li class="item-nav"><a href="quality.php" class="nav-btn-text">Качество</a></li>
             <li class="item-nav"><a href="produce.php" class="nav-btn-text">Продукция</a></li>
-            <li class="item-nav"><a href="manufacture.php" class="nav-btn-text">Производство</a></li>
+            <!-- <li class="item-nav"><a href="manufacture.php" class="nav-btn-text">Производство</a></li> -->
             <li class="item-nav"><a href="label.php" class="nav-btn-text">Private label</a></li>
             <li class="item-nav"><a href="contacts.php" class="nav-btn-text">Контакты</a></li>
           </ul>
@@ -59,10 +60,10 @@
 
           </ul>
 
-          <div class="slder">
+          <div class="slider">
             <div class="sl">
-              <div class="sl-slide"><img src="images/comp1.jpg" alt="картинка слайда1" class="sl_img"></div>
-              <div class="sl-slide"><img src="images/comp2.jpg" alt="картинка слайда2" class="sl_img"></div>
+            <div class="sl-slide"><img src="images/comp1.jpg" alt="картинка слайда1" class="sl_img"></div>
+            <div class="sl-slide"><img src="images/comp2.jpg" alt="картинка слайда2" class="sl_img"></div>
             <div class="sl-slide"><img src="images/comp3.jpg" alt="картинка слайда3" class="sl_img"></div>
             <div class="sl-slide"><img src="images/comp4.jpg" alt="картинка слайда4" class="sl_img"></div>
             <div class="sl-slide"><img src="images/comp5.jpg" alt="картинка слайда5" class="sl_img"></div>

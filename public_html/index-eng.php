@@ -4,6 +4,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
   <meta name="description" content="Хладопром мороженое" />
+  <meta name="viewport" content="width = device-width, initial-scale = 1.0">
   <meta name="distribution" content="Global" />
   <meta name="rating" content="General" />
   <meta name="content-Language" content="russian" />
@@ -27,22 +28,16 @@
   <div class="content-main content" style="width: 1024px; height: 466px;" ;>
     <div class="container">
       <div class="content_left" style="width: 239px; height: 461px; float: left;">
-        <select class="leng-plase" name="" id="input0" required="required" style="background-image:url(images/us.png);"
-          onchange="window.location.href=this.options[this.selectedIndex].value">>
-          <option class="leng" style="background-image:url(images/us.png);"
-            value="http://khladoprom/public_html/index-eng.php">eng</option>
-          <option class="leng" style="background-image:url(images/ru.png);"
-            value="http://khladoprom/public_html/index.php">ru </option>
-          <!-- <option class="leng" style="background-image:url(images/ua.png);"
-          value="http://khladoprom/public_html/index-ua.php">ua
-        </option> -->
-        </select>
+        <details>
+            <summary style="background: url(images/us.png) 0 0 no-repeat;">Eng</summary>
+            <a style="background:url(images/ru.png) 0 0 no-repeat;" href="http://khladoprom/public_html/index.php">Ru</a>
+        </details>
       </div>
 
       <div class="content_right">
 
         <div class="btn-ice">
-          <a href="about.php" class="btn-text">company</a>
+          <a href="about-eng.php" class="btn-text">company</a>
         </div>
         <div class="btn-ice">
           <a href="history.php" class="btn-text">history</a>

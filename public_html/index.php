@@ -4,6 +4,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="description" content="Хладопром мороженое" />
+    <meta name="viewport" content="width = device-width, initial-scale = 1.0">
     <meta name="distribution" content="Global" />
     <meta name="rating" content="General" />
     <meta name="content-Language" content="russian" />
@@ -29,7 +30,7 @@
     <div class="content-main content" style="width: 1024px; height: 466px;" ;>
         <div class="container">
             <div class="content_left" style="width: 239px; height: 461px; float: left;">
-                <select class="leng-plase" name="" id="input0" required="required"
+                <!-- <select class="leng-plase" name="" id="input0" required="required"
                     style="background-image:url(images/ru.png);"
                     onchange="window.location.href=this.options[this.selectedIndex].value">>
                     <option class="leng" style="background-image:url(images/ru.png);"
@@ -38,10 +39,14 @@
                     <option class="leng" style="background-image:url(images/us.png);"
                         value="http://khladoprom/public_html/index-eng.php">eng
                     </option>
-                    <!-- <option class="leng" style="background-image:url(images/ua.png);"
+                    <option class="leng" style="background-image:url(images/ua.png);"
                         value="http://khladoprom/public_html/index-ua.php">ua
-                    </option> -->
-                </select>
+                    </option>
+                </select> -->
+                <details>
+                    <summary style="background:url(images/ru.png) 0 0 no-repeat;">Ru</summary>
+                    <a style="background:url(images/us.png) 0 0 no-repeat;" href="http://khladoprom/public_html/index-eng.php">Eng</a>
+                </details>
 
             </div>
 
@@ -58,9 +63,9 @@
                 <div class="btn-ice">
                     <a href="produce.php" class="btn-text">Продукция</a>
                 </div>
-                <div class="btn-ice">
+                <!-- <div class="btn-ice">
                     <a href="manufacture.php" class="btn-text">Производство</a>
-                </div>
+                </div> -->
                 <div class="btn-ice">
                     <a href="label.php" class="btn-text">Private label</a>
                 </div>
