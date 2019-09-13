@@ -1,22 +1,25 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="ru-RU">
+
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="description" content="Хладопром мороженое" />
-<meta name="distribution" content="Global" />
-<meta name="rating" content="General" />
-<meta name="content-Language" content="russian" />
-<meta name="resourse-type" content="document" />
-<meta name="audience" content="all" />
-<meta name="robots" content="index,all" />
-<meta name="home_url" content="http://http://khladoprom.com.ua" />
-<title>Хладопром - Private Label</title>
-<link href="mdv.css" rel="stylesheet" type="text/css" />
-<script type="text/javascript" src="scripts/jquery-1.5.1.min.js"></script>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="description" content="Хладопром мороженое" />
+  <meta name="distribution" content="Global" />
+  <meta name="rating" content="General" />
+  <meta name="content-Language" content="russian" />
+  <meta name="resourse-type" content="document" />
+  <meta name="audience" content="all" />
+  <meta name="robots" content="index,all" />
+  <meta name="home_url" content="http://http://khladoprom.com.ua" />
+  <meta name="viewport" content="width = device-width, initial-scale = 1.0">
+  <title>Хладопром - Private Label</title>
+  <link rel="stylesheet" type="text/css" href="slick/slick.css" />
+  <link rel="stylesheet" type="text/css" href="slick/slick-theme.css" />
+  <link href="mdv.css" rel="stylesheet" type="text/css" />
 </head>
 
 <body>
-<div class="header">
+  <div class="header">
     <div class="topline3"></div>
     <div class="topline4"></div>
     <div class="container">
@@ -56,10 +59,10 @@
         <p>Наши опытные специалисты всегда готовы оказать помощь в разработке продукции с учетом всех ваших требований и пожеланий.</p>
       </div>
       <div class="mail">
-          <h2 class="title-mail">Будем рады ответить на любые вопросы, касающиеся вашего проекта СТМ!</h2>
-          <div class="item-mail">
-          <a  href="mailto:pl@khladoprom.com.ua">E-mail: pl@khladoprom.com.ua</a>
-          </div>
+        <h2 class="title-mail">Будем рады ответить на любые вопросы, касающиеся вашего проекта СТМ!</h2>
+        <div class="item-mail">
+          <a href="mailto:pl@khladoprom.com.ua">E-mail: pl@khladoprom.com.ua</a>
+        </div>
       </div>
       <!-- <div class="label-foto-bottom">
         <img src="images/label-bottom.png" alt="label-bottom">
@@ -79,6 +82,8 @@
 
   <script type="text/javascript" src="scripts/jquery-3.4.1.min.js"></script>
   <script type="text/javascript" src="slick/slick.js"></script>
+  <script type="text/javascript" src="scripts/magnific.js"></script>
   <script type="text/javascript" src="scripts/brilook.js"></script>
 </body>
+
 </html>

@@ -10,11 +10,11 @@
   <meta name="resourse-type" content="document" />
   <meta name="audience" content="all" />
   <meta name="robots" content="index,all" />
+  <meta name="viewport" content="width = device-width, initial-scale = 1.0">
   <meta name="home_url" content="http://http://khladoprom.com.ua" />
   <title>Хладопром - Продукция</title>
   <link rel="stylesheet" type="text/css" href="slick/slick.css" />
   <link rel="stylesheet" type="text/css" href="slick/slick-theme.css" />
-
   <link href="mdv.css" rel="stylesheet" type="text/css" />
 </head>
 

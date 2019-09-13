@@ -56,12 +56,12 @@
           <li class="list-item">Постоянное технологическое развитие и повышение качества</li>
           <li class="list-item">Производит доставку готовой продукции по Украине<div class="br"></div> Начат экспорт в
             США
-            </li>
+          </li>
 
-          </ul>
+        </ul>
 
-          <div class="slider">
-            <div class="sl">
+        <div class="slider">
+          <div class="sl">
             <div class="sl-slide"><img src="images/comp1.jpg" alt="картинка слайда1" class="sl_img"></div>
             <div class="sl-slide"><img src="images/comp2.jpg" alt="картинка слайда2" class="sl_img"></div>
             <div class="sl-slide"><img src="images/comp3.jpg" alt="картинка слайда3" class="sl_img"></div>
@@ -75,8 +75,8 @@
           </div>
         </div>
         <ul class="list">
-            <li class="list-item">Производственная мощность предприятия 150 тонн готовой продукции <br> производимой на 9
-          технологических линиях</li>
+          <li class="list-item">Производственная мощность предприятия 150 тонн готовой продукции <br> производимой на 9
+            технологических линиях</li>
 
           <li class="list-item">Фабрика по производству мороженного г.Смела, Черкасская область,<br> мощностью 150 тонн
             готовой продукции в сутки</li>
@@ -100,6 +100,7 @@
   <!-- end .container -->
   <script type="text/javascript" src="scripts/jquery-3.4.1.min.js"></script>
   <script type="text/javascript" src="slick/slick.js"></script>
+  <script type="text/javascript" src="scripts/magnific.js"></script>
   <script type="text/javascript" src="scripts/brilook.js"></script>
 </body>
 

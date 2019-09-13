@@ -12,6 +12,7 @@
     <meta name="audience" content="all" />
     <meta name="robots" content="index,all" />
     <meta name="home_url" content="http://http://khladoprom.com.ua" />
+    <meta name="viewport" content="width = device-width, initial-scale = 1.0">
     <title>Хладопром - О компании</title>
     <link rel="stylesheet" type="text/css" href="slick/slick.css" />
     <link rel="stylesheet" type="text/css" href="slick/slick-theme.css" />
@@ -88,8 +89,8 @@
                 </div>
 
                 <div class="center-column">
-                  <!-- <p class="c-c-title">качество и  безопасность — основные приоритеты</p> -->
-                    
+                    <!-- <p class="c-c-title">качество и  безопасность — основные приоритеты</p> -->
+
                     <div class="c-c-photo">
                         <div class="photo-item">
                             <img class="foto_style" src="images/c-c-photo1.png" alt="photo">
@@ -167,6 +168,7 @@
     <!-- end .container -->
     <script type="text/javascript" src="scripts/jquery-3.4.1.min.js"></script>
     <script type="text/javascript" src="slick/slick.js"></script>
+    <script type="text/javascript" src="scripts/magnific.js"></script>
     <script type="text/javascript" src="scripts/brilook.js"></script>
 </body>
 

@@ -6,6 +6,7 @@
 	<meta name="description" content="Хладопром мороженое" />
 	<meta name="distribution" content="Global" />
 	<meta name="rating" content="General" />
+	<meta name="viewport" content="width = device-width, initial-scale = 1.0">
 	<meta name="content-Language" content="russian" />
 	<meta name="resourse-type" content="document" />
 	<meta name="audience" content="all" />
@@ -27,7 +28,7 @@
 				</a>
 				<nav class="main-nav ">
 					<ul class="nav-items">
-						<li class="item-nav "><a href="about.php" class="nav-btn-text ">o компании компании</a></li>
+						<li class="item-nav "><a href="about.php" class="nav-btn-text ">o компании</a></li>
 						<li class="item-nav"><a href="history.php" class="nav-btn-text">История</a></li>
 						<li class="item-nav"><a href="quality.php" class="nav-btn-text">Качество</a></li>
 						<li class="item-nav"><a href="produce.php" class="nav-btn-text">Продукция</a></li>
@@ -51,10 +52,10 @@
 				<h1 class="about-title ">ООО &laquo;Хладопром&raquo;</h1><br />
 				<p class="item-text">61099, Украина,<br />
 					г. Харьков, ул. Хабарова, 1</p><br />
-					<a class="tel" href="tel:+38 (057) 754 44 40">тел.: +38 (057) 754 44 40</a>
-					<p class="tel">факс: (057) 754 44 30<br /></p>
-					<a class="tel" href="about.php">www.khladoprom.com.ua</a><br>
-					<a class="item-mail" href="mailto:pl@khladoprom.com.ua">E-mail: pl@khladoprom.com.ua</a>
+				<a class="tel" href="tel:+38 (057) 754 44 40">тел.: +38 (057) 754 44 40</a>
+				<p class="tel">факс: (057) 754 44 30<br /></p>
+				<a class="tel" href="about.php">www.khladoprom.com.ua</a><br>
+				<a class="item-mail" href="mailto:pl@khladoprom.com.ua">E-mail: pl@khladoprom.com.ua</a>
 
 			</div>
 		</div>

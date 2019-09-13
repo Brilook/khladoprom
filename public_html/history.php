@@ -21,19 +21,21 @@
   <meta name="robots" content="index,all" />
 
   <meta name="home_url" content="http://http://khladoprom.com.ua" />
+  <meta name="viewport" content="width = device-width, initial-scale = 1.0">
+
 
   <title>Хладопром - История</title>
 
+  <link rel="stylesheet" type="text/css" href="slick/slick.css" />
+  <link rel="stylesheet" type="text/css" href="slick/slick-theme.css" />
   <link href="mdv.css" rel="stylesheet" type="text/css" />
-
-  <script type="text/javascript" src="scripts/jquery-1.5.1.min.js"></script>
 
 </head>
 
 
 
 <body>
-<div class="header">
+  <div class="header">
     <div class="topline3"></div>
     <div class="topline4"></div>
     <div class="container">
@@ -72,7 +74,8 @@
           <div class="item-foto">
             <img class="foto_style" src="./images/hisphoto1.png" alt="">
           </div>
-          <div class="item-text"><span> 1932 </span> <p> Год образования предприятия. Начало производства мороженого</p>
+          <div class="item-text"><span> 1932 </span>
+            <p> Год образования предприятия. Начало производства мороженого</p>
           </div>
         </div>
 
@@ -80,7 +83,8 @@
           <div class="item-foto">
             <img class="foto_style" src="./images/hisphoto2.png" alt="">
           </div>
-          <div class="item-text"><span> 1976 </span> <p> Рекордный выпуск мороженого в одну смену. 25 тонн продукции. Самое крупное</p>
+          <div class="item-text"><span> 1976 </span>
+            <p> Рекордный выпуск мороженого в одну смену. 25 тонн продукции. Самое крупное</p>
             предприятие в Украине
           </div>
         </div>
@@ -88,28 +92,32 @@
           <div class="item-foto">
             <img class="foto_style" src="./images/hisphoto3.png" alt="">
           </div>
-          <div class="item-text"><span> 2001</span> <p> Получение сертификата 9001</p>
+          <div class="item-text"><span> 2001</span>
+            <p> Получение сертификата 9001</p>
           </div>
         </div>
         <div class="item">
           <div class="item-foto">
             <img class="foto_style" src="./images/hisphoto4.png" alt="">
           </div>
-          <div class="item-text"><span> 2009 </span> <p> Установка новой линии Iglo Line по производству вафельных стаканов</p>
+          <div class="item-text"><span> 2009 </span>
+            <p> Установка новой линии Iglo Line по производству вафельных стаканов</p>
           </div>
         </div>
         <div class="item">
           <div class="item-foto">
             <img class="foto_style" src="./images/hisphoto5.png" alt="">
           </div>
-          <div class="item-text"><span> 2011 </span> <p> Установка нового оборудования для приготовления смеси мороженного</p>
+          <div class="item-text"><span> 2011 </span>
+            <p> Установка нового оборудования для приготовления смеси мороженного</p>
           </div>
         </div>
         <div class="item">
           <div class="item-foto">
             <img class="foto_style" src="./images/hisphoto6.png" alt="">
           </div>
-          <div class="item-text"><span> 2017 </span> <p> Получение сертификата IFS. Высшая оценка предприятия по международным стандартам.</p>
+          <div class="item-text"><span> 2017 </span>
+            <p> Получение сертификата IFS. Высшая оценка предприятия по международным стандартам.</p>
           </div>
         </div>
       </div>
@@ -117,7 +125,7 @@
   </div>
 
 
-    <div class="footer">
+  <div class="footer">
     <div class="grayline"></div>
     <div class="grayline" style="margin-top: 10px;"></div>
     <div class="footercopy"><span class="pcopyright">Copyright Khladoprom &copy; 2012 www.khladoprom.com.ua</span></div>
@@ -128,6 +136,7 @@
 
   <script type="text/javascript" src="scripts/jquery-3.4.1.min.js"></script>
   <script type="text/javascript" src="slick/slick.js"></script>
+  <script type="text/javascript" src="scripts/magnific.js"></script>
   <script type="text/javascript" src="scripts/brilook.js"></script>
 
 </body>
