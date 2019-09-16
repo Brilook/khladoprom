@@ -30,13 +30,13 @@
         </a>
         <nav class="main-nav ">
           <ul class="nav-items">
-            <li class="item-nav selected"><a href="about.php" class="nav-btn-text ">o компании</a></li>
-            <li class="item-nav"><a href="history.php" class="nav-btn-text">История</a></li>
-            <li class="item-nav"><a href="quality.php" class="nav-btn-text">Качество</a></li>
-            <li class="item-nav"><a href="produce.php" class="nav-btn-text">Продукция</a></li>
-            <!-- <li class="item-nav"><a href="manufacture.php" class="nav-btn-text">Производство</a></li> -->
-            <li class="item-nav"><a href="label.php" class="nav-btn-text">Private label</a></li>
-            <li class="item-nav"><a href="contacts.php" class="nav-btn-text">Контакты</a></li>
+            <li class="item-nav btn-ice selected"><a href="about.php" class="nav-btn-text btn-text">o компании</a></li>
+            <li class="item-nav btn-ice"><a href="history.php" class="nav-btn-text btn-text">История</a></li>
+            <li class="item-nav btn-ice"><a href="quality.php" class="nav-btn-text btn-text">Качество</a></li>
+            <li class="item-nav btn-ice"><a href="produce.php" class="nav-btn-text btn-text">Продукция</a></li>
+            <!-- <li class="item-nav btn-ice"><a href="manufacture.php" class="nav-btn-text btn-text">Производство</a></li> -->
+            <li class="item-nav  btn-ice"><a href="label.php" class="nav-btn-text btn-text">Private label</a></li>
+            <li class="item-nav btn-ice"><a href="contacts.php" class="nav-btn-text btn-text">Контакты</a></li>
           </ul>
         </nav>
 
@@ -74,7 +74,7 @@
             <div class="sl-slide"><img src="images/comp10.jpg" alt="картинка слайда10" class="sl_img"></div>
           </div>
         </div>
-        <ul class="list">
+        <ul class="list list-right">
           <li class="list-item">Производственная мощность предприятия 150 тонн готовой продукции <br> производимой на 9
             технологических линиях</li>
 

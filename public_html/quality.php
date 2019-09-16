@@ -30,13 +30,13 @@
                 </a>
                 <nav class="main-nav ">
                     <ul class="nav-items">
-                        <li class="item-nav"><a href="about.php" class="nav-btn-text ">o компании</a></li>
-                        <li class="item-nav"><a href="history.php" class="nav-btn-text">История</a></li>
-                        <li class="item-nav selected"><a href="quality.php" class="nav-btn-text">Качество</a></li>
-                        <li class="item-nav"><a href="produce.php" class="nav-btn-text">Продукция</a></li>
-                        <!-- <li class="item-nav"><a href="manufacture.php" class="nav-btn-text">Производство</a></li> -->
-                        <li class="item-nav"><a href="label.php" class="nav-btn-text">Private label</a></li>
-                        <li class="item-nav"><a href="contacts.php" class="nav-btn-text">Контакты</a></li>
+                        <li class="item-nav btn-ice"><a href="about.php" class="nav-btn-text btn-text ">o компании</a></li>
+                        <li class="item-nav btn-ice"><a href="history.php" class="nav-btn-text btn-text">История</a></li>
+                        <li class="item-nav btn-ice selected"><a href="quality.php" class="nav-btn-text btn-text">Качество</a></li>
+                        <li class="item-nav btn-ice"><a href="produce.php" class="nav-btn-text btn-text">Продукция</a></li>
+                        <!-- <li class="item-nav btn-ice"><a href="manufacture.php" class="nav-btn-text btn-text">Производство</a></li> -->
+                        <li class="item-nav btn-ice"><a href="label.php" class="nav-btn-text btn-text">Private label</a></li>
+                        <li class="item-nav btn-ice"><a href="contacts.php" class="nav-btn-text btn-text">Контакты</a></li>
                     </ul>
                 </nav>
 
@@ -52,7 +52,18 @@
             <h1 class="about-title ">Система в области качества и пищевой безопасности</h1>
             <div class="quality-cont">
                 <div class="left-column">
-                    <div class="l-col-item">
+                    <ul class="left-list">
+                        <li class="l-col-item-text">Лаборатотия
+                            контролирует безопасность
+                            на всех этапах
+                            производства и хранения;</li>
+                        <li class="l-col-item-text">Система магнитоулавливателей и фильтров исключает попадание посторонних предметов в
+                            продукцию</li>
+                        <li class="l-col-item-text">Автоматическая CIP-мойка обеспечивает требуемую чистоту оборудования</li>
+                        <li class="l-col-item-text">IT-система позволяет поддерживать стандарты по прямой и обратной прослеживаемости партии
+                            продукции</li>
+                    </ul>
+                    <!-- <div class="l-col-item">
                         <div class="l-col-item-text">
                             <p>Лаборатотия
                                 контролирует безопасность
@@ -85,12 +96,10 @@
                         </div>
                         <div class="l-col-item-drawing"></div>
                         <div class="l-col-item-hr"></div>
-                    </div>
+                    </div>-->
                 </div>
 
                 <div class="center-column">
-                    <!-- <p class="c-c-title">качество и  безопасность — основные приоритеты</p> -->
-
                     <div class="c-c-photo">
                         <div class="photo-item">
                             <img class="foto_style" src="images/c-c-photo1.png" alt="photo">

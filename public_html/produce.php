@@ -29,13 +29,13 @@
         </a>
         <nav class="main-nav ">
           <ul class="nav-items">
-            <li class="item-nav "><a href="about.php" class="nav-btn-text ">o компании</a></li>
-            <li class="item-nav"><a href="history.php" class="nav-btn-text">История</a></li>
-            <li class="item-nav"><a href="quality.php" class="nav-btn-text">Качество</a></li>
-            <li class="item-nav selected"><a href="produce.php" class="nav-btn-text">Продукция</a></li>
-            <!-- <li class="item-nav"><a href="manufacture.php" class="nav-btn-text">Производство</a></li> -->
-            <li class="item-nav"><a href="label.php" class="nav-btn-text">Private label</a></li>
-            <li class="item-nav"><a href="contacts.php" class="nav-btn-text">Контакты</a></li>
+            <li class="item-nav btn-ice "><a href="about.php" class="nav-btn-text btn-text ">o компании</a></li>
+            <li class="item-nav btn-ice"><a href="history.php" class="nav-btn-text btn-text">История</a></li>
+            <li class="item-nav btn-ice"><a href="quality.php" class="nav-btn-text btn-text">Качество</a></li>
+            <li class="item-nav btn-ice selected"><a href="produce.php" class="nav-btn-text btn-text">Продукция</a></li>
+            <!-- <li class="item-nav btn-ice"><a href="manufacture.php" class="nav-btn-text btn-text">Производство</a></li> -->
+            <li class="item-nav btn-ice"><a href="label.php" class="nav-btn-text btn-text">Private label</a></li>
+            <li class="item-nav btn-ice"><a href="contacts.php" class="nav-btn-text btn-text">Контакты</a></li>
           </ul>
         </nav>
 
@@ -78,13 +78,116 @@
         <div class="popup mfp-hide" id="popup">
           <div class="mfp-slider">
             <div class="slider-item">
-              <img class="slider-item-photo" src="images/present/Xr1.jpg" alt="photo">
+              <img class="slider-item-photo" src="images/present/ice-1.png" alt="photo">
+              <div class="s-i-info">
+                <p class="slider-item-text">"ХРЕЩАТИК" <br> мороженое пломбир <br> 15% жира <br> в вафельном стаканчике</p>
+                <p class="slider-item-text s-i-border"> 100г &frasl; 16шт &frasl; 1,6кг</p>
+              </div>
             </div>
             <div class="slider-item">
-              <img class="slider-item-photo" src="images/present/Xr2.jpg" alt="photo">
+              <img class="slider-item-photo" src="images/present/ice-2.png" alt="photo">
+              <div class="s-i-info">
+                <p class="slider-item-text">"ХРЕЩАТИК" <br> мороженое пломбир шоколадный<br> 12% жира <br> в вафельном стаканчике</p>
+                <p class="slider-item-text s-i-border"> 100г &frasl; 16шт &frasl; 1,6кг</p>
+              </div>
             </div>
             <div class="slider-item">
-              <img class="slider-item-photo" src="images/present/Xr3.jpg" alt="photo">
+              <img class="slider-item-photo" src="images/present/ice-3.png" alt="photo">
+              <div class="s-i-info">
+                <p class="slider-item-text">"ХРЕЩАТИК" <br> мороженое пломбир крем-брюле<br> 12% жира <br> в вафельном стаканчике</p>
+                <p class="slider-item-text s-i-border"> 100г &frasl; 16шт &frasl; 1,6кг</p>
+              </div>
+            </div>
+            <div class="slider-item">
+              <img class="slider-item-photo" src="images/present/ice-10.png" alt="photo">
+              <div class="s-i-info">
+                <p class="slider-item-text">"ХРЕЩАТИК" <br> мороженое пломбир<br> 15% жира <br>сендвич в печенье из какао</p>
+                <p class="slider-item-text s-i-border"> 75г &frasl; 21шт &frasl; 1,575кг</p>
+              </div>
+            </div>
+            <div class="slider-item">
+              <img class="slider-item-photo" src="images/present/ice-4.png" alt="photo">
+              <div class="s-i-info">
+                <p class="slider-item-text">"ХРЕЩАТИК" <br> мороженое пломбир ягодное<br>в вафельном стаканчике</p>
+                <p class="slider-item-text s-i-border"> 100г &frasl; 16шт &frasl; 1,6кг</p>
+              </div>
+            </div>
+            <div class="slider-item">
+              <img class="slider-item-photo" src="images/present/ice-5.png" alt="photo">
+              <div class="s-i-info">
+                <p class="slider-item-text">"ХРЕЩАТИК" <br> мороженое пломбир <br> 15% жира <br> в кондитерской глазури</p>
+                <p class="slider-item-text s-i-border"> 75г &frasl; 28шт &frasl; 2,1кг</p>
+              </div>
+            </div>
+            <div class="slider-item">
+              <img class="slider-item-photo" src="images/present/ice-6.png" alt="photo">
+              <div class="s-i-info">
+                <p class="slider-item-text">"ХРЕЩАТИК" <br> мороженое пломбир шоколадный <br> 12% жира <br> в кондитерской глазури</p>
+                <p class="slider-item-text s-i-border"> 75г &frasl; 28шт &frasl; 2,1кг</p>
+              </div>
+            </div>
+            <div class="slider-item">
+              <img class="slider-item-photo" src="images/present/ice-7.png" alt="photo">
+              <div class="s-i-info">
+                <p class="slider-item-text">"ХРЕЩАТИК" <br> мороженое пломбир ягодное<br> 12% жира <br> в кондитерской глазури</p>
+                <p class="slider-item-text s-i-border"> 80г &frasl; 28шт &frasl; 2,24кг</p>
+              </div>
+            </div>
+            <div class="slider-item">
+              <img class="slider-item-photo" src="images/present/ice-9.png" alt="photo">
+              <div class="s-i-info">
+                <p class="slider-item-text">"ХРЕЩАТИК" <br> мороженое пломбир с клубничным наполнителем<br>15% жира <br> вафельном рожке</p>
+                <p class="slider-item-text s-i-border"> 140г &frasl; 12шт &frasl; 1,68кг</p>
+              </div>
+            </div>
+            <div class="slider-item">
+              <img class="slider-item-photo" src="images/present/ice-8.png" alt="photo">
+              <div class="s-i-info">
+                <p class="slider-item-text">"ХРЕЩАТИК" <br>15% жира <br> мороженое пломбир ягодное<br>в вафельном рожке "ХРЕЩАТИК КИЕВСКИЙ ТОРТ"</p>
+                <p class="slider-item-text s-i-border"> 140г &frasl; 12шт &frasl; 1,68кг</p>
+              </div>
+            </div>
+            <div class="slider-item">
+              <img class="slider-item-photo" src="images/present/ice-11.png" alt="photo">
+              <div class="s-i-info">
+                <p class="slider-item-text">"ХРЕЩАТИК" <br> мороженое пломбир <br> 15% жира <br> картонный стакан</p>
+                <p class="slider-item-text s-i-border"> 500г &frasl; 6шт &frasl; 3,0кг</p>
+              </div>
+            </div>
+            <div class="slider-item">
+              <img class="slider-item-photo" src="images/present/ice-12.png" alt="photo">
+              <div class="s-i-info">
+                <p class="slider-item-text">"ХРЕЩАТИК" <br> мороженое пломбир шоколадный<br> 12% жира <br> картонный стакан</p>
+                <p class="slider-item-text s-i-border"> 500г &frasl; 6шт &frasl; 3,0кг</p>
+              </div>
+            </div>
+            <div class="slider-item">
+              <img class="slider-item-photo" src="images/present/ice-13.png" alt="photo">
+              <div class="s-i-info">
+                <p class="slider-item-text">"ХРЕЩАТИК" <br> мороженое пломбир <br> 15% жира <br>цилиндр</p>
+                <p class="slider-item-text s-i-border"> 500г &frasl; 8шт &frasl; 4,0кг</p>
+              </div>
+            </div>
+            <div class="slider-item">
+              <img class="slider-item-photo" src="images/present/ice-14.png" alt="photo">
+              <div class="s-i-info">
+                <p class="slider-item-text">"ХРЕЩАТИК" <br> мороженое пломбир шоколадный<br> 12% жира <br>цилиндр</p>
+                <p class="slider-item-text s-i-border"> 500г &frasl; 8шт &frasl; 4,0кг</p>
+              </div>
+            </div>
+            <div class="slider-item">
+              <img class="slider-item-photo" src="images/present/ice-15.png" alt="photo">
+              <div class="s-i-info">
+                <p class="slider-item-text">"ХРЕЩАТИК" <br> мороженое пломбир <br> 15% жира <br>цилиндр</p>
+                <p class="slider-item-text s-i-border"> 1кг &frasl; 4шт &frasl; 4,0кг</p>
+              </div>
+            </div>
+            <div class="slider-item">
+              <img class="slider-item-photo" src="images/present/ice-16.png" alt="photo">
+              <div class="s-i-info">
+                <p class="slider-item-text">"ХРЕЩАТИК" <br> мороженое пломбир шоколадный<br> 12% жира <br>цилиндр</p>
+                <p class="slider-item-text s-i-border"> 1кг &frasl; 4шт &frasl; 4,0кг</p>
+              </div>
             </div>
           </div>
         </div>

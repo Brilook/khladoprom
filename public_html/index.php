@@ -90,7 +90,7 @@
 
 
     <div class="footer">
-        <div style="">
+        <div>
             <div class="grayline" style="margin-top: 25px;"></div>
             <div class="grayline" style="margin-top: 10px;"></div>
             <div class="footercopy"><span class="pcopyright">Copyright Khladoprom &copy; 2012
