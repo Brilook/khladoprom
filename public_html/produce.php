@@ -224,13 +224,49 @@
         <div class="popup mfp-hide" id="popup3">
           <div class="mfp-slider">
             <div class="slider-item">
-              <img class="slider-item-photo" src="images\present\Xladik\Xladik1.jpg" alt="photo">
+              <img class="slider-item-photo" src="images\hladik\hladik0.png" alt="photo">
             </div>
             <div class="slider-item">
-              <img class="slider-item-photo" src="images\present\Xladik\Xladik2.jpg" alt="photo">
+              <img class="slider-item-photo" src="images\hladik\hladik1.png"" alt=" photo">
             </div>
             <div class="slider-item">
-              <img class="slider-item-photo" src="images\present\Xladik\Xladik3.jpg" alt="photo">
+              <img class="slider-item-photo" src="images\hladik\hladik2.png"" alt=" photo">
+            </div>
+            <div class="slider-item">
+              <img class="slider-item-photo" src="images\hladik\hladik3.png"" alt=" photo">
+            </div>
+            <div class="slider-item">
+              <img class="slider-item-photo" src="images\hladik\hladik4.png"" alt=" photo">
+            </div>
+            <div class="slider-item">
+              <img class="slider-item-photo" src="images\hladik\hladik5.png"" alt=" photo">
+            </div>
+            <div class="slider-item">
+              <img class="slider-item-photo" src="images\hladik\hladik6.png"" alt=" photo">
+            </div>
+            <div class="slider-item">
+              <img class="slider-item-photo" src="images\hladik\hladik7.png"" alt=" photo">
+            </div>
+            <div class="slider-item">
+              <img class="slider-item-photo" src="images\hladik\hladik8.png"" alt=" photo">
+            </div>
+            <div class="slider-item">
+              <img class="slider-item-photo" src="images\hladik\hladik9.png"" alt=" photo">
+            </div>
+            <div class="slider-item">
+              <img class="slider-item-photo" src="images\hladik\hladik10.png"" alt=" photo">
+            </div>
+            <div class="slider-item">
+              <img class="slider-item-photo" src="images\hladik\hladik11.png"" alt=" photo">
+            </div>
+            <div class="slider-item">
+              <img class="slider-item-photo" src="images\hladik\hladik12.png"" alt=" photo">
+            </div>
+            <div class="slider-item">
+              <img class="slider-item-photo" src="images\hladik\hladik13.png"" alt=" photo">
+            </div>
+            <div class="slider-item">
+              <img class="slider-item-photo" src="images\hladik\hladik14.png"" alt=" photo">
             </div>
           </div>
         </div>

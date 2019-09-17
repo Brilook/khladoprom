@@ -664,7 +664,7 @@ button {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  padding-top: 50px;
+  padding: 200px 0;
   justify-content: space-around;
 }
 
@@ -673,21 +673,18 @@ button {
   font-family: "RotondaC", sans-serif;
   color: #0d4ea3;
   width: 20%;
-  padding-bottom: 20px;
+  padding: 0 0 20px 30px;
 }
 .list-right {
   margin-left: 20px;
 }
 .list-item {
   font-size: 12px;
-  padding: 10px 15px 0 0;
+  padding: 0 15px 0 0;
+  margin-bottom: 23px;
 }
 
 /* --------------------slide-------------------------------------- */
-.slider {
-  margin-right: 15px;
-}
-
 .sl {
   width: 500px;
   margin: -5px auto 20px;
@@ -889,10 +886,10 @@ button {
 
 .label {
   background-position: 0 -70px;
-  background: url(./images/label1.png) 1% 2% no-repeat,
-    url(./images/label-bottom.png) 98% 5% no-repeat,
+  background: url(./images/privateLabel.jpg) 5% 4% no-repeat,
+    url(./images/labelbottom.jpg) 98% 5% no-repeat,
     url(./images/bgbubl.png) no-repeat;
-  background-size: auto, auto, cover;
+  background-size: 14%, 17%, cover;
 }
 
 /* --------------------contackts------------------ */
@@ -934,6 +931,10 @@ button {
   display: flex;
   justify-content: center;
   align-items: center;
+  transition: all 0.2s;
+}
+.brend-item:hover {
+  transform: scale(1.3);
 }
 
 .brend-item img {
@@ -1449,6 +1450,19 @@ img.mfp-img {
   .item {
     width: 45%;
   }
+  /* -----------about----------- */
+
+  .slider {
+    order: 0;
+    width: 100%;
+  }
+  .cont-wrap {
+    padding: 100px 0;
+  }
+  .list {
+    width: max-content;
+    margin: 10px auto;
+  }
 }
 
 @media screen and (max-width: 768px) {
@@ -1489,6 +1503,18 @@ img.mfp-img {
   .nav-btn-text {
     font-size: 15px;
   }
+  /* -----------about----------- */
+
+  .list {
+    width: max-content;
+    margin: 10px auto;
+  }
+  .cont-wrap {
+    padding: 30px 0;
+  }
+  .slider {
+    overflow: hidden;
+  }
 }
 @media screen and (max-width: 696px) {
   /* ----------nav------------ */
@@ -1525,6 +1551,11 @@ img.mfp-img {
   .item-text {
     padding: 10px 90px;
   }
+  /* -----------about----------- */
+  .slick-next,
+  .slick-prev {
+    display: none !important;
+  }
 }
 
 @media screen and (max-width: 425px) {
@@ -1551,5 +1582,28 @@ img.mfp-img {
   /* --------------history-------------- */
   .item-text {
     padding: 10px 20px;
+  }
+  /* ----------------about---------- */
+  .slider {
+    order: 0;
+    overflow: hidden;
+    width: 100%;
+  }
+  .slick-dots {
+    text-align: inherit;
+    margin-left: 30px;
+  }
+  .sl_img {
+    width: 371px;
+    height: auto;
+    position: relative;
+    bottom: 46px;
+    left: -30px;
+  }
+  .list-right {
+    margin-left: 0;
+  }
+  .sl {
+    width: 480px;
   }
 }
