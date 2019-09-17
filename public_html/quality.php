@@ -51,7 +51,7 @@
         <div class="container">
             <h1 class="about-title ">Система в области качества и пищевой безопасности</h1>
             <div class="quality-cont">
-                <div class="left-column">
+                <div class="column">
                     <ul class="left-list">
                         <li class="l-col-item-text">Лаборатотия
                             контролирует безопасность
@@ -119,8 +119,15 @@
                     </div>
                 </div>
 
-                <div class="right-column">
-                    <div class="l-col-item r-col-item">
+                <div class="column">
+                    <ul class="right-list">
+                        <li class="l-col-item-text">IFS International Foods Stanlarts. Сертификат безопастности пищевой продукции IFS food v5</li>
+                        <li class="l-col-item-text">IFS Сертификат безопасности пищевой продукции IFS v6 high level</li>
+                        <li class="l-col-item-text">QUALITY Certificate <br>сертификат системы менеджмента качества ISO 9001</li>
+                        <li class="l-col-item-text">QUALITY Certificate <br> сертификат безопасности пищевой продукции ISO 22000 HACCP</li>
+                        <li class="l-col-item-text">QUALITY Certificate <br> сертификат безопасности пищевой продукции FSSC 22000</li>
+                    </ul>
+                    <!-- <div class="l-col-item r-col-item">
                         <div class="l-col-item-hr"></div>
                         <div class="l-col-item-drawing r-col-item-drawing"></div>
                         <div class="l-col-item-text">
@@ -155,7 +162,7 @@
                         <div class="l-col-item-text">
                             <p>QUALITY Certificate <br> сертификат безопасности пищевой продукции FSSC 22000</p>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
 
             </div>
