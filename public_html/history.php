@@ -22,6 +22,8 @@
 
   <meta name="home_url" content="http://http://khladoprom.com.ua" />
   <meta name="viewport" content="width = device-width, initial-scale = 1.0">
+  <link href="http://khladoprom.com.ua/favicon.ico" type="image/x-icon">
+  <link rel="shortcut icon" href="http://khladoprom.com.ua/favicon.ico" type="image/x-icon">
 
 
   <title>Хладопром - История</title>

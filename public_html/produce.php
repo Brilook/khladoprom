@@ -12,6 +12,8 @@
   <meta name="robots" content="index,all" />
   <meta name="viewport" content="width = device-width, initial-scale = 1.0">
   <meta name="home_url" content="http://http://khladoprom.com.ua" />
+  <link href="http://khladoprom.com.ua/favicon.ico" type="image/x-icon">
+  <link rel="shortcut icon" href="http://khladoprom.com.ua/favicon.ico" type="image/x-icon">
   <title>Хладопром - Продукция</title>
   <link rel="stylesheet" type="text/css" href="slick/slick.css" />
   <link rel="stylesheet" type="text/css" href="slick/slick-theme.css" />
@@ -25,7 +27,7 @@
     <div class="container">
       <div class="topline4in">
         <a href="index.php">
-          <img src="images/khladoprom-logo.png" class="nav-logo">
+          <img src="images/khladoprom-logo.png" class="nav-logo" alt="logo">
         </a>
         <nav class="main-nav ">
           <ul class="nav-items">
@@ -65,7 +67,7 @@
     <div class="prodcontent"><img src="images/prodphoto03.jpg" width="991" height="449" /></div>
     <div class="prodcontent"><img src="images/prodphoto04.jpg" width="991" height="449" /></div>
   </div> -->
-  <!-- ----------------newcontent---------------- -->
+  <!------------------newcontent------------------>
   <div class="content">
     <div class="container">
       <div class="brends">
@@ -254,7 +256,7 @@
           <div class="popup mfp-hide" id="popup3">
             <div class="mfp-slider">
               <div class="slider-item">
-                <img class="slider-item-photo" src="images\hladik\hladik0.png" alt="photo">
+                <img class="slider-item-photo" src="images/hladik/hladik0.png" alt="photo">
                 <div class="s-i-info">
                   <p class="slider-item-text"> ПЛОМБИР <br> мороженое крем-брюле <br> 12% жира <br> в вафельном стаканчике</p>
                   <p class="slider-item-text s-i-border"> 70г &frasl; 24шт &frasl; 1,68кг</p>
@@ -262,7 +264,7 @@
 
               </div>
               <div class="slider-item">
-                <img class="slider-item-photo" src="images\hladik\hladik1.png" alt=" photo">
+                <img class="slider-item-photo" src="images/hladik/hladik1.png" alt=" photo">
                 <div class="s-i-info">
                   <p class="slider-item-text">ПЛОМБИР<br> мороженое пломбир <br>мороженое 12% жира <br>с клубничным наполнителем в вафельном стаканчике</p>
                   <p class="slider-item-text s-i-border"> 70г &frasl; 24шт &frasl; 1,68кг</p>
@@ -270,7 +272,7 @@
 
               </div>
               <div class="slider-item">
-                <img class="slider-item-photo" src="images\hladik\hladik2.png" alt=" photo">
+                <img class="slider-item-photo" src="images/hladik/hladik2.png" alt=" photo">
                 <div class="s-i-info">
                   <p class="slider-item-text">ПЛОМБИР<br> мороженое пломбир со вкусом фисташки<br> 12% жира <br> в вафельном стаканчике</p>
                   <p class="slider-item-text s-i-border"> 70г &frasl; 24шт &frasl; 1,68кг</p>
@@ -278,7 +280,7 @@
 
               </div>
               <div class="slider-item">
-                <img class="slider-item-photo" src="images\hladik\hladik3.png" alt=" photo">
+                <img class="slider-item-photo" src="images/hladik/hladik3.png" alt=" photo">
                 <div class="s-i-info">
                   <p class="slider-item-text">ПЛОМБИР<br> мороженое пломбир <br> 12% жира <br> в вафельном стаканчике</p>
                   <p class="slider-item-text s-i-border">70г &frasl; 24шт &frasl; 1,68кг</p>
@@ -286,7 +288,7 @@
 
               </div>
               <div class="slider-item">
-                <img class="slider-item-photo" src="images\hladik\hladik4.png" alt=" photo">
+                <img class="slider-item-photo" src="images/hladik/hladik4.png" alt=" photo">
                 <div class="s-i-info">
                   <p class="slider-item-text">ПЛОМБИР <br> мороженое шоколадное <br> 12% жира <br> в вафельном стаканчике</p>
                   <p class="slider-item-text s-i-border">70г &frasl; 24шт &frasl; 1,68кг</p>
@@ -294,7 +296,7 @@
 
               </div>
               <div class="slider-item">
-                <img class="slider-item-photo" src="images\hladik\hladik5.png" alt=" photo">
+                <img class="slider-item-photo" src="images/hladik/hladik5.png" alt=" photo">
                 <div class="s-i-info">
                   <p class="slider-item-text">"БЕЛОЧКА" <br> мороженое эскимо шоколадное<br> в кондитерской глазури</p>
                   <p class="slider-item-text s-i-border"> 70г &frasl; 30шт &frasl; 2,1кг</p>
@@ -302,14 +304,14 @@
               </div>
 
               <div class="slider-item">
-                <img class="slider-item-photo" src="images\hladik\hladik6.png" alt=" photo">
+                <img class="slider-item-photo" src="images/hladik/hladik6.png" alt=" photo">
                 <div class="s-i-info">
                   <p class="slider-item-text">Мороженое лёд <br> со вкусом "КОЛЫ"<br></p>
                   <p class="slider-item-text s-i-border"> 80г &frasl; 30шт &frasl; 2.4кг</p>
                 </div>
               </div>
               <div class="slider-item">
-                <img class="slider-item-photo" src="images\hladik\hladik7.png" alt=" photo">
+                <img class="slider-item-photo" src="images/hladik/hladik7.png" alt=" photo">
                 <div class="s-i-info">
                   <p class="slider-item-text">Мороженое лёд <br>"ТРОПИК"<br></p>
                   <p class="slider-item-text s-i-border"> 80г &frasl; 30шт &frasl; 2.4кг</p>
@@ -317,7 +319,7 @@
               </div>
 
               <div class="slider-item">
-                <img class="slider-item-photo" src="images\hladik\hladik8.png" alt=" photo">
+                <img class="slider-item-photo" src="images/hladik/hladik8.png" alt=" photo">
                 <div class="s-i-info">
                   <p class="slider-item-text">"ПЛОМБИР 19" <br> мороженое пломбир <br> 19% жира <br> на палочке</p>
                   <p class="slider-item-text s-i-border"> 75г &frasl; 24шт &frasl; 1,8кг</p>
@@ -325,7 +327,7 @@
 
               </div>
               <div class="slider-item">
-                <img class="slider-item-photo" src="images\hladik\hladik9.png" alt=" photo">
+                <img class="slider-item-photo" src="images/hladik/hladik9.png" alt=" photo">
                 <div class="s-i-info">
                   <p class="slider-item-text">"ПЛОМБИР 19" <br> мороженое пломбир <br> 19% жира <br> в вафельном стаканчике</p>
                   <p class="slider-item-text s-i-border"> 70г &frasl; 24шт &frasl; 1,68кг</p>
@@ -333,7 +335,7 @@
 
               </div>
               <div class="slider-item">
-                <img class="slider-item-photo" src="images\hladik\hladik10.png" alt=" photo">
+                <img class="slider-item-photo" src="images/hladik/hladik10.png" alt=" photo">
                 <div class="s-i-info">
                   <p class="slider-item-text">"ПЛОМБИР 19" <br> мороженое пломбир <br> 19% жира <br> в вафельном рожке</p>
                   <p class="slider-item-text s-i-border"> 80г &frasl; 18шт &frasl; 1,44кг</p>
@@ -341,7 +343,7 @@
 
               </div>
               <div class="slider-item">
-                <img class="slider-item-photo" src="images\hladik\hladik11.png" alt=" photo">
+                <img class="slider-item-photo" src="images/hladik/hladik11.png" alt=" photo">
                 <div class="s-i-info">
                   <p class="slider-item-text">"ПЛОМБИР 19" <br> мороженое пломбир <br> 19% жира <br> цилиндр</p>
                   <p class="slider-item-text s-i-border"> 500г &frasl; 8шт &frasl; 4,0кг</p>
@@ -349,7 +351,7 @@
 
               </div>
               <div class="slider-item">
-                <img class="slider-item-photo" src="images\hladik\hladik12.png" alt=" photo">
+                <img class="slider-item-photo" src="images/hladik/hladik12.png" alt=" photo">
                 <div class="s-i-info">
                   <p class="slider-item-text">"ПЛОМБИР 19" <br> мороженое пломбир <br> 19% жира <br> цилиндр</p>
                   <p class="slider-item-text s-i-border"> 1000г &frasl; 4шт &frasl; 4,0кг</p>
@@ -357,7 +359,7 @@
 
               </div>
               <div class="slider-item">
-                <img class="slider-item-photo" src="images\hladik\hladik13.png" alt=" photo">
+                <img class="slider-item-photo" src="images/hladik/hladik13.png" alt=" photo">
                 <div class="s-i-info">
                   <p class="slider-item-text">"ПЛОМБИР 19" <br> мороженое пломбир <br> 19% жира <br>пакет</p>
                   <p class="slider-item-text s-i-border"> 1000г &frasl; 6шт &frasl; 6,0кг</p>
@@ -365,7 +367,7 @@
 
               </div>
               <div class="slider-item">
-                <img class="slider-item-photo" src="images\hladik\hladik14.png" alt=" photo">
+                <img class="slider-item-photo" src="images/hladik/hladik14.png" alt=" photo">
                 <div class="s-i-info">
                   <p class="slider-item-text">"УЛЮБЛЕНЕ" <br> мороженое 3 вкуса:<br> клубника, ваниль, шоколад <br>на палочке</p>
                   <p class="slider-item-text s-i-border"> 75г &frasl; 24шт &frasl; 1,8кг</p>
@@ -601,8 +603,8 @@
   <!-- end .footer -->
 
   <script type="text/javascript" src="scripts/jquery-3.4.1.min.js"></script>
-  <script type="text/javascript" src="slick/slick.js"></script>
   <script type="text/javascript" src="scripts/magnific.js"></script>
+  <script type="text/javascript" src="slick/slick.js"></script>
   <script type="text/javascript" src="scripts/brilook.js"></script>
 </body>
 

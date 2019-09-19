@@ -12,6 +12,9 @@
 	<meta name="audience" content="all" />
 	<meta name="robots" content="index,all" />
 	<meta name="home_url" content="http://http://khladoprom.com.ua" />
+	<link href="http://khladoprom.com.ua/favicon.ico" type="image/x-icon">
+	<link rel="shortcut icon" href="http://khladoprom.com.ua/favicon.ico" type="image/x-icon">
+
 	<title>Хладопром - Контакты</title>
 	<link href="mdv.css" rel="stylesheet" type="text/css" />
 	<script type="text/javascript" src="scripts/jquery-1.5.1.min.js"></script>
@@ -45,11 +48,11 @@
 
 	<div class="content">
 		<div class="container">
-			<div class="contacts-logo">
-				<img src="images/khladoprom-logo.png">
-			</div>
 			<div class="contacts">
 				<h1 class="about-title ">ООО &laquo;Хладопром&raquo;</h1><br />
+				<div class="contacts-logo">
+					<img src="images/map.png">
+				</div>
 				<p class="item-text">61099, Украина,<br />
 					г. Харьков, ул. Хабарова, 1</p><br />
 				<a class="tel" href="tel:+38 (057) 754 44 40">тел.: +38 (057) 754 44 40</a>
@@ -91,6 +94,7 @@
 	</div>
 	<!-- end .container -->
 	<script type="text/javascript" src="scripts/jquery-3.4.1.min.js"></script>
+	<script type="text/javascript" src="scripts/magnific.js"></script>
 	<script type="text/javascript" src="slick/slick.js"></script>
 	<script type="text/javascript" src="scripts/brilook.js"></script>
 </body>

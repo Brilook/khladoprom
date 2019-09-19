@@ -719,6 +719,7 @@ button {
   background-size: contain;
   height: auto;
   right: -30px;
+  z-index: 999999;
 }
 
 .slick-prev {
@@ -728,6 +729,7 @@ button {
   height: auto;
   background-position: 9px 0;
   left: -30px;
+  z-index: 999999;
 }
 .slider-item-text {
   font-size: 20px;
@@ -744,6 +746,7 @@ button {
   position: relative;
   top: 0;
   left: 0;
+  padding-top: 50px;
 }
 
 /* --------------------history-------------------------------------- */
@@ -767,7 +770,7 @@ button {
 }
 
 .item-text {
-  font-size: 15px;
+  font-size: 20px;
   font-family: "RotondaC", sans-serif;
   color: #2e3192;
   padding: 15px 20px;
@@ -895,12 +898,13 @@ button {
 
 /* --------------------contackts------------------ */
 .contacts-logo {
-  width: 300px;
-  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  margin: 30px 0;
 }
-
 .contacts-logo img {
-  width: 300px;
+  max-width: 100%;
+  height: auto;
 }
 
 .contacts {
@@ -942,12 +946,12 @@ button {
   max-width: 220px;
 }
 
-.popup img {
+/* .popup img {
   height: 500px;
   margin: 0 auto;
   display: block;
   padding-top: 100px;
-}
+} */
 
 .slider-item {
   position: relative;
@@ -955,8 +959,10 @@ button {
 }
 
 .slider-item-photo {
-  margin-top: 100px;
+  height: 400px;
   margin: 0 auto;
+  display: block;
+  padding-top: 100px;
 }
 
 .mfp-slider {
@@ -1629,10 +1635,6 @@ img.mfp-img {
     overflow: hidden;
     width: 100%;
   }
-  .slick-dots {
-    text-align: inherit;
-    margin-left: 30px;
-  }
   .sl_img {
     width: 371px;
     height: auto;
@@ -1668,5 +1670,14 @@ img.mfp-img {
   }
   .brend-item img {
     width: inherit;
+  }
+  .slick-list-brand {
+    width: 300px;
+  }
+  .slider-item-photo {
+    height: 200px;
+  }
+  .slider-item {
+    padding-bottom: 70px;
   }
 }
