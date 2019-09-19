@@ -74,7 +74,6 @@
           <a href="#popup" class="galery-link">
             <img src="images/brand-logo1.png" alt="logo">
           </a>
-
           <div class="popup mfp-hide" id="popup">
             <div class="mfp-slider">
               <div class="slider-item">
@@ -202,20 +201,48 @@
           <div class="popup mfp-hide" id="popup2">
             <div class="mfp-slider">
               <div class="slider-item">
-                <img class="slider-item-photo" src="images/present/Kastan1.jpg" alt="photo">
+                <img class="slider-item-photo" src="images/kashtan/Kashtan1.png" alt="photo">
+                <div class="s-i-info">
+                  <p class="slider-item-text">"КАШТАН КЛАССИЧЕСКИЙ" <br> мороженое пломбир <br> 12% жира <br> в кондитерской глазури</p>
+                  <p class="slider-item-text s-i-border"> 75г &frasl; 28шт &frasl; 2,1кг</p>
+                </div>
+
               </div>
               <div class="slider-item">
-                <img class="slider-item-photo" src="images/present/Kastan2.jpg" alt="photo">
+                <img class="slider-item-photo" src="images/kashtan/Kashtan2.png" alt="photo">
+                <div class="s-i-info">
+                  <p class="slider-item-text">"КАШТАН ШОКОЛАДНЫЙ" <br> мороженое пломбир шоколадный <br> 12% жира <br> в кондитерской глазури</p>
+                  <p class="slider-item-text s-i-border"> 75г &frasl; 28шт &frasl; 2,1кг</p>
+                </div>
+
               </div>
               <div class="slider-item">
-                <img class="slider-item-photo" src="images/present/Kastan3.jpg" alt="photo">
+                <img class="slider-item-photo" src="images/kashtan/Kashtan3.png" alt="photo">
+                <div class="s-i-info">
+                  <p class="slider-item-text">"КАШТАН ВКУС БЕЛЕГО ШОКОЛАДА" <br> мороженое пломбир <br> 12% жира <br> в белой шоколадной глазузи</p>
+                  <p class="slider-item-text s-i-border"> 75г &frasl; 28шт &frasl; 2,1кг</p>
+                </div>
               </div>
               <div class="slider-item">
-                <img class="slider-item-photo" src="images/present/Kastan4.jpg" alt="photo">
+                <img class="slider-item-photo" src="images/kashtan/Kashtan4.png" alt="photo">
+                <div class="s-i-info">
+                  <p class="slider-item-text">"ЗОЛОТОЙ КАШТАН" <br> мороженое пломбир<br> 12% жира <br> в сливочной глазури</p>
+                  <p class="slider-item-text s-i-border">75г &frasl; 30шт &frasl; 2,1кг</p>
+                </div>
               </div>
+
+              <div class="slider-item">
+                <img class="slider-item-photo" src="images/kashtan/Kashtan5.png" alt="photo">
+                <div class="s-i-info">
+                  <p class="slider-item-text">"ЗОЛОТОЙ КАШТАН" <br> мороженое пломбир шоколадный<br> 12% жира <br> в сливочной глазури</p>
+                  <p class="slider-item-text s-i-border">75г &frasl; 30шт &frasl; 2,1кг</p>
+                </div>
+              </div>
+
             </div>
           </div>
         </div>
+
 
 
 
@@ -228,48 +255,122 @@
             <div class="mfp-slider">
               <div class="slider-item">
                 <img class="slider-item-photo" src="images\hladik\hladik0.png" alt="photo">
+                <div class="s-i-info">
+                  <p class="slider-item-text"> ПЛОМБИР <br> мороженое крем-брюле <br> 12% жира <br> в вафельном стаканчике</p>
+                  <p class="slider-item-text s-i-border"> 70г &frasl; 24шт &frasl; 1,68кг</p>
+                </div>
+
               </div>
               <div class="slider-item">
-                <img class="slider-item-photo" src="images\hladik\hladik1.png"" alt=" photo">
+                <img class="slider-item-photo" src="images\hladik\hladik1.png" alt=" photo">
+                <div class="s-i-info">
+                  <p class="slider-item-text">ПЛОМБИР<br> мороженое пломбир <br>мороженое 12% жира <br>с клубничным наполнителем в вафельном стаканчике</p>
+                  <p class="slider-item-text s-i-border"> 70г &frasl; 24шт &frasl; 1,68кг</p>
+                </div>
+
               </div>
               <div class="slider-item">
-                <img class="slider-item-photo" src="images\hladik\hladik2.png"" alt=" photo">
+                <img class="slider-item-photo" src="images\hladik\hladik2.png" alt=" photo">
+                <div class="s-i-info">
+                  <p class="slider-item-text">ПЛОМБИР<br> мороженое пломбир со вкусом фисташки<br> 12% жира <br> в вафельном стаканчике</p>
+                  <p class="slider-item-text s-i-border"> 70г &frasl; 24шт &frasl; 1,68кг</p>
+                </div>
+
               </div>
               <div class="slider-item">
-                <img class="slider-item-photo" src="images\hladik\hladik3.png"" alt=" photo">
+                <img class="slider-item-photo" src="images\hladik\hladik3.png" alt=" photo">
+                <div class="s-i-info">
+                  <p class="slider-item-text">ПЛОМБИР<br> мороженое пломбир <br> 12% жира <br> в вафельном стаканчике</p>
+                  <p class="slider-item-text s-i-border">70г &frasl; 24шт &frasl; 1,68кг</p>
+                </div>
+
               </div>
               <div class="slider-item">
-                <img class="slider-item-photo" src="images\hladik\hladik4.png"" alt=" photo">
+                <img class="slider-item-photo" src="images\hladik\hladik4.png" alt=" photo">
+                <div class="s-i-info">
+                  <p class="slider-item-text">ПЛОМБИР <br> мороженое шоколадное <br> 12% жира <br> в вафельном стаканчике</p>
+                  <p class="slider-item-text s-i-border">70г &frasl; 24шт &frasl; 1,68кг</p>
+                </div>
+
               </div>
               <div class="slider-item">
-                <img class="slider-item-photo" src="images\hladik\hladik5.png"" alt=" photo">
+                <img class="slider-item-photo" src="images\hladik\hladik5.png" alt=" photo">
+                <div class="s-i-info">
+                  <p class="slider-item-text">"БЕЛОЧКА" <br> мороженое эскимо шоколадное<br> в кондитерской глазури</p>
+                  <p class="slider-item-text s-i-border"> 70г &frasl; 30шт &frasl; 2,1кг</p>
+                </div>
+              </div>
+
+              <div class="slider-item">
+                <img class="slider-item-photo" src="images\hladik\hladik6.png" alt=" photo">
+                <div class="s-i-info">
+                  <p class="slider-item-text">Мороженое лёд <br> со вкусом "КОЛЫ"<br></p>
+                  <p class="slider-item-text s-i-border"> 80г &frasl; 30шт &frasl; 2.4кг</p>
+                </div>
               </div>
               <div class="slider-item">
-                <img class="slider-item-photo" src="images\hladik\hladik6.png"" alt=" photo">
+                <img class="slider-item-photo" src="images\hladik\hladik7.png" alt=" photo">
+                <div class="s-i-info">
+                  <p class="slider-item-text">Мороженое лёд <br>"ТРОПИК"<br></p>
+                  <p class="slider-item-text s-i-border"> 80г &frasl; 30шт &frasl; 2.4кг</p>
+                </div>
+              </div>
+
+              <div class="slider-item">
+                <img class="slider-item-photo" src="images\hladik\hladik8.png" alt=" photo">
+                <div class="s-i-info">
+                  <p class="slider-item-text">"ПЛОМБИР 19" <br> мороженое пломбир <br> 19% жира <br> на палочке</p>
+                  <p class="slider-item-text s-i-border"> 75г &frasl; 24шт &frasl; 1,8кг</p>
+                </div>
+
               </div>
               <div class="slider-item">
-                <img class="slider-item-photo" src="images\hladik\hladik7.png"" alt=" photo">
+                <img class="slider-item-photo" src="images\hladik\hladik9.png" alt=" photo">
+                <div class="s-i-info">
+                  <p class="slider-item-text">"ПЛОМБИР 19" <br> мороженое пломбир <br> 19% жира <br> в вафельном стаканчике</p>
+                  <p class="slider-item-text s-i-border"> 70г &frasl; 24шт &frasl; 1,68кг</p>
+                </div>
+
               </div>
               <div class="slider-item">
-                <img class="slider-item-photo" src="images\hladik\hladik8.png"" alt=" photo">
+                <img class="slider-item-photo" src="images\hladik\hladik10.png" alt=" photo">
+                <div class="s-i-info">
+                  <p class="slider-item-text">"ПЛОМБИР 19" <br> мороженое пломбир <br> 19% жира <br> в вафельном рожке</p>
+                  <p class="slider-item-text s-i-border"> 80г &frasl; 18шт &frasl; 1,44кг</p>
+                </div>
+
               </div>
               <div class="slider-item">
-                <img class="slider-item-photo" src="images\hladik\hladik9.png"" alt=" photo">
+                <img class="slider-item-photo" src="images\hladik\hladik11.png" alt=" photo">
+                <div class="s-i-info">
+                  <p class="slider-item-text">"ПЛОМБИР 19" <br> мороженое пломбир <br> 19% жира <br> цилиндр</p>
+                  <p class="slider-item-text s-i-border"> 500г &frasl; 8шт &frasl; 4,0кг</p>
+                </div>
+
               </div>
               <div class="slider-item">
-                <img class="slider-item-photo" src="images\hladik\hladik10.png"" alt=" photo">
+                <img class="slider-item-photo" src="images\hladik\hladik12.png" alt=" photo">
+                <div class="s-i-info">
+                  <p class="slider-item-text">"ПЛОМБИР 19" <br> мороженое пломбир <br> 19% жира <br> цилиндр</p>
+                  <p class="slider-item-text s-i-border"> 1000г &frasl; 4шт &frasl; 4,0кг</p>
+                </div>
+
               </div>
               <div class="slider-item">
-                <img class="slider-item-photo" src="images\hladik\hladik11.png"" alt=" photo">
+                <img class="slider-item-photo" src="images\hladik\hladik13.png" alt=" photo">
+                <div class="s-i-info">
+                  <p class="slider-item-text">"ПЛОМБИР 19" <br> мороженое пломбир <br> 19% жира <br>пакет</p>
+                  <p class="slider-item-text s-i-border"> 1000г &frasl; 6шт &frasl; 6,0кг</p>
+                </div>
+
               </div>
               <div class="slider-item">
-                <img class="slider-item-photo" src="images\hladik\hladik12.png"" alt=" photo">
-              </div>
-              <div class="slider-item">
-                <img class="slider-item-photo" src="images\hladik\hladik13.png"" alt=" photo">
-              </div>
-              <div class="slider-item">
-                <img class="slider-item-photo" src="images\hladik\hladik14.png"" alt=" photo">
+                <img class="slider-item-photo" src="images\hladik\hladik14.png" alt=" photo">
+                <div class="s-i-info">
+                  <p class="slider-item-text">"УЛЮБЛЕНЕ" <br> мороженое 3 вкуса:<br> клубника, ваниль, шоколад <br>на палочке</p>
+                  <p class="slider-item-text s-i-border"> 75г &frasl; 24шт &frasl; 1,8кг</p>
+                </div>
+
               </div>
             </div>
           </div>
@@ -279,16 +380,214 @@
 
 
 
-        <div class="brend-item"><img src="images/brand-logo5.png" alt="logo"></div>
-        <div class="brend-item"><img src="images/brand-logo2.png" alt="logo"></div>
-        <div class="brend-item"><img src="images/brand-logo4.png" alt="logo"></div>
-        <div class="brend-item"><img src="images/brand-logo6.png" alt="logo"></div>
-        <div class="brend-item"><img src="images/brand-logo7.png" alt="logo"></div>
-        <div class="brend-item"><img src="images/brand-logo9.png" alt="logo"></div>
-      </div>
+        <div class="brend-item">
+          <a href="#popup4" class="galery-link">
+            <img src="images/brand-logo5.png" alt="logo">
+          </a>
+          <div class="popup mfp-hide" id="popup4">
+            <div class="mfp-slider">
+              <div class="slider-item">
+                <img class="slider-item-photo" src="images/snegovik/Snegovik1.png" alt="photo">
+                <div class="s-i-info">
+                  <p class="slider-item-text">"СНЕГОВИК" <br> мороженое плодово-ягодное <br> в вафельном стаканчике</p>
+                  <p class="slider-item-text s-i-border"> 80г &frasl; 30шт &frasl; 2,4кг</p>
+                </div>
+              </div>
+              <div class="slider-item">
+                <img class="slider-item-photo" src="images/snegovik/Snegovik2.png" alt="photo">
+                <div class="s-i-info">
+                  <p class="slider-item-text">"СНЕГОВИК" <br> мороженое плодово-ягодное<br> на палочке</p>
+                  <p class="slider-item-text s-i-border"> 80г &frasl; 28шт &frasl; 2,24кг</p>
+                </div>
+              </div>
+              <div class="slider-item">
+                <img class="slider-item-photo" src="images/snegovik/Snegovik3.png" alt="photo">
+                <div class="s-i-info">
+                  <p class="slider-item-text">"СНЕГОВИК" <br> мороженое плодово-ягодное<br> в кондитерской глазури <br> на палочке</p>
+                  <p class="slider-item-text s-i-border"> 80г &frasl; 28шт &frasl; 2,24кг</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
 
+        <div class="brend-item">
+          <a href="#popup5" class="galery-link">
+            <img src="images/brand-logo2.png" alt="logo">
+          </a>
+          <div class="popup mfp-hide" id="popup5">
+            <div class="mfp-slider">
+              <div class="slider-item">
+                <img class="slider-item-photo" src="images/vivat/vivat1.png" alt="photo">
+                <div class="s-i-info">
+                  <p class="slider-item-text">"ВИВАТ" <br> мороженое с наполнителем <br> "Вишня" <br> в вафельном рожке</p>
+                  <p class="slider-item-text s-i-border"> 80г &frasl; 18шт &frasl; 1,44кг</p>
+                </div>
+              </div>
+              <div class="slider-item">
+                <img class="slider-item-photo" src="images/vivat/vivat2.png" alt="photo">
+                <div class="s-i-info">
+                  <p class="slider-item-text">"ВИВАТ" <br>мороженое с наполнителем <br> "Шоколад" <br> в вафельном рожке</p>
+                  <p class="slider-item-text s-i-border"> 80г &frasl; 18шт &frasl; 1,44кг</p>
+                </div>
+              </div>
+              <div class="slider-item">
+                <img class="slider-item-photo" src="images/vivat/vivat3.png" alt="photo">
+                <div class="s-i-info">
+                  <p class="slider-item-text">"ВИВАТ" <br> мороженое с наполнителем<br> "Клубника" <br> в вафельном рожке</p>
+                  <p class="slider-item-text s-i-border"> 80г &frasl; 18шт &frasl; 1,44кг</p>
+                </div>
+              </div>
+              <div class="slider-item">
+                <img class="slider-item-photo" src="images/vivat/vivat4.png" alt="photo">
+                <div class="s-i-info">
+                  <p class="slider-item-text">"ВИВАТ" <br> мороженое с наполнителем<br> "Чёрная смородина" <br> в вафельном рожке</p>
+                  <p class="slider-item-text s-i-border"> 80г &frasl; 18шт &frasl; 1,44кг</p>
+                </div>
+              </div>
+              <div class="slider-item">
+                <img class="slider-item-photo" src="images/vivat/vivat5.png" alt="photo">
+                <div class="s-i-info">
+                  <p class="slider-item-text">"ВИВАТ" <br> мороженое фисташковое<br>с миндалём <br> в вафельном рожке</p>
+                  <p class="slider-item-text s-i-border"> 80г &frasl; 18шт &frasl; 1,44кг</p>
+                </div>
+              </div>
+              <div class="slider-item">
+                <img class="slider-item-photo" src="images/vivat/vivat6.png" alt="photo">
+                <div class="s-i-info">
+                  <p class="slider-item-text">"ВИВАТ" <br> мороженое с наполнителем<br> "Клубника" <br> в вафельном рожке</p>
+                  <p class="slider-item-text s-i-border"> 80г &frasl; 18шт &frasl; 1,44кг</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+        <div class="brend-item">
+          <a href="#popup6" class="galery-link">
+            <img src="images/brand-logo4.png" alt="logo">
+          </a>
+          <div class="popup mfp-hide" id="popup6">
+            <div class="mfp-slider">
+              <div class="slider-item">
+                <img class="slider-item-photo" src="images/turbo/Turbo1.png" alt="photo">
+                <div class="s-i-info">
+                  <p class="slider-item-text">"ТУРБО" <br> мороженое шоколадное <br>с наполнителем "Шоколадный"<br> 10% жира <br> в кондитерской глазури</p>
+                  <p class="slider-item-text s-i-border"> 70г &frasl; 28шт &frasl; 1,96кг</p>
+                </div>
+              </div>
+              <div class="slider-item">
+                <img class="slider-item-photo" src="images/turbo/Turbo2.png" alt="photo">
+                <div class="s-i-info">
+                  <p class="slider-item-text">"ТУРБО" <br> мороженое со вкусом "Банан-Шоколад" <br> 10% жира <br> в кондитерской глазури</p>
+                  <p class="slider-item-text s-i-border"> 70г &frasl; 28шт &frasl; 1,96кг</p>
+                </div>
+              </div>
+              <div class="slider-item">
+                <img class="slider-item-photo" src="images/turbo/Turbo3.png" alt="photo">
+                <div class="s-i-info">
+                  <p class="slider-item-text">"ТУРБО" <br> мороженое арахисовое <br>с наполнителем "Солёная карамель" <br> 10% жира <br> в кондитерской глазури</p>
+                  <p class="slider-item-text s-i-border"> 70г &frasl; 28шт &frasl; 1,96кг</p>
+                </div>
+              </div>
+              <div class="slider-item">
+                <img class="slider-item-photo" src="images/turbo/Turbo4.png" alt="photo">
+                <div class="s-i-info">
+                  <p class="slider-item-text">"ТУРБО" <br> мороженое с наполнителем "Вишня" <br> 10% жира <br> в кондитерской глазури</p>
+                  <p class="slider-item-text s-i-border"> 70г &frasl; 28шт &frasl; 1,96кг</p>
+                </div>
+              </div>
+              <div class="slider-item">
+                <img class="slider-item-photo" src="images/turbo/Turbo5.png" alt="photo">
+                <div class="s-i-info">
+                  <p class="slider-item-text">"ТУРБО" <br> мороженое крем-брюле <br>с наполнителем "Солёная карамель"<br> 10% жира <br> в кондитерской глазури</p>
+                  <p class="slider-item-text s-i-border"> 70г &frasl; 28шт &frasl; 1,96кг</p>
+                </div>
+              </div>
+              <div class="slider-item">
+                <img class="slider-item-photo" src="images/turbo/Turbo6.png" alt="photo">
+                <div class="s-i-info">
+                  <p class="slider-item-text">"ТУРБО" <br> мороженое <br>с наполнителем "Ананас" <br> 10% жира <br> в кондитерской глазури</p>
+                  <p class="slider-item-text s-i-border"> 70г &frasl; 28шт &frasl; 1,96кг</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+
+        <div class="brend-item">
+          <a href="#popup7" class="galery-link">
+            <img src="images/brand-logo6.png" alt="logo">
+          </a>
+          <div class="popup mfp-hide" id="popup7">
+            <div class="mfp-slider">
+              <div class="slider-item">
+                <img class="slider-item-photo" src="images/salut/salut1.png" alt="photo">
+                <div class="s-i-info">
+                  <p class="slider-item-text">"САЛЮТ" <br> мороженое щербет <br> апельсин <br> в соковом покрытии</p>
+                  <p class="slider-item-text s-i-border"> 80г &frasl; 24шт &frasl; 1,92кг</p>
+                </div>
+              </div>
+              <div class="slider-item">
+                <img class="slider-item-photo" src="images/salut/salut2.png" alt="photo">
+                <div class="s-i-info">
+                  <p class="slider-item-text">"САЛЮТ" <br> мороженое щербет <br> клубника <br> в соковом покрытии</p>
+                  <p class="slider-item-text s-i-border"> 80г &frasl; 24шт &frasl; 1,92кг</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="brend-item">
+          <a href="#popup8" class="galery-link">
+            <img src="images/brand-logo7.png" alt="logo">
+          </a>
+          <div class="popup mfp-hide" id="popup8">
+            <div class="mfp-slider">
+              <div class="slider-item">
+                <img class="slider-item-photo" src="images/melona/melona.png" alt="photo">
+                <div class="s-i-info">
+                  <p class="slider-item-text">"MELONA" <br> мороженое<br> 6% жира <br>co вкусом дыни </p>
+                  <p class="slider-item-text s-i-border"> 75г &frasl; 42шт &frasl; 3,15кг</p>
+                </div>
+              </div>
+              <!-- <div class="slider-item">
+                <img class="slider-item-photo" src="images/melona/melona.png" alt="photo">
+                <div class="s-i-info">
+                  <p class="slider-item-text">"MELONA" <br> мороженое<br> 6% жира <br>co вкусом дыни </p>
+                  <p class="slider-item-text s-i-border"> 75г &frasl; 42шт &frasl; 3,15кг</p>
+                </div>
+              </div> -->
+            </div>
+          </div>
+        </div>
+
+        <div class="brend-item">
+          <a href="#popup9" class="galery-link">
+            <img src="images/brand-logo9.png" alt="logo">
+          </a>
+          <div class="popup mfp-hide" id="popup9">
+            <div class="mfp-slider">
+              <div class="slider-item">
+                <img class="slider-item-photo" src="images/fruktik/fruktik.png" alt="photo">
+                <div class="s-i-info">
+                  <p class="slider-item-text">"ФРУКТИК" <br> мороженое клубника<br> плодово-ягодное <br>на палочке</p>
+                  <p class="slider-item-text s-i-border"> 80г &frasl; 28шт &frasl; 2,24кг</p>
+                </div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+
+      </div>
     </div>
   </div>
+
 
 
   <!-- end .content -->
