@@ -1,99 +1,106 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 
 <html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="ru-RU">
+
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="description" content="Хладопром мороженое" />
-<meta name="distribution" content="Global" />
-<meta name="rating" content="General" />
-<meta name="content-Language" content="russian" />
-<meta name="resourse-type" content="document" />
-<meta name="audience" content="all" />
-<meta name="robots" content="index,all" />
-<meta name="home_url" content="http://http://khladoprom.com.ua" />
-<title>Khladoprom - Production</title>
-<link href="mdv.css" rel="stylesheet" type="text/css" />
-<script type="text/javascript" src="scripts/jquery-1.5.1.min.js"></script>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="description" content="Хладопром мороженое" />
+  <meta name="viewport" content="width = device-width, initial-scale = 1.0">
+  <meta name="distribution" content="Global" />
+  <meta name="rating" content="General" />
+  <meta name="content-Language" content="russian" />
+  <meta name="resourse-type" content="document" />
+  <meta name="audience" content="all" />
+  <meta name="robots" content="index,all" />
+  <meta name="home_url" content="http://http://khladoprom.com.ua" />
+  <link href="http://khladoprom.com.ua/favicon.ico" type="image/x-icon">
+  <link rel="shortcut icon" href="http://khladoprom.com.ua/favicon.ico" type="image/x-icon">
+
+  <title>ICE CREAM FACTORY</title>
+  <link rel="stylesheet" type="text/css" href="slick/slick.css" />
+  <link rel="stylesheet" type="text/css" href="slick/slick-theme.css" />
+  <link href="mdv.css" rel="stylesheet" type="text/css" />
 </head>
 
 <body>
-<div class="container">
   <div class="header">
     <div class="topline3"></div>
-    <div class="topline4">
-      <div class="topline4in"> 
-        <a href="index-eng.php"><img src="images/logo.jpg" width="101" height="108" style="margin-left: 9px; float: left;" /></a>
-      	<a href="about-eng.php"><div class="mainmenuitem"><p class="mainmenuitemtext" style="margin-left: 26px;">Company</p></div></a>
-        <a href="history-eng.php"><div class="mainmenuitem"><p class="mainmenuitemtext" style="margin-left: 24px;">History</p></div></a>
-        <a href="quality-eng.php"><div class="mainmenuitem"><p class="mainmenuitemtext" style="margin-left: 24px;">Quality</p></div></a>
-        <a href="produce-eng.php"><div class="mainmenuitem"><p class="mainmenuitemtext" style="margin-left: 26px;">Product groups</p></div></a>
-        <div class="mainmenuitemsel"><p class="mainmenuitemtext" style="margin-left: 28px;">Production</p></div>
-        <a href="label-eng.php"><div class="mainmenuitem"><p class="mainmenuitemtext" style="margin-left: 26px;">Private Label</p></div></a> 
-        <a href="contacts-eng.php"><div class="mainmenuitem"><p class="mainmenuitemtext" style="margin-left: 24px;">Contacts</p></div></a> 
-	  </div>
+    <div class="topline4"></div>
+    <div class="container">
+      <div class="topline4in">
+        <a href="index-eng.php">
+          <img src="images/khladoprom-logo.png" class="nav-logo">
+        </a>
+        <nav class="main-nav ">
+          <ul class="nav-items">
+            <li class="item-nav btn-ice selected"><a href="about-eng.php" class="nav-btn-text btn-text">company</a></li>
+            <li class="item-nav btn-ice"><a href="history-eng.php" class="nav-btn-text btn-text">history</a></li>
+            <li class="item-nav btn-ice"><a href="quality-eng.php" class="nav-btn-text btn-text">quality</a></li>
+            <li class="item-nav btn-ice"><a href="produce-eng.php" class="nav-btn-text btn-text">produce</a></li>
+            <li class="item-nav  btn-ice"><a href="label-eng.php" class="nav-btn-text btn-text">Private label</a></li>
+            <li class="item-nav btn-ice"><a href="contacts-eng.php" class="nav-btn-text btn-text">contacts</a></li>
+          </ul>
+        </nav>
+
+      </div>
+    </div>
+    <div class="grayline"></div>
+  </div>
+  <!-- end .header -->
+
+
+  <div class="content">
+    <div class="container">
+      <h1 class="about-title ">KHLADOPROM ICE CREAM FACTORY</h1>
+      <div class="cont-wrap">
+        <ul class="list">
+          <li class="list-item">One of the biggest ice cream producer in Ukraine</li>
+          <li class="list-item">The most modern equipment, placed in Kharkiv</li>
+          <li class="list-item">Continuous technological development and quality improvement</li>
+          <li class="list-item">Provides delivery on Ukraine. Exports to USA</li>
+
+        </ul>
+
+        <div class="slider">
+          <div class="sl">
+            <div class="sl-slide"><img src="images/comp1.jpg" alt="slide picture1" class="sl_img"></div>
+            <div class="sl-slide"><img src="images/comp2.jpg" alt="slide picture2" class="sl_img"></div>
+            <div class="sl-slide"><img src="images/comp3.jpg" alt="slide picture3" class="sl_img"></div>
+            <div class="sl-slide"><img src="images/comp4.jpg" alt="slide picture4" class="sl_img"></div>
+            <div class="sl-slide"><img src="images/comp5.jpg" alt="slide picture5" class="sl_img"></div>
+            <div class="sl-slide"><img src="images/comp6.jpg" alt="slide picture6" class="sl_img"></div>
+            <div class="sl-slide"><img src="images/comp7.jpg" alt="slide picture7" class="sl_img"></div>
+            <div class="sl-slide"><img src="images/comp8.jpg" alt="slide picture8" class="sl_img"></div>
+            <div class="sl-slide"><img src="images/comp9.jpg" alt="slide picture9" class="sl_img"></div>
+            <div class="sl-slide"><img src="images/comp10.jpg" alt="slide picture10" class="sl_img"></div>
+          </div>
+        </div>
+        <ul class="list list-right">
+          <li class="list-item">Production capacity of the enterprise is 150 tons of products manufactured on 9 lines</li>
+
+          <li class="list-item">Ice cream factory in Smela (Cherkasy region) with capacity of 150 ton a day.</li>
+          <li class="list-item">Innovation leader certified by international standards</li>
+        </ul>
+      </div>
     </div>
   </div>
-  <div class="grayline"></div>
-</div>
-<!-- end .header -->
+  <!-- end .content -->
 
-<div class="content" style="width: 1024px; height: 700px;";>
-  <div class="title">
-    <p class="titletext">PRODUCTION</p>
+
+  <div class="footer">
+    <div class="grayline"></div>
+    <div class="grayline" style="margin-top: 10px;"></div>
+    <div class="footercopy"><span class="pcopyright">Copyright Khladoprom &copy; 2012 www.khladoprom.com.ua</span></div>
+    <div class="topline1"></div>
   </div>
-  
-  <p class="contenttext" style="margin-top: 26px; line-height: 1.3;"> 
+  <!-- end .footer -->
 
-KHLADOPROM ICE CREAM FACTORY:
-<br><br>
-•	is a Top Ukrainian ice cream manufacturer;<br><br>
-•	has modern production facilities in Kharkiv (Ukraine);<br><br>
-•	has the capacity of 150 tons of ice cream per day on 9 production lines;<br><br>
-•	delivers delicious ice cream to Ukrainian and US consumers;<br><br>
-•	enjoys extensive experience and traditions of high quality;<br><br>
-•	combines food safety and innovations; <br><br>
-•	operates following the continuous improvement process.<br>
-
-
-  </p>
-
-  
-
-  <div class="delimiter"><img src="images/delimiter.jpg" width="1006" height="105" /></div>
-  <div class="photo" style="margin-top: 4px; margin-left: 156px;"> <img style="margin-left: 12px;" src="images/manufphoto07.jpg" width="302" height="208" />
-    <p class="phototext" style="margin-left: 12px;">Waffle cups production</p>
   </div>
-  <div class="photo" style="margin-top: 4px; margin-left: 76px;"> <img style="margin-left: 12px;" src="images/manufphoto08.jpg" width="300" height="208" />
-    <p class="phototext" style="margin-left: 12px;">Cones line</p>
-  </div>
-</div>
-<!-- end .content -->
-
-</p>
-</div>
-<div class="footer">
-  <div class="grayline"></div>
-  <div class="grayline" style="margin-top: 10px;"></div>
-  <div class="footergreen"></div>
-  <div class="bottommenu">
-    <p class="pbmenu">
-    	<a href="index-eng.php" class="abotmenu">Main</a> | 
-        <a href="about-eng.php" class="abotmenu">Company</a> | 
-        <a href="history-eng.php" class="abotmenu">History</a> | 
-        <a href="quality-eng.php" class="abotmenu">Quality</a> | 
-        <a href="produce-eng.php" class="abotmenu">Product groups</a> | 
-        <a href="manufacture-eng.php" class="abotmenu">Production</a> | 
-        <a href="label-eng.php" class="abotmenu">Private Label</a> | 
-        <a href="contacts-eng.php" class="abotmenu">Contacts</a>
-    </p>
-  </div>
-  <div class="footercopy"><span class="pcopyright">Copyright Khladoprom &copy; 2012 www.khladoprom.com.ua</span></div>
-  <div class="topline1"></div>
-</div>
-<!-- end .footer -->
-
-</div>
-<!-- end .container -->
-
+  <!-- end .container -->
+  <script type="text/javascript" src="scripts/jquery-3.4.1.min.js"></script>
+  <script type="text/javascript" src="slick/slick.js"></script>
+  <script type="text/javascript" src="scripts/magnific.js"></script>
+  <script type="text/javascript" src="scripts/brilook.js"></script>
 </body>
+
 </html>
