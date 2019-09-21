@@ -11,8 +11,14 @@
   <meta name="resourse-type" content="document" />
   <meta name="audience" content="all" />
   <meta name="robots" content="index,all" />
+  <meta name="viewport" content="width = device-width, initial-scale = 1.0">
   <meta name="home_url" content="http://http://khladoprom.com.ua" />
+  <link href="http://khladoprom.com.ua/favicon.ico" type="image/x-icon">
+  <link rel="shortcut icon" href="http://khladoprom.com.ua/favicon.ico" type="image/x-icon">
+
   <title>Khladoprom</title>
+  <link rel="stylesheet" type="text/css" href="slick/slick.css" />
+  <link rel="stylesheet" type="text/css" href="slick/slick-theme.css" />
   <link href="mdv.css" rel="stylesheet" type="text/css" />
 </head>
 
@@ -25,67 +31,67 @@
   </div>
   <!-- end .header -->
 
-  <div class="content-main content" style="width: 1024px; height: 466px;" ;>
-    <div class="container">
-      <div class="content_left" style="width: 239px; height: 461px; float: left;">
-        <details>
-            <summary style="background: url(images/us.png) 0 0 no-repeat;">Eng</summary>
-            <a style="background:url(images/ru.png) 0 0 no-repeat;" href="http://khladoprom/public_html/index.php">Ru</a>
+  <div class="container">
+    <div class="content-main">
+      <div class="content_left">
+        <details class="language">
+          <summary class="lg-choice">Eng</summary>
+          <a class="lg-main choice" href="http://khladoprom/public_html/index.php">Ru</a>
         </details>
+
+
       </div>
 
       <div class="content_right">
-
-        <div class="btn-ice">
-          <a href="about-eng.php" class="btn-text">company</a>
-        </div>
-        <div class="btn-ice">
-          <a href="history.php" class="btn-text">history</a>
-        </div>
-        <div class="btn-ice">
-          <a href="quality.php" class="btn-text">Quality</a>
-        </div>
-        <div class="btn-ice">
-          <a href="produce.php" class="btn-text">Products</a>
-        </div>
-        <div class="btn-ice">
-          <a href="manufacture.php" class="btn-text">manufacture</a>
-        </div>
-        <div class="btn-ice">
-          <a href="label.php" class="btn-text">Private label</a>
-        </div>
-        <div class="btn-ice">
-          <a href="contacts.php" class="btn-text">Contacts</a>
-        </div>
+        <ul>
+          <li class="btn-ice"><a href="about-eng.php" class="btn-text">company</a></li>
+          <li class="btn-ice"><a href="history-eng.php" class="btn-text">history</a></li>
+          <li class="btn-ice"><a href="quality-eng.php" class="btn-text">quality</a></li>
+          <li class="btn-ice"><a href="produce-eng.php" class="btn-text">produce</a></li>
+          <li class="btn-ice"><a href="label-eng.php" class="btn-text">Private label</a></li>
+          <li class="btn-ice"><a href="contacts-eng.php" class="btn-text">contacts</a></li>
+        </ul>
+        <!-- <div class="btn-ice">
+                    <a href="about.php" class="btn-text">o компании</a>
+                </div>
+                <div class="btn-ice">
+                    <a href="history.php" class="btn-text">История</a>
+                </div>
+                <div class="btn-ice">
+                    <a href="quality.php" class="btn-text">Качество</a>
+                </div>
+                <div class="btn-ice">
+                    <a href="produce.php" class="btn-text">Продукция</a>
+                </div>
+                <div class="btn-ice">
+                    <a href="manufacture.php" class="btn-text">Производство</a>
+                </div>
+                <div class="btn-ice">
+                    <a href="label.php" class="btn-text">Private label</a>
+                </div>
+                <div class="btn-ice">
+                    <a href="contacts.php" class="btn-text">Контакты</a>
+                </div> -->
       </div>
+      <h1 class="main-title">Expert in ice-cream production</h1>
     </div>
-  </div>
-  
 
+  </div>
   <!-- end .content -->
 
 
   <div class="footer">
-    <div style="width:100%; height: 46px; text-align:center; color:#2e3192; margin-top: 15px;">
-
-      <!--<p style="font-size:1.9em; font-weight:bold; font-family:'Arial Black', Gadget, sans-serif; margin-top: 25px;">ЭКСПЕРТ&nbsp;&nbsp;В&nbsp;&nbsp;ПРОИЗВОДСТВЕ&nbsp;&nbsp;МОРОЖЕНОГО</p>-->
-
-      <!-- <img src="images/main-new-logo-text.jpg" height="46" width="821"  /> </div> -->
-      <h1 class="main-title">Expert in ice-cream production</h1>
+    <div>
       <div class="grayline" style="margin-top: 25px;"></div>
       <div class="grayline" style="margin-top: 10px;"></div>
-      <!-- <div class="footergreen"></div> -->
-      <!-- <div class="bottommenu">
-    <p class="pbmenu"> <a href="index.php" class="abotmenu">Главная</a> | <a href="about.php" class="abotmenu">О компании</a> | <a href="history.php" class="abotmenu">История</a> | <a href="quality.php" class="abotmenu">Качество</a> | <a href="produce.php" class="abotmenu">Продукция</a> | <a href="manufacture.php" class="abotmenu">Производство</a> | <a href="label.php" class="abotmenu">Private Label</a> | <a href="contacts.php" class="abotmenu">Контакты</a> </p>
-  </div> -->
-      <div class="footercopy"><span class="pcopyright">Copyright Khladoprom &copy; 2012 www.khladoprom.com.ua</span>
+      <div class="footercopy"><span class="pcopyright">Copyright Khladoprom &copy; 2012
+          www.khladoprom.com.ua</span>
       </div>
       <div class="topline1"></div>
     </div>
-    <!-- end .footer -->
-
   </div>
-
+  </div>
+  <!-- end .footer -->
 
 
 
@@ -95,6 +101,7 @@
 
   <script type="text/javascript" src="scripts/jquery-3.4.1.min.js"></script>
   <script type="text/javascript" src="slick/slick.js"></script>
+  <script type="text/javascript" src="scripts/magnific.js"></script>
   <script type="text/javascript" src="scripts/brilook.js"></script>
 
 </body>

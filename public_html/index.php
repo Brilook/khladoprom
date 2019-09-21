@@ -34,22 +34,9 @@
     <div class="container">
         <div class="content-main">
             <div class="content_left">
-                <!-- <select class="leng-plase" name="" id="input0" required="required"
-                    style="background-image:url(images/ru.png);"
-                    onchange="window.location.href=this.options[this.selectedIndex].value">>
-                    <option class="leng" style="background-image:url(images/ru.png);"
-                        value="http://khladoprom/public_html/index.php">ru
-                    </option>
-                    <option class="leng" style="background-image:url(images/us.png);"
-                        value="http://khladoprom/public_html/index-eng.php">eng
-                    </option>
-                    <option class="leng" style="background-image:url(images/ua.png);"
-                        value="http://khladoprom/public_html/index-ua.php">ua
-                    </option>
-                </select> -->
                 <details class="language">
                     <summary class="lg-main"> Ru</summary>
-                    <a class="lg-choice" href="http://khladoprom/public_html/index-eng.php">Eng</a>
+                    <a class="lg-choice  choice" href="http://khladoprom/public_html/index-eng.php">Eng</a>
                 </details>
 
             </div>

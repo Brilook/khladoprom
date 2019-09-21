@@ -520,14 +520,20 @@ a:focus {
   background-size: contain;
   padding-left: 33px;
   outline: none;
-  height: 18px;
+  /* height: 18px; */
 }
 
 .lg-choice {
   background: url(images/us.png) 0 0 no-repeat;
   background-size: contain;
   padding-left: 33px;
+  outline: none;
+}
+.choice {
   color: #00baf2;
+  background-size: contain;
+  padding-left: 40px;
+  outline: none;
 }
 
 details summary::-webkit-details-marker {
@@ -686,7 +692,7 @@ button {
 
 /* --------------------slide-------------------------------------- */
 .sl {
-  width: 500px;
+  max-width: 500px;
   margin: -5px auto 20px;
 }
 
@@ -695,7 +701,7 @@ button {
 }
 .slick-list {
   height: 200px;
-  width: 450px;
+  max-width: 450px;
   margin: 0 auto;
 }
 
@@ -718,7 +724,7 @@ button {
   background-position: 3px 0;
   background-size: contain;
   height: auto;
-  right: -30px;
+  /* right: -30px; */
   z-index: 999999;
 }
 
@@ -728,7 +734,7 @@ button {
   background-size: contain;
   height: auto;
   background-position: 9px 0;
-  left: -30px;
+  /* left: -30px; */
   z-index: 999999;
 }
 .slider-item-text {
@@ -946,13 +952,6 @@ button {
   max-width: 220px;
 }
 
-/* .popup img {
-  height: 500px;
-  margin: 0 auto;
-  display: block;
-  padding-top: 100px;
-} */
-
 .slider-item {
   position: relative;
   text-align: center;
@@ -968,6 +967,12 @@ button {
 .mfp-slider {
   width: max-content;
   margin: auto;
+}
+.mfp-slider > .slick-next {
+  right: -50px;
+}
+.mfp-slider > .slick-prev {
+  left: -50px;
 }
 
 /* ---------------magnific------------- */
@@ -1519,9 +1524,9 @@ img.mfp-img {
   .cont-wrap {
     padding: 30px 0;
   }
-  .slider {
+  /* .slider {
     overflow: hidden;
-  }
+  } */
   /* -----------label------------- */
   .label-text p {
     padding: 30px 0;
@@ -1630,7 +1635,7 @@ img.mfp-img {
     padding: 10px 20px;
   }
   /* ----------------about---------- */
-  .slider {
+  /* .slider {
     order: 0;
     overflow: hidden;
     width: 100%;
@@ -1647,6 +1652,16 @@ img.mfp-img {
   }
   .sl {
     width: 480px;
+  } */
+  /* .sl > .slick-list {
+    width: 280px;
+  }
+  .sl {
+    width: 280px;
+    margin: 0 auto;
+  } */
+  .sl > .slick-dots > li {
+    margin: 0 4px;
   }
   /* --------------label----------- */
   .about-title {
