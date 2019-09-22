@@ -36,7 +36,7 @@
             <li class="item-nav btn-ice"><a href="about-eng.php" class="nav-btn-text btn-text">company</a></li>
             <li class="item-nav btn-ice selected"><a href="history-eng.php" class="nav-btn-text btn-text">history</a></li>
             <li class="item-nav btn-ice"><a href="quality-eng.php" class="nav-btn-text btn-text">quality</a></li>
-            <li class="item-nav btn-ice"><a href="produce-eng.php" class="nav-btn-text btn-text">produce</a></li>
+            <li class="item-nav btn-ice"><a href="produce-eng.php" class="nav-btn-text btn-text">brands</a></li>
             <li class="item-nav  btn-ice"><a href="label-eng.php" class="nav-btn-text btn-text">Private label</a></li>
             <li class="item-nav btn-ice"><a href="contacts-eng.php" class="nav-btn-text btn-text">contacts</a></li>
           </ul>
@@ -60,7 +60,7 @@
             <img class="foto_style" src="./images/hisphoto1.png" alt="">
           </div>
           <div class="item-text"><span> 1932 </span>
-            <p>The year of company foundation. Start of ice cream production</p>
+            <p>The year of company foundation.The start of ice cream production.</p>
           </div>
         </div>
 
@@ -77,7 +77,7 @@
             <img class="foto_style" src="./images/hisphoto3.png" alt="">
           </div>
           <div class="item-text"><span> 2001</span>
-            <p> Certified 9001</p>
+            <p> Certified 9001.</p>
           </div>
         </div>
         <div class="item">
@@ -85,7 +85,7 @@
             <img class="foto_style" src="./images/hisphoto4.png" alt="">
           </div>
           <div class="item-text"><span> 2009 </span>
-            <p>Inglo Line waffle cup installation</p>
+            <p>Inglo Line waffle cup installation.</p>
           </div>
         </div>
         <div class="item">
@@ -93,7 +93,7 @@
             <img class="foto_style" src="./images/hisphoto5.png" alt="">
           </div>
           <div class="item-text"><span> 2011 </span>
-            <p> New mixture preparation equipment installation</p>
+            <p> New mixture preparation equipment installation.</p>
           </div>
         </div>
         <div class="item">

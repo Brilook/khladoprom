@@ -110,7 +110,7 @@
                 <img class="slider-item-photo" src="images/present/ice-4.png" alt="photo">
                 <div class="s-i-info">
                   <p class="slider-item-text">"ХРЕЩАТИК" <br> мороженое пломбир ягодное<br>в вафельном стаканчике</p>
-                  <p class="slider-item-text s-i-border"> 100г &frasl; 16шт &frasl; 1,6кг</p>
+                  <p class="slider-item-text s-i-border"> 80г &frasl; 16шт &frasl; 1,28кг</p>
                 </div>
               </div>
               <div class="slider-item">
@@ -144,7 +144,7 @@
               <div class="slider-item">
                 <img class="slider-item-photo" src="images/present/ice-8.png" alt="photo">
                 <div class="s-i-info">
-                  <p class="slider-item-text">"ХРЕЩАТИК" <br>15% жира <br> мороженое пломбир ягодное<br>в вафельном рожке "ХРЕЩАТИК КИЕВСКИЙ ТОРТ"</p>
+                  <p class="slider-item-text">"ХРЕЩАТИК" <br>15% жира <br> мороженое пломбир c лесным орехом<br>в вафельном рожке "ХРЕЩАТИК КИЕВСКИЙ ТОРТ"</p>
                   <p class="slider-item-text s-i-border"> 140г &frasl; 12шт &frasl; 1,68кг</p>
                 </div>
               </div>
@@ -256,6 +256,22 @@
           <div class="popup mfp-hide" id="popup3">
             <div class="mfp-slider">
               <div class="slider-item">
+                <img class="slider-item-photo" src="images/hladik/hladik3.png" alt=" photo">
+                <div class="s-i-info">
+                  <p class="slider-item-text">ПЛОМБИР<br> мороженое пломбир <br> 12% жира <br> в вафельном стаканчике</p>
+                  <p class="slider-item-text s-i-border">70г &frasl; 24шт &frasl; 1,68кг</p>
+                </div>
+
+              </div>
+              <div class="slider-item">
+                <img class="slider-item-photo" src="images/hladik/hladik4.png" alt=" photo">
+                <div class="s-i-info">
+                  <p class="slider-item-text">ПЛОМБИР <br> мороженое шоколадное <br> 12% жира <br> в вафельном стаканчике</p>
+                  <p class="slider-item-text s-i-border">70г &frasl; 24шт &frasl; 1,68кг</p>
+                </div>
+
+              </div>
+              <div class="slider-item">
                 <img class="slider-item-photo" src="images/hladik/hladik0.png" alt="photo">
                 <div class="s-i-info">
                   <p class="slider-item-text"> ПЛОМБИР <br> мороженое крем-брюле <br> 12% жира <br> в вафельном стаканчике</p>
@@ -277,24 +293,9 @@
                   <p class="slider-item-text">ПЛОМБИР<br> мороженое пломбир со вкусом фисташки<br> 12% жира <br> в вафельном стаканчике</p>
                   <p class="slider-item-text s-i-border"> 70г &frasl; 24шт &frasl; 1,68кг</p>
                 </div>
-
               </div>
-              <div class="slider-item">
-                <img class="slider-item-photo" src="images/hladik/hladik3.png" alt=" photo">
-                <div class="s-i-info">
-                  <p class="slider-item-text">ПЛОМБИР<br> мороженое пломбир <br> 12% жира <br> в вафельном стаканчике</p>
-                  <p class="slider-item-text s-i-border">70г &frasl; 24шт &frasl; 1,68кг</p>
-                </div>
 
-              </div>
-              <div class="slider-item">
-                <img class="slider-item-photo" src="images/hladik/hladik4.png" alt=" photo">
-                <div class="s-i-info">
-                  <p class="slider-item-text">ПЛОМБИР <br> мороженое шоколадное <br> 12% жира <br> в вафельном стаканчике</p>
-                  <p class="slider-item-text s-i-border">70г &frasl; 24шт &frasl; 1,68кг</p>
-                </div>
 
-              </div>
               <div class="slider-item">
                 <img class="slider-item-photo" src="images/hladik/hladik5.png" alt=" photo">
                 <div class="s-i-info">
@@ -420,30 +421,33 @@
           <div class="popup mfp-hide" id="popup5">
             <div class="mfp-slider">
               <div class="slider-item">
-                <img class="slider-item-photo" src="images/vivat/vivat1.png" alt="photo">
+                <img class="slider-item-photo" src="images/vivat/vivat3.png" alt="photo">
                 <div class="s-i-info">
-                  <p class="slider-item-text">"ВИВАТ" <br> мороженое с наполнителем <br> "Вишня" <br> в вафельном рожке</p>
-                  <p class="slider-item-text s-i-border"> 80г &frasl; 18шт &frasl; 1,44кг</p>
+                  <p class="slider-item-text">"ВИВАТ" <br> мороженое с наполнителем<br> "Клубника" <br> в вафельном рожке</p>
+                  <p class="slider-item-text s-i-border"> 140 г &frasl; 12 шт &frasl; 1,68 кг</p>
                 </div>
               </div>
               <div class="slider-item">
                 <img class="slider-item-photo" src="images/vivat/vivat2.png" alt="photo">
                 <div class="s-i-info">
                   <p class="slider-item-text">"ВИВАТ" <br>мороженое с наполнителем <br> "Шоколад" <br> в вафельном рожке</p>
-                  <p class="slider-item-text s-i-border"> 80г &frasl; 18шт &frasl; 1,44кг</p>
-                </div>
-              </div>
-              <div class="slider-item">
-                <img class="slider-item-photo" src="images/vivat/vivat3.png" alt="photo">
-                <div class="s-i-info">
-                  <p class="slider-item-text">"ВИВАТ" <br> мороженое с наполнителем<br> "Клубника" <br> в вафельном рожке</p>
-                  <p class="slider-item-text s-i-border"> 80г &frasl; 18шт &frasl; 1,44кг</p>
+                  <p class="slider-item-text s-i-border"> 140 г &frasl; 12 шт &frasl; 1,68 кг</p>
                 </div>
               </div>
               <div class="slider-item">
                 <img class="slider-item-photo" src="images/vivat/vivat4.png" alt="photo">
                 <div class="s-i-info">
                   <p class="slider-item-text">"ВИВАТ" <br> мороженое с наполнителем<br> "Чёрная смородина" <br> в вафельном рожке</p>
+                  <p class="slider-item-text s-i-border"> 140 г &frasl; 12 шт &frasl; 1,68 кг</p>
+                </div>
+              </div>
+
+
+
+              <div class="slider-item">
+                <img class="slider-item-photo" src="images/vivat/vivat1.png" alt="photo">
+                <div class="s-i-info">
+                  <p class="slider-item-text">"ВИВАТ" <br> мороженое с наполнителем <br> "Вишня" <br> в вафельном рожке</p>
                   <p class="slider-item-text s-i-border"> 80г &frasl; 18шт &frasl; 1,44кг</p>
                 </div>
               </div>
@@ -510,7 +514,7 @@
               <div class="slider-item">
                 <img class="slider-item-photo" src="images/turbo/Turbo6.png" alt="photo">
                 <div class="s-i-info">
-                  <p class="slider-item-text">"ТУРБО" <br> мороженое <br>с наполнителем "Ананас" <br> 10% жира <br> в кондитерской глазури</p>
+                  <p class="slider-item-text">"ТУРБО" <br> мороженое <br>с наполнителем "Ананас" <br> 10% жира <br> в белой кондитерской глазури</p>
                   <p class="slider-item-text s-i-border"> 70г &frasl; 28шт &frasl; 1,96кг</p>
                 </div>
               </div>

@@ -36,7 +36,7 @@
             <li class="item-nav btn-ice selected"><a href="about-eng.php" class="nav-btn-text btn-text">company</a></li>
             <li class="item-nav btn-ice"><a href="history-eng.php" class="nav-btn-text btn-text">history</a></li>
             <li class="item-nav btn-ice"><a href="quality-eng.php" class="nav-btn-text btn-text">quality</a></li>
-            <li class="item-nav btn-ice"><a href="produce-eng.php" class="nav-btn-text btn-text">produce</a></li>
+            <li class="item-nav btn-ice"><a href="produce-eng.php" class="nav-btn-text btn-text">brands</a></li>
             <li class="item-nav  btn-ice"><a href="label-eng.php" class="nav-btn-text btn-text">Private label</a></li>
             <li class="item-nav btn-ice"><a href="contacts-eng.php" class="nav-btn-text btn-text">contacts</a></li>
           </ul>
@@ -78,7 +78,7 @@
         <ul class="list list-right">
           <li class="list-item">Production capacity of the enterprise is 150 tons of products manufactured on 9 lines</li>
 
-          <li class="list-item">Ice cream factory in Smela (Cherkasy region) with capacity of 150 ton a day.</li>
+          <li class="list-item">Ice cream factory in Smela (Cherkasy region) with capacity of 150 tons a day.</li>
           <li class="list-item">Innovation leader certified by international standards</li>
         </ul>
       </div>

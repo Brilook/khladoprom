@@ -46,7 +46,7 @@
                     <li class="btn-ice"><a href="about.php" class="btn-text">o компании</a></li>
                     <li class="btn-ice"><a href="history.php" class="btn-text">История</a></li>
                     <li class="btn-ice"><a href="quality.php" class="btn-text">Качество</a></li>
-                    <li class="btn-ice"><a href="produce.php" class="btn-text">Продукция</a></li>
+                    <li class="btn-ice"><a href="produce.php" class="btn-text">Бренды</a></li>
                     <li class="btn-ice"><a href="label.php" class="btn-text">Private label</a></li>
                     <li class="btn-ice"><a href="contacts.php" class="btn-text">Контакты</a></li>
                 </ul>

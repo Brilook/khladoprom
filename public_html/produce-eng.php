@@ -90,7 +90,7 @@
                 <img class="slider-item-photo" src="images/present/ice-4.png" alt="photo">
                 <div class="s-i-info">
                   <p class="slider-item-text">"KHRESCHATYK" <br> non-dairy berry sorbet<br>waffle cup</p>
-                  <p class="slider-item-text s-i-border"> 100 g &frasl; 16 pcs &frasl; 1,6 kg </p>
+                  <p class="slider-item-text s-i-border"> 80 g &frasl; 16 pcs &frasl; 1,28 kg </p>
                 </div>
               </div>
               <div class="slider-item">
@@ -124,7 +124,7 @@
               <div class="slider-item">
                 <img class="slider-item-photo" src="images/present/ice-8.png" alt="photo">
                 <div class="s-i-info">
-                  <p class="slider-item-text">"KHRESCHATYK" <br>15% of fat <br> non-dairy berry sorbet<br>waffle cone "KHRESCHATYK KIEV CAKE"</p>
+                  <p class="slider-item-text">"KHRESCHATYK" <br>15% of fat <br>ice cream with hazel nuts<br>waffle cone "KHRESCHATYK KIEV CAKE"</p>
                   <p class="slider-item-text s-i-border"> 140 g &frasl; 12 pcs &frasl; 1,68 kg </p>
                 </div>
               </div>
@@ -236,30 +236,6 @@
           <div class="popup mfp-hide" id="popup3">
             <div class="mfp-slider">
               <div class="slider-item">
-                <img class="slider-item-photo" src="images/hladik/hladik0.png" alt="photo">
-                <div class="s-i-info">
-                  <p class="slider-item-text"> "PLOMBIR" <br> ice cream creme brulee <br> 12% of fat <br>waffle cup</p>
-                  <p class="slider-item-text s-i-border"> 70 g &frasl; 24 pcs &frasl; 1,68 kg </p>
-                </div>
-
-              </div>
-              <div class="slider-item">
-                <img class="slider-item-photo" src="images/hladik/hladik1.png" alt=" photo">
-                <div class="s-i-info">
-                  <p class="slider-item-text">"PLOMBIR"<br> ice cream (plombir) <br>мороженое 12% of fat <br>с клубничным наполнителемwaffle cup</p>
-                  <p class="slider-item-text s-i-border"> 70 g &frasl; 24 pcs &frasl; 1,68 kg </p>
-                </div>
-
-              </div>
-              <div class="slider-item">
-                <img class="slider-item-photo" src="images/hladik/hladik2.png" alt=" photo">
-                <div class="s-i-info">
-                  <p class="slider-item-text">"PLOMBIR"<br> мороженое пломбир со вкусом фисташки<br> 12% of fat <br>waffle cup</p>
-                  <p class="slider-item-text s-i-border"> 70 g &frasl; 24 pcs &frasl; 1,68 kg </p>
-                </div>
-
-              </div>
-              <div class="slider-item">
                 <img class="slider-item-photo" src="images/hladik/hladik3.png" alt=" photo">
                 <div class="s-i-info">
                   <p class="slider-item-text">"PLOMBIR"<br> ice cream (plombir) <br> 12% of fat <br>waffle cup</p>
@@ -270,12 +246,38 @@
               <div class="slider-item">
                 <img class="slider-item-photo" src="images/hladik/hladik4.png" alt=" photo">
                 <div class="s-i-info">
-                  <p class="slider-item-text">"PLOMBIR" <br> мороженое шоколадное <br> 12% of fat <br>waffle cup</p>
+                  <p class="slider-item-text">"PLOMBIR" <br> chocolate ice cream<br> 12% of fat <br>waffle cup</p>
                   <p class="slider-item-text s-i-border">70 g &frasl; 24 pcs &frasl; 1,68 kg </p>
+                </div>
+              </div>
+
+              <div class="slider-item">
+                <img class="slider-item-photo" src="images/hladik/hladik0.png" alt="photo">
+                <div class="s-i-info">
+                  <p class="slider-item-text"> "PLOMBIR" <br> ice cream creme brulee <br> 12% of fat <br>waffle cup</p>
+                  <p class="slider-item-text s-i-border"> 70 g &frasl; 24 pcs &frasl; 1,68 kg </p>
                 </div>
 
               </div>
               <div class="slider-item">
+                <img class="slider-item-photo" src="images/hladik/hladik1.png" alt=" photo">
+                <div class="s-i-info">
+                  <p class="slider-item-text">"PLOMBIR"<br> ice cream (plombir) <br> 12% of fat <br>with strawberry filler <br> waffle cup</p>
+                  <p class="slider-item-text s-i-border"> 70 g &frasl; 24 pcs &frasl; 1,68 kg </p>
+                </div>
+
+              </div>
+              <div class="slider-item">
+                <img class="slider-item-photo" src="images/hladik/hladik2.png" alt=" photo">
+                <div class="s-i-info">
+                  <p class="slider-item-text">"PLOMBIR"<br>ice cream (plombir) <br> with pistachios taste <br> 12% of fat <br>waffle cup</p>
+                  <p class="slider-item-text s-i-border"> 70 g &frasl; 24 pcs &frasl; 1,68 kg </p>
+                </div>
+              </div>
+
+
+              <div class="slider-item">
+
                 <img class="slider-item-photo" src="images/hladik/hladik5.png" alt=" photo">
                 <div class="s-i-info">
                   <p class="slider-item-text">"Belochka (squirrel)" <br> Chocolate ice cream on stick<br> chocolate glaze</p>
@@ -323,7 +325,7 @@
 
               </div>
               <div class="slider-item">
-                <img class="slider-item-photo" src="images/hladik/hladik11.png" alt=" photo">
+                <img class="slider-item-photo" src="images/hladik/hladik12.png" alt=" photo">
                 <div class="s-i-info">
                   <p class="slider-item-text">""PLOMBIR" 19" <br> ice cream (plombir) <br> 19% of fat <br> cylinder</p>
                   <p class="slider-item-text s-i-border"> 500 g &frasl; 8 pcs &frasl; 4,0 kg </p>
@@ -331,7 +333,7 @@
 
               </div>
               <div class="slider-item">
-                <img class="slider-item-photo" src="images/hladik/hladik12.png" alt=" photo">
+                <img class="slider-item-photo" src="images/hladik/hladik11.png" alt=" photo">
                 <div class="s-i-info">
                   <p class="slider-item-text">""PLOMBIR" 19" <br> ice cream (plombir) <br> 19% of fat <br> cylinder</p>
                   <p class="slider-item-text s-i-border"> 1000 g &frasl; 4 pcs &frasl; 4,0 kg </p>
@@ -341,7 +343,7 @@
               <div class="slider-item">
                 <img class="slider-item-photo" src="images/hladik/hladik13.png" alt=" photo">
                 <div class="s-i-info">
-                  <p class="slider-item-text">""PLOMBIR" 19" <br> ice cream (plombir) <br> 19% of fat <br>package</p>
+                  <p class="slider-item-text">""PLOMBIR" 19" <br> ice cream (plombir) <br> 19% of fat <br>plastic pack</p>
                   <p class="slider-item-text s-i-border"> 1000 g &frasl; 6 pcs &frasl; 6,0 kg </p>
                 </div>
 
@@ -371,21 +373,21 @@
               <div class="slider-item">
                 <img class="slider-item-photo" src="images/snegovik/Snegovik1.png" alt="photo">
                 <div class="s-i-info">
-                  <p class="slider-item-text">"SNEGOVIK" <br>snegovikberry sorbet <br>waffle cup</p>
+                  <p class="slider-item-text">"SNEGOVIK"<br>(SNOWMAN) <br>berry sorbet <br>waffle cup</p>
                   <p class="slider-item-text s-i-border"> 80 g &frasl; 30 pcs &frasl; 2,4 kg </p>
                 </div>
               </div>
               <div class="slider-item">
                 <img class="slider-item-photo" src="images/snegovik/Snegovik2.png" alt="photo">
                 <div class="s-i-info">
-                  <p class="slider-item-text">"SNEGOVIK" <br>snegovikberry sorbet in glaze<br> on stick</p>
+                  <p class="slider-item-text">"SNEGOVIK"<br>(SNOWMAN) <br>berry sorbet in glaze<br> on stick</p>
                   <p class="slider-item-text s-i-border"> 80 g &frasl; 28 pcs &frasl; 2,24 kg </p>
                 </div>
               </div>
               <div class="slider-item">
                 <img class="slider-item-photo" src="images/snegovik/Snegovik3.png" alt="photo">
                 <div class="s-i-info">
-                  <p class="slider-item-text">"SNEGOVIK" <br>snegovikberry sorbet in chocolat glaze<br> chocolate glaze <br> on stick</p>
+                  <p class="slider-item-text">"SNEGOVIK"<br>(SNOWMAN) <br>berry sorbet in chocolat glaze <br> on stick</p>
                   <p class="slider-item-text s-i-border"> 80 g &frasl; 28 pcs &frasl; 2,24 kg </p>
                 </div>
               </div>
@@ -400,30 +402,33 @@
           <div class="popup mfp-hide" id="popup5">
             <div class="mfp-slider">
               <div class="slider-item">
-                <img class="slider-item-photo" src="images/vivat/vivat1.png" alt="photo">
+                <img class="slider-item-photo" src="images/vivat/vivat3.png" alt="photo">
                 <div class="s-i-info">
-                  <p class="slider-item-text">"VIVAT" <br> ice cream with cherry filler <br> waffle cone</p>
-                  <p class="slider-item-text s-i-border"> 80 g &frasl; 18 pcs &frasl; 1,44 kg </p>
+                  <p class="slider-item-text">"VIVAT" <br> ice cream with strawberry filler<br> waffle cone</p>
+                  <p class="slider-item-text s-i-border"> 140 g &frasl; 12 pcs &frasl; 1,68 kg </p>
                 </div>
               </div>
               <div class="slider-item">
                 <img class="slider-item-photo" src="images/vivat/vivat2.png" alt="photo">
                 <div class="s-i-info">
                   <p class="slider-item-text">"VIVAT" <br>ice cream with chocolate filler <br> waffle cone</p>
-                  <p class="slider-item-text s-i-border"> 80 g &frasl; 18 pcs &frasl; 1,44 kg </p>
-                </div>
-              </div>
-              <div class="slider-item">
-                <img class="slider-item-photo" src="images/vivat/vivat3.png" alt="photo">
-                <div class="s-i-info">
-                  <p class="slider-item-text">"VIVAT" <br> ice cream with cherry filler<br> waffle cone</p>
-                  <p class="slider-item-text s-i-border"> 80 g &frasl; 18 pcs &frasl; 1,44 kg </p>
+                  <p class="slider-item-text s-i-border"> 140 g &frasl; 12 pcs &frasl; 1,68 kg </p>
                 </div>
               </div>
               <div class="slider-item">
                 <img class="slider-item-photo" src="images/vivat/vivat4.png" alt="photo">
                 <div class="s-i-info">
-                  <p class="slider-item-text">"VIVAT" <br> ice сream with blackcurrant filler<br> waffle cone</p>
+                  <p class="slider-item-text">"VIVAT" <br> ice сream with black currant filler<br> waffle cone</p>
+                  <p class="slider-item-text s-i-border"> 140 g &frasl; 12 pcs &frasl; 1,68 kg </p>
+                </div>
+              </div>
+
+
+
+              <div class="slider-item">
+                <img class="slider-item-photo" src="images/vivat/vivat1.png" alt="photo">
+                <div class="s-i-info">
+                  <p class="slider-item-text">"VIVAT" <br> ice cream with cherry filler <br> waffle cone</p>
                   <p class="slider-item-text s-i-border"> 80 g &frasl; 18 pcs &frasl; 1,44 kg </p>
                 </div>
               </div>
@@ -490,7 +495,7 @@
               <div class="slider-item">
                 <img class="slider-item-photo" src="images/turbo/Turbo6.png" alt="photo">
                 <div class="s-i-info">
-                  <p class="slider-item-text">"TURBO" <br> ice cream <br> with filler "Pineapple" <br> 10% of fat <br> chocolate glaze</p>
+                  <p class="slider-item-text">"TURBO" <br> ice cream <br> with filler "Pineapple" <br> 10% of fat <br>white chocolate glaze</p>
                   <p class="slider-item-text s-i-border"> 70 g &frasl; 28 pcs &frasl; 1,96 kg </p>
                 </div>
               </div>

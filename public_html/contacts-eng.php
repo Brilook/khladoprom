@@ -36,7 +36,7 @@
             <li class="item-nav btn-ice "><a href="about-eng.php" class="nav-btn-text btn-text">company</a></li>
             <li class="item-nav btn-ice"><a href="history-eng.php" class="nav-btn-text btn-text">history</a></li>
             <li class="item-nav btn-ice "><a href="quality-eng.php" class="nav-btn-text btn-text">quality</a></li>
-            <li class="item-nav btn-ice"><a href="produce-eng.php" class="nav-btn-text btn-text">produce</a></li>
+            <li class="item-nav btn-ice"><a href="produce-eng.php" class="nav-btn-text btn-text">brands</a></li>
             <li class="item-nav  btn-ice "><a href="label-eng.php" class="nav-btn-text btn-text">Private label</a></li>
             <li class="item-nav btn-ice"><a href="contacts-eng.php" class="nav-btn-text btn-text">contacts</a></li>
           </ul>

@@ -36,7 +36,7 @@
             <li class="item-nav btn-ice "><a href="about-eng.php" class="nav-btn-text btn-text">company</a></li>
             <li class="item-nav btn-ice"><a href="history-eng.php" class="nav-btn-text btn-text">history</a></li>
             <li class="item-nav btn-ice selected"><a href="quality-eng.php" class="nav-btn-text btn-text">quality</a></li>
-            <li class="item-nav btn-ice"><a href="produce-eng.php" class="nav-btn-text btn-text">produce</a></li>
+            <li class="item-nav btn-ice"><a href="produce-eng.php" class="nav-btn-text btn-text">brands</a></li>
             <li class="item-nav  btn-ice"><a href="label-eng.php" class="nav-btn-text btn-text">Private label</a></li>
             <li class="item-nav btn-ice"><a href="contacts-eng.php" class="nav-btn-text btn-text">contacts</a></li>
           </ul>
@@ -83,8 +83,8 @@
 
         <div class="column">
           <ul class="right-list">
-            <li class="l-col-item-text l-col-item-text-eng ">IFS International Foods Standarts. IFS food v5 certificate.</li>
-            <li class="l-col-item-text l-col-item-text-eng ">IFS International Food Standart. IFS v6 hagh level.</li>
+            <li class="l-col-item-text l-col-item-text-eng ">IFS International Food Standard. IFS food v5 certificate.</li>
+            <li class="l-col-item-text l-col-item-text-eng ">IFS International Food Standard. IFS v6 high level.</li>
             <li class="l-col-item-text l-col-item-text-eng ">QUALITY Certificate ISO 9001.</li>
             <li class="l-col-item-text l-col-item-text-eng ">QUALITY Food Safety Certificate ISO 22000 HACCP.</li>
             <li class="l-col-item-text l-col-item-text-eng ">QUALITY Food Safety Certificate FSSC 22000</li>

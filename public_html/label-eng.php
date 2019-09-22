@@ -36,7 +36,7 @@
             <li class="item-nav btn-ice "><a href="about-eng.php" class="nav-btn-text btn-text">company</a></li>
             <li class="item-nav btn-ice"><a href="history-eng.php" class="nav-btn-text btn-text">history</a></li>
             <li class="item-nav btn-ice "><a href="quality-eng.php" class="nav-btn-text btn-text">quality</a></li>
-            <li class="item-nav btn-ice"><a href="produce-eng.php" class="nav-btn-text btn-text">produce</a></li>
+            <li class="item-nav btn-ice"><a href="produce-eng.php" class="nav-btn-text btn-text">brands</a></li>
             <li class="item-nav  btn-ice "><a href="label-eng.php" class="nav-btn-text btn-text">Private label</a></li>
             <li class="item-nav btn-ice"><a href="contacts-eng.php" class="nav-btn-text btn-text">contacts</a></li>
           </ul>
@@ -53,7 +53,7 @@
       <!-- <div class="label-foto">
         <img src="images/label1.png" alt="label1">
       </div> -->
-      <h1 class="about-title ">Ukrainian ice cream <br> by <br> internationale quality</h1>
+      <h1 class="about-title ">Ukrainian ice cream <br> by <br> international quality</h1>
       <div class="item-text label-text">
         <p>KHLADOPROM ICE CREAM FACTORY <br> - is your reliable partner in the development of your products.</p>
         <p>We focus on the quality of products and their compliance with the European IFS Food standard.</p>
