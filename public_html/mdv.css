@@ -1034,10 +1034,13 @@ button {
   display: inline-block;
   vertical-align: middle;
   margin: 0 auto;
-  text-align: left;
+  text-align: center;
   z-index: 1045;
 }
-
+.mfp-content .popup{
+  display: inline-block;
+  position: relative;
+}
 .mfp-inline-holder .mfp-content,
 .mfp-ajax-holder .mfp-content {
   width: 100%;
