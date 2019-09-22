@@ -127,7 +127,7 @@ a:focus { */
   height: 108px;
   margin: 0 auto;
   display: flex;
-  /* box-sizing: border-box; */
+  box-sizing: border-box;
 
   /* the auto value on the sides, coupled with the width, centers the layout */
 }
@@ -724,7 +724,7 @@ button {
   background-position: 3px 0;
   background-size: contain;
   height: auto;
-  /* right: -30px; */
+  right: -50px;
   z-index: 999999;
 }
 
@@ -734,7 +734,7 @@ button {
   background-size: contain;
   height: auto;
   background-position: 9px 0;
-  /* left: -30px; */
+  left: -50px;
   z-index: 999999;
 }
 .slider-item-text {
@@ -963,7 +963,8 @@ button {
 }
 
 .slider-item-photo {
-  height: 400px;
+  max-width: 450px;
+  max-height: 350px;
   margin: 0 auto;
   display: block;
   padding-top: 100px;
@@ -1482,7 +1483,7 @@ img.mfp-img {
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .main-title {
     font-size: 25px;
   }

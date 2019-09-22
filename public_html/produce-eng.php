@@ -278,7 +278,7 @@
               <div class="slider-item">
                 <img class="slider-item-photo" src="images/hladik/hladik5.png" alt=" photo">
                 <div class="s-i-info">
-                  <p class="slider-item-text">"БЕЛОЧКА" <br> мороженое эскимо шоколадное<br> chocolate glaze</p>
+                  <p class="slider-item-text">"Belochka (squirrel)" <br> Chocolate ice cream on stick<br> chocolate glaze</p>
                   <p class="slider-item-text s-i-border"> 70 g &frasl; 30 pcs &frasl; 2,1 kg </p>
                 </div>
               </div>
@@ -286,14 +286,14 @@
               <div class="slider-item">
                 <img class="slider-item-photo" src="images/hladik/hladik6.png" alt=" photo">
                 <div class="s-i-info">
-                  <p class="slider-item-text">Мороженое лёд <br> со вкусом "КОЛЫ"<br></p>
+                  <p class="slider-item-text">Frozen ice dessert <br> with the taste of "COLA"<br></p>
                   <p class="slider-item-text s-i-border"> 80 g &frasl; 30 pcs &frasl; 2.4 kg </p>
                 </div>
               </div>
               <div class="slider-item">
                 <img class="slider-item-photo" src="images/hladik/hladik7.png" alt=" photo">
                 <div class="s-i-info">
-                  <p class="slider-item-text">Мороженое лёд <br>"ТРОПИК"<br></p>
+                  <p class="slider-item-text">Frozen ice dessert <br>"TROPIC"<br></p>
                   <p class="slider-item-text s-i-border"> 80 g &frasl; 30 pcs &frasl; 2.4 kg </p>
                 </div>
               </div>
@@ -402,7 +402,7 @@
               <div class="slider-item">
                 <img class="slider-item-photo" src="images/vivat/vivat1.png" alt="photo">
                 <div class="s-i-info">
-                  <p class="slider-item-text">"VIVAT" <br> Ice Cream with cherry filler <br> waffle cone</p>
+                  <p class="slider-item-text">"VIVAT" <br> ice cream with cherry filler <br> waffle cone</p>
                   <p class="slider-item-text s-i-border"> 80 g &frasl; 18 pcs &frasl; 1,44 kg </p>
                 </div>
               </div>
@@ -423,7 +423,7 @@
               <div class="slider-item">
                 <img class="slider-item-photo" src="images/vivat/vivat4.png" alt="photo">
                 <div class="s-i-info">
-                  <p class="slider-item-text">"VIVAT" <br> ice Cream with blackcurrant filler<br> waffle cone</p>
+                  <p class="slider-item-text">"VIVAT" <br> ice сream with blackcurrant filler<br> waffle cone</p>
                   <p class="slider-item-text s-i-border"> 80 g &frasl; 18 pcs &frasl; 1,44 kg </p>
                 </div>
               </div>
