@@ -917,7 +917,7 @@ button {
 .contacts-logo img {
   width: 55%;
   min-width: 300px;
-  height: auto;
+  height: 100%;
 }
 
 .contacts {
